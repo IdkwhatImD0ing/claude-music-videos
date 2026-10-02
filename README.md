@@ -5,6 +5,8 @@ night: Clawd as a vinyl toy, a wooden peg-doll researcher, a brass P(doom) gauge
 single paperclip by the laptop that ends up as the whole planet. Every model, rig, animation, simulation and frame
 comes from the Python scripts in this repository, rendered with Blender 5.2's EEVEE.
 
+**Watch it on YouTube:** https://www.youtube.com/watch?v=Hu3Gupp-wKc
+
 The video was made with Claude (Opus 5.5) in Claude Code: the treatment, the pipeline, the puppets, all 18 scenes,
 the QA passes and the renders were done by Claude agents (a lead agent owning the shared libraries, one agent per
 scene), directed in conversation. The final 4K 60 fps render ran on rented RTX 5090s.
