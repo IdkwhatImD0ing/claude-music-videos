@@ -1,0 +1,7 @@
+# renders, builds and caches
+out/
+# CC0 textures and HDRIs (python tools/fetch_assets.py)
+assets/
+__pycache__/
+*.pyc
+*.blend1
