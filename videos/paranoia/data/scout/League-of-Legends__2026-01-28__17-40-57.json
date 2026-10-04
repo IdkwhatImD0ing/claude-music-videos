@@ -1,0 +1,25 @@
+{
+ "file": "League-of-Legends__2026-01-28__17-40-57.mp4",
+ "chain": [
+  52.14,
+  54.14,
+  54.14
+ ],
+ "kills": [
+  {
+   "marker": 52.14,
+   "banner_t": 52.1667,
+   "banner_diff": 25.91
+  },
+  {
+   "marker": 54.14,
+   "banner_t": 54.2667,
+   "banner_diff": 24.27
+  },
+  {
+   "marker": 54.14,
+   "banner_t": 54.2667,
+   "banner_diff": 24.27
+  }
+ ]
+}

@@ -1,0 +1,3052 @@
+{
+ "source_db": "C:/ProgramData/SteelSeries/GG/apps/moments/db/database.db",
+ "clips_indexed": 807,
+ "excluded_used": 0,
+ "candidates": [
+  {
+   "clip_id": "1aa2a85e-16e3-463f-9cc4-c3dbd3056089",
+   "file": "League-of-Legends__2026-02-20__01-11-57.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-02-20__01-11-57.mp4",
+   "start": "2026-02-20T01:11:57",
+   "session": "719de091-c481-471f-b15b-7e8b6156dac7",
+   "length": 58.2,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     46.7,
+     48.7,
+     50.7,
+     51.7,
+     53.7
+    ],
+    "assists": [],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    46.7,
+    48.7,
+    50.7,
+    51.7,
+    53.7
+   ],
+   "chain_size": 5,
+   "chain_span": 7.0,
+   "lead": 46.7,
+   "tail": 4.5,
+   "score": 266,
+   "used": false
+  },
+  {
+   "clip_id": "21712200-3dd1-4594-b2f2-c27721b7f50f",
+   "file": "League-of-Legends__2026-02-22__20-45-40.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-02-22__20-45-40.mp4",
+   "start": "2026-02-22T20:45:40",
+   "session": "3aee21f2-2364-442d-8826-a9f32345e96a",
+   "length": 58.116,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     4.41,
+     7.41,
+     14.41,
+     20.41,
+     24.41,
+     48.41,
+     51.41,
+     53.41
+    ],
+    "assists": [],
+    "deaths": [
+     56.41
+    ],
+    "objectives": []
+   },
+   "chain": [
+    4.41,
+    7.41,
+    14.41,
+    20.41,
+    24.41
+   ],
+   "chain_size": 5,
+   "chain_span": 20.0,
+   "lead": 4.41,
+   "tail": 33.706,
+   "score": 264,
+   "used": false,
+   "duplicates": [
+    "League-of-Legends__2026-02-22__20-45-09.mp4",
+    "League-of-Legends__2026-02-22__20-45-03.mp4",
+    "League-of-Legends__2026-02-22__20-44-56.mp4"
+   ]
+  },
+  {
+   "clip_id": "3d462eb4-5fac-4d1d-bae3-8548d6cfbaeb",
+   "file": "League-of-Legends__2026-02-09__02-46-29.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-02-09__02-46-29.mp4",
+   "start": "2026-02-09T02:46:29",
+   "session": "457a4dc0-d59a-4fc1-b3f2-0672e904e6fe",
+   "length": 59.533,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     37.654,
+     44.654,
+     47.654,
+     48.654,
+     53.654
+    ],
+    "assists": [],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    37.654,
+    44.654,
+    47.654,
+    48.654,
+    53.654
+   ],
+   "chain_size": 5,
+   "chain_span": 16.0,
+   "lead": 37.654,
+   "tail": 5.879,
+   "score": 260,
+   "used": false,
+   "duplicates": [
+    "League-of-Legends__2026-02-09__02-46-20.mp4"
+   ]
+  },
+  {
+   "clip_id": "65bbbc45-9a5d-4374-a4ad-d86b0c7d4944",
+   "file": "League-of-Legends__2026-02-22__20-50-45.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-02-22__20-50-45.mp4",
+   "start": "2026-02-22T20:50:45",
+   "session": "3aee21f2-2364-442d-8826-a9f32345e96a",
+   "length": 59.0,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     32.244,
+     36.244,
+     42.244,
+     52.244,
+     54.244
+    ],
+    "assists": [],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    32.244,
+    36.244,
+    42.244,
+    52.244,
+    54.244
+   ],
+   "chain_size": 5,
+   "chain_span": 22.0,
+   "lead": 32.244,
+   "tail": 4.756,
+   "score": 260,
+   "used": false,
+   "duplicates": [
+    "League-of-Legends__2026-02-22__20-50-35.mp4",
+    "League-of-Legends__2026-02-22__20-50-29.mp4"
+   ]
+  },
+  {
+   "clip_id": "bc61e83c-0d1b-470f-be0c-72819e8d0951",
+   "file": "League-of-Legends__2026-09-29__22-41-54.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-09-29__22-41-54.mp4",
+   "start": "2026-09-29T22:41:54",
+   "session": "57736bc3-3ae1-44bc-a544-0939cfe4027f",
+   "length": 59.6,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     33.594,
+     38.594,
+     43.594,
+     46.594,
+     46.594
+    ],
+    "assists": [],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    33.594,
+    38.594,
+    43.594,
+    46.594,
+    46.594
+   ],
+   "chain_size": 5,
+   "chain_span": 13.0,
+   "lead": 33.594,
+   "tail": 13.006,
+   "score": 260,
+   "used": false
+  },
+  {
+   "clip_id": "e1af6d26-ad05-494f-80d3-8533423105ed",
+   "file": "League-of-Legends__2026-02-19__23-00-32.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-02-19__23-00-32.mp4",
+   "start": "2026-02-19T23:00:32",
+   "session": "0a1c2d47-0769-4c46-9ed4-e28ae3b99935",
+   "length": 59.9,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     32.544,
+     39.544,
+     45.544,
+     48.544,
+     53.544
+    ],
+    "assists": [
+     12.544
+    ],
+    "deaths": [
+     55.544
+    ],
+    "objectives": []
+   },
+   "chain": [
+    32.544,
+    39.544,
+    45.544,
+    48.544,
+    53.544
+   ],
+   "chain_size": 5,
+   "chain_span": 21.0,
+   "lead": 32.544,
+   "tail": 6.356,
+   "score": 258,
+   "used": false
+  },
+  {
+   "clip_id": "c687163b-bf8a-4f5d-85eb-0fb2bfe33b6d",
+   "file": "League-of-Legends__2026-02-19__23-12-48.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-02-19__23-12-48.mp4",
+   "start": "2026-02-19T23:12:48",
+   "session": "0a1c2d47-0769-4c46-9ed4-e28ae3b99935",
+   "length": 58.6,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     36.127,
+     41.127,
+     43.127,
+     45.127,
+     54.127
+    ],
+    "assists": [],
+    "deaths": [
+     55.127
+    ],
+    "objectives": []
+   },
+   "chain": [
+    36.127,
+    41.127,
+    43.127,
+    45.127,
+    54.127
+   ],
+   "chain_size": 5,
+   "chain_span": 18.0,
+   "lead": 36.127,
+   "tail": 4.473,
+   "score": 258,
+   "used": false,
+   "duplicates": [
+    "League-of-Legends__2026-02-19__23-12-35.mp4"
+   ]
+  },
+  {
+   "clip_id": "a9e16426-399f-4599-9a6f-fe0172116514",
+   "file": "League-of-Legends__2026-07-19__18-42-55.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-07-19__18-42-55.mp4",
+   "start": "2026-07-19T18:42:55",
+   "session": "096bf517-b4f4-4c6c-8871-f3d57ff85fc5",
+   "length": 59.283,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     26.924,
+     31.924,
+     37.924,
+     40.924,
+     49.924
+    ],
+    "assists": [],
+    "deaths": [
+     43.924
+    ],
+    "objectives": []
+   },
+   "chain": [
+    26.924,
+    31.924,
+    37.924,
+    40.924,
+    49.924
+   ],
+   "chain_size": 5,
+   "chain_span": 23.0,
+   "lead": 26.924,
+   "tail": 9.359,
+   "score": 258,
+   "used": false
+  },
+  {
+   "clip_id": "df1a5cc6-edde-4c49-adeb-926fcb3f05f9",
+   "file": "League-of-Legends__2026-04-06__01-08-50.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-04-06__01-08-50.mp4",
+   "start": "2026-04-06T01:08:50",
+   "session": "7f6ea964-de77-4cd3-9b1f-bb2b8dfadac7",
+   "length": 60.016,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [
+    "DRAGON-KILL"
+   ],
+   "events": {
+    "kills": [
+     48.473,
+     51.473,
+     52.473,
+     55.473
+    ],
+    "assists": [],
+    "deaths": [],
+    "objectives": [
+     24.473
+    ]
+   },
+   "chain": [
+    48.473,
+    51.473,
+    52.473,
+    55.473
+   ],
+   "chain_size": 4,
+   "chain_span": 7.0,
+   "lead": 48.473,
+   "tail": 4.543,
+   "score": 189,
+   "used": false
+  },
+  {
+   "clip_id": "f8221cfa-f665-4cdb-b954-737b209c9073",
+   "file": "League-of-Legends__2026-02-22__20-48-45.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-02-22__20-48-45.mp4",
+   "start": "2026-02-22T20:48:45",
+   "session": "3aee21f2-2364-442d-8826-a9f32345e96a",
+   "length": 59.75,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     1.994,
+     3.994,
+     4.994,
+     6.994,
+     47.994,
+     50.994,
+     54.994
+    ],
+    "assists": [],
+    "deaths": [
+     55.994
+    ],
+    "objectives": []
+   },
+   "chain": [
+    1.994,
+    3.994,
+    4.994,
+    6.994
+   ],
+   "chain_size": 4,
+   "chain_span": 5.0,
+   "lead": 1.994,
+   "tail": 52.756,
+   "score": 178,
+   "used": false,
+   "duplicates": [
+    "League-of-Legends__2026-02-22__20-47-58.mp4"
+   ]
+  },
+  {
+   "clip_id": "fbf2f585-4491-4ecf-9c97-79add8c49c3c",
+   "file": "League-of-Legends__2026-02-25__01-06-32.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-02-25__01-06-32.mp4",
+   "start": "2026-02-25T01:06:32",
+   "session": "10635d11-9ed7-42ed-8dfe-840893337575",
+   "length": 59.983,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     47.788,
+     50.788,
+     51.788,
+     54.788
+    ],
+    "assists": [],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    47.788,
+    50.788,
+    51.788,
+    54.788
+   ],
+   "chain_size": 4,
+   "chain_span": 7.0,
+   "lead": 47.788,
+   "tail": 5.195,
+   "score": 174,
+   "used": false
+  },
+  {
+   "clip_id": "3bfd18e1-571f-41df-9d28-79afd0a61f0a",
+   "file": "League-of-Legends__2026-03-03__00-04-24.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-03-03__00-04-24.mp4",
+   "start": "2026-03-03T00:04:24",
+   "session": "6f9a23d4-0539-4c55-9eac-80ff5e1403ea",
+   "length": 60.083,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     48.943,
+     50.943,
+     53.943,
+     54.943
+    ],
+    "assists": [
+     45.943
+    ],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    48.943,
+    50.943,
+    53.943,
+    54.943
+   ],
+   "chain_size": 4,
+   "chain_span": 6.0,
+   "lead": 48.943,
+   "tail": 5.14,
+   "score": 174,
+   "used": false
+  },
+  {
+   "clip_id": "83a510cd-cea8-4fa5-ac1c-8918884692e6",
+   "file": "League-of-Legends__2026-04-07__21-21-36.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-04-07__21-21-36.mp4",
+   "start": "2026-04-07T21:21:36",
+   "session": "a9ef8392-903c-4c2b-918d-483660b5a9d8",
+   "length": 59.25,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     46.51,
+     50.51,
+     52.51,
+     54.51
+    ],
+    "assists": [
+     52.51
+    ],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    46.51,
+    50.51,
+    52.51,
+    54.51
+   ],
+   "chain_size": 4,
+   "chain_span": 8.0,
+   "lead": 46.51,
+   "tail": 4.74,
+   "score": 174,
+   "used": false
+  },
+  {
+   "clip_id": "33eaf2ca-dd66-42a0-8cc0-8dad8517d716",
+   "file": "League-of-Legends__2026-07-20__00-19-26.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-07-20__00-19-26.mp4",
+   "start": "2026-07-20T00:19:26",
+   "session": "59ec5fe4-d8de-402e-a6a5-81d69041175f",
+   "length": 58.233,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     18.228,
+     41.228,
+     42.228,
+     43.228,
+     44.228
+    ],
+    "assists": [],
+    "deaths": [
+     54.228
+    ],
+    "objectives": []
+   },
+   "chain": [
+    41.228,
+    42.228,
+    43.228,
+    44.228
+   ],
+   "chain_size": 4,
+   "chain_span": 3.0,
+   "lead": 41.228,
+   "tail": 14.005,
+   "score": 174,
+   "used": false
+  },
+  {
+   "clip_id": "30085aca-d2aa-4921-a391-7a309ffb73d7",
+   "file": "League-of-Legends__2026-01-10__02-53-11.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-01-10__02-53-11.mp4",
+   "start": "2026-01-10T02:53:11",
+   "session": "4954c3f6-1b2d-47b9-a33c-1732ba88fcdc",
+   "length": 59.0,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     47.632,
+     51.632,
+     51.632,
+     54.632
+    ],
+    "assists": [],
+    "deaths": [
+     54.632
+    ],
+    "objectives": []
+   },
+   "chain": [
+    47.632,
+    51.632,
+    51.632,
+    54.632
+   ],
+   "chain_size": 4,
+   "chain_span": 7.0,
+   "lead": 47.632,
+   "tail": 4.368,
+   "score": 172,
+   "used": false
+  },
+  {
+   "clip_id": "6821b79d-8f55-4328-a3a9-431bd0231e79",
+   "file": "League-of-Legends__2026-01-11__03-54-09.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-01-11__03-54-09.mp4",
+   "start": "2026-01-11T03:54:09",
+   "session": "2b030439-26b3-4c21-810a-7bacf78438dc",
+   "length": 58.516,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     46.524,
+     50.524,
+     51.524,
+     53.524
+    ],
+    "assists": [],
+    "deaths": [
+     0.524
+    ],
+    "objectives": []
+   },
+   "chain": [
+    46.524,
+    50.524,
+    51.524,
+    53.524
+   ],
+   "chain_size": 4,
+   "chain_span": 7.0,
+   "lead": 46.524,
+   "tail": 4.992,
+   "score": 172,
+   "used": false
+  },
+  {
+   "clip_id": "a02ad092-3ac8-411c-b04d-b4105af1f9ec",
+   "file": "League-of-Legends__2025-12-30__18-39-04.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2025-12-30__18-39-04.mp4",
+   "start": "2025-12-30T18:39:04",
+   "session": "64e08031-c089-42ab-9525-39fc624657c8",
+   "length": 58.616,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     23.323,
+     30.323,
+     33.323,
+     38.323,
+     54.323
+    ],
+    "assists": [],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    23.323,
+    30.323,
+    33.323,
+    38.323
+   ],
+   "chain_size": 4,
+   "chain_span": 15.0,
+   "lead": 23.323,
+   "tail": 20.293,
+   "score": 170,
+   "used": false,
+   "duplicates": [
+    "League-of-Legends__2025-12-30__18-38-48.mp4",
+    "League-of-Legends__2025-12-30__18-38-40.mp4"
+   ]
+  },
+  {
+   "clip_id": "fb9587f9-6c3f-4d41-8e0c-dac59662b959",
+   "file": "League-of-Legends__2026-01-29__02-48-55.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-01-29__02-48-55.mp4",
+   "start": "2026-01-29T02:48:55",
+   "session": "706aa5b6-0150-4f9f-9f8a-bba155dfb349",
+   "length": 58.7,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     19.925,
+     36.925,
+     43.925,
+     50.925,
+     53.925
+    ],
+    "assists": [
+     3.925
+    ],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    36.925,
+    43.925,
+    50.925,
+    53.925
+   ],
+   "chain_size": 4,
+   "chain_span": 17.0,
+   "lead": 36.925,
+   "tail": 4.775,
+   "score": 170,
+   "used": false
+  },
+  {
+   "clip_id": "9e437562-efb5-45a7-aa5a-6620caf0bdf6",
+   "file": "League-of-Legends__2026-02-20__01-08-10.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-02-20__01-08-10.mp4",
+   "start": "2026-02-20T01:08:10",
+   "session": "719de091-c481-471f-b15b-7e8b6156dac7",
+   "length": 59.55,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     31.033,
+     34.033,
+     38.033,
+     44.033,
+     55.033
+    ],
+    "assists": [],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    31.033,
+    34.033,
+    38.033,
+    44.033
+   ],
+   "chain_size": 4,
+   "chain_span": 13.0,
+   "lead": 31.033,
+   "tail": 15.517,
+   "score": 170,
+   "used": false,
+   "duplicates": [
+    "League-of-Legends__2026-02-20__01-07-59.mp4",
+    "League-of-Legends__2026-02-20__01-07-49.mp4"
+   ]
+  },
+  {
+   "clip_id": "93f0d3e2-1f17-438b-bebf-246821549641",
+   "file": "League-of-Legends__2026-02-26__14-08-36.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-02-26__14-08-36.mp4",
+   "start": "2026-02-26T14:08:36",
+   "session": "afa896c4-38ce-4687-93bf-ca12f8b0f888",
+   "length": 59.333,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     2.072,
+     46.072,
+     46.072,
+     53.072,
+     55.072
+    ],
+    "assists": [],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    46.072,
+    46.072,
+    53.072,
+    55.072
+   ],
+   "chain_size": 4,
+   "chain_span": 9.0,
+   "lead": 46.072,
+   "tail": 4.261,
+   "score": 170,
+   "used": false,
+   "duplicates": [
+    "League-of-Legends__2026-02-26__14-08-29.mp4"
+   ]
+  },
+  {
+   "clip_id": "829de1fa-fdb1-4e56-bec4-815ff5eb7c26",
+   "file": "League-of-Legends__2025-12-30__18-34-02.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2025-12-30__18-34-02.mp4",
+   "start": "2025-12-30T18:34:02",
+   "session": "64e08031-c089-42ab-9525-39fc624657c8",
+   "length": 58.916,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     41.406,
+     47.406,
+     48.406,
+     54.406
+    ],
+    "assists": [],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    41.406,
+    47.406,
+    48.406,
+    54.406
+   ],
+   "chain_size": 4,
+   "chain_span": 13.0,
+   "lead": 41.406,
+   "tail": 4.51,
+   "score": 168,
+   "used": false,
+   "duplicates": [
+    "League-of-Legends__2025-12-30__18-33-55.mp4"
+   ]
+  },
+  {
+   "clip_id": "9b90b4f4-2641-429a-b184-7b1f7ad43560",
+   "file": "League-of-Legends__2026-01-08__17-10-23.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-01-08__17-10-23.mp4",
+   "start": "2026-01-08T17:10:23",
+   "session": "e660112e-c026-41d0-8a8b-b902f292c21a",
+   "length": 58.95,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     41.043,
+     44.043,
+     48.043,
+     54.043
+    ],
+    "assists": [
+     30.043
+    ],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    41.043,
+    44.043,
+    48.043,
+    54.043
+   ],
+   "chain_size": 4,
+   "chain_span": 13.0,
+   "lead": 41.043,
+   "tail": 4.907,
+   "score": 168,
+   "used": false,
+   "duplicates": [
+    "League-of-Legends__2026-01-08__17-10-13.mp4"
+   ]
+  },
+  {
+   "clip_id": "1fad6c26-df95-4cfe-9314-c9bd732f7bfc",
+   "file": "League-of-Legends__2026-01-10__02-28-00.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-01-10__02-28-00.mp4",
+   "start": "2026-01-10T02:28:00",
+   "session": "7c44ff47-0a12-4550-a2b2-097ac57c52de",
+   "length": 58.85,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     34.526,
+     42.526,
+     45.526,
+     54.526
+    ],
+    "assists": [
+     45.526
+    ],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    34.526,
+    42.526,
+    45.526,
+    54.526
+   ],
+   "chain_size": 4,
+   "chain_span": 20.0,
+   "lead": 34.526,
+   "tail": 4.324,
+   "score": 168,
+   "used": false,
+   "duplicates": [
+    "League-of-Legends__2026-01-10__02-27-48.mp4"
+   ]
+  },
+  {
+   "clip_id": "78f2900f-0f89-4dc2-ab51-d1c6759802f3",
+   "file": "League-of-Legends__2026-01-10__18-59-52.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-01-10__18-59-52.mp4",
+   "start": "2026-01-10T18:59:52",
+   "session": "a11a1338-4c39-4082-9848-d2f5365496c8",
+   "length": 58.35,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     40.198,
+     46.198,
+     47.198,
+     53.198
+    ],
+    "assists": [],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    40.198,
+    46.198,
+    47.198,
+    53.198
+   ],
+   "chain_size": 4,
+   "chain_span": 13.0,
+   "lead": 40.198,
+   "tail": 5.152,
+   "score": 168,
+   "used": false,
+   "duplicates": [
+    "League-of-Legends__2026-01-10__18-59-45.mp4"
+   ]
+  },
+  {
+   "clip_id": "38c9d253-c7db-4e0e-9709-4bd34331430d",
+   "file": "League-of-Legends__2026-01-25__13-15-45.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-01-25__13-15-45.mp4",
+   "start": "2026-01-25T13:15:45",
+   "session": "b18628d9-ff4e-4224-9706-faac6d74a9db",
+   "length": 58.766,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     29.604,
+     36.604,
+     45.604,
+     53.604
+    ],
+    "assists": [
+     52.604
+    ],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    29.604,
+    36.604,
+    45.604,
+    53.604
+   ],
+   "chain_size": 4,
+   "chain_span": 24.0,
+   "lead": 29.604,
+   "tail": 5.162,
+   "score": 168,
+   "used": false,
+   "duplicates": [
+    "League-of-Legends__2026-01-25__13-15-37.mp4",
+    "League-of-Legends__2026-01-25__13-15-28.mp4"
+   ]
+  },
+  {
+   "clip_id": "5bfe9283-a34d-4702-b7a2-f76f6919fc52",
+   "file": "League-of-Legends__2026-01-28__02-15-34.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-01-28__02-15-34.mp4",
+   "start": "2026-01-28T02:15:34",
+   "session": "898e4ef9-0820-4e4d-a1e3-7eccf46517d7",
+   "length": 59.116,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     43.245,
+     47.245,
+     48.245,
+     54.245
+    ],
+    "assists": [
+     44.245
+    ],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    43.245,
+    47.245,
+    48.245,
+    54.245
+   ],
+   "chain_size": 4,
+   "chain_span": 11.0,
+   "lead": 43.245,
+   "tail": 4.871,
+   "score": 168,
+   "used": false,
+   "duplicates": [
+    "League-of-Legends__2026-01-28__02-15-27.mp4"
+   ]
+  },
+  {
+   "clip_id": "d2f8138a-c653-451a-818e-0a9596a58826",
+   "file": "League-of-Legends__2026-02-09__02-29-00.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-02-09__02-29-00.mp4",
+   "start": "2026-02-09T02:29:00",
+   "session": "457a4dc0-d59a-4fc1-b3f2-0672e904e6fe",
+   "length": 59.6,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     42.404,
+     47.404,
+     51.404,
+     54.404
+    ],
+    "assists": [],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    42.404,
+    47.404,
+    51.404,
+    54.404
+   ],
+   "chain_size": 4,
+   "chain_span": 12.0,
+   "lead": 42.404,
+   "tail": 5.196,
+   "score": 168,
+   "used": false
+  },
+  {
+   "clip_id": "4a145c72-9043-48a4-90cc-88c86392dfc6",
+   "file": "League-of-Legends__2026-02-10__01-08-00.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-02-10__01-08-00.mp4",
+   "start": "2026-02-10T01:08:00",
+   "session": "775b70a5-9568-4f20-8854-e2a58f0fd19a",
+   "length": 58.216,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     42.619,
+     47.619,
+     52.619,
+     53.619
+    ],
+    "assists": [],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    42.619,
+    47.619,
+    52.619,
+    53.619
+   ],
+   "chain_size": 4,
+   "chain_span": 11.0,
+   "lead": 42.619,
+   "tail": 4.597,
+   "score": 168,
+   "used": false
+  },
+  {
+   "clip_id": "66fd3d93-1873-4a0b-86e2-e850e0cff863",
+   "file": "League-of-Legends__2026-02-20__01-03-30.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-02-20__01-03-30.mp4",
+   "start": "2026-02-20T01:03:30",
+   "session": "719de091-c481-471f-b15b-7e8b6156dac7",
+   "length": 59.016,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     41.199,
+     45.199,
+     48.199,
+     54.199
+    ],
+    "assists": [
+     3.199,
+     45.199
+    ],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    41.199,
+    45.199,
+    48.199,
+    54.199
+   ],
+   "chain_size": 4,
+   "chain_span": 13.0,
+   "lead": 41.199,
+   "tail": 4.817,
+   "score": 168,
+   "used": false,
+   "duplicates": [
+    "League-of-Legends__2026-02-20__01-03-21.mp4"
+   ]
+  },
+  {
+   "clip_id": "f677cdbe-0385-4b80-b7e2-11895d67bca1",
+   "file": "League-of-Legends__2026-02-22__19-00-45.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-02-22__19-00-45.mp4",
+   "start": "2026-02-22T19:00:45",
+   "session": "c9de3167-67be-485c-84b2-70182c982abb",
+   "length": 59.033,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     38.927,
+     39.927,
+     48.927,
+     53.927
+    ],
+    "assists": [],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    38.927,
+    39.927,
+    48.927,
+    53.927
+   ],
+   "chain_size": 4,
+   "chain_span": 15.0,
+   "lead": 38.927,
+   "tail": 5.106,
+   "score": 168,
+   "used": false,
+   "duplicates": [
+    "League-of-Legends__2026-02-22__19-00-40.mp4",
+    "League-of-Legends__2026-02-22__19-00-31.mp4"
+   ]
+  },
+  {
+   "clip_id": "fea2f4a0-bbfc-479f-86ec-948151ebbbc3",
+   "file": "League-of-Legends__2026-02-22__19-06-43.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-02-22__19-06-43.mp4",
+   "start": "2026-02-22T19:06:43",
+   "session": "c9de3167-67be-485c-84b2-70182c982abb",
+   "length": 58.383,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     34.594,
+     43.594,
+     44.594,
+     53.594
+    ],
+    "assists": [],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    34.594,
+    43.594,
+    44.594,
+    53.594
+   ],
+   "chain_size": 4,
+   "chain_span": 19.0,
+   "lead": 34.594,
+   "tail": 4.789,
+   "score": 168,
+   "used": false,
+   "duplicates": [
+    "League-of-Legends__2026-02-22__19-06-33.mp4"
+   ]
+  },
+  {
+   "clip_id": "3d2c7d94-83f9-4ed2-b2da-0f3ec2b3d680",
+   "file": "League-of-Legends__2026-03-02__01-15-19.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-03-02__01-15-19.mp4",
+   "start": "2026-03-02T01:15:19",
+   "session": "7eba5879-9df9-430e-8fda-617488cfb8a9",
+   "length": 59.466,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     36.781,
+     42.781,
+     47.781,
+     54.781
+    ],
+    "assists": [
+     48.781
+    ],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    36.781,
+    42.781,
+    47.781,
+    54.781
+   ],
+   "chain_size": 4,
+   "chain_span": 18.0,
+   "lead": 36.781,
+   "tail": 4.685,
+   "score": 168,
+   "used": false,
+   "duplicates": [
+    "League-of-Legends__2026-03-02__01-15-07.mp4"
+   ]
+  },
+  {
+   "clip_id": "3b21eb81-22f6-41ef-8e51-730451180239",
+   "file": "League-of-Legends__2026-03-20__00-54-39.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-03-20__00-54-39.mp4",
+   "start": "2026-03-20T00:54:39",
+   "session": "cda2d779-f0cb-4bb6-a278-f32cfa55391a",
+   "length": 59.95,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     40.98,
+     42.98,
+     50.98,
+     54.98
+    ],
+    "assists": [
+     0.98,
+     46.98
+    ],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    40.98,
+    42.98,
+    50.98,
+    54.98
+   ],
+   "chain_size": 4,
+   "chain_span": 14.0,
+   "lead": 40.98,
+   "tail": 4.97,
+   "score": 168,
+   "used": false
+  },
+  {
+   "clip_id": "6c7b0d13-d0c1-49e5-b3e2-e7f1f9bed18d",
+   "file": "League-of-Legends__2026-07-20__02-14-08.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-07-20__02-14-08.mp4",
+   "start": "2026-07-20T02:14:08",
+   "session": "aae37bdb-108c-4404-a3d9-fa38ed6fcd55",
+   "length": 58.166,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     43.031,
+     46.031,
+     47.031,
+     52.031
+    ],
+    "assists": [
+     53.031
+    ],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    43.031,
+    46.031,
+    47.031,
+    52.031
+   ],
+   "chain_size": 4,
+   "chain_span": 9.0,
+   "lead": 43.031,
+   "tail": 6.135,
+   "score": 168,
+   "used": false
+  },
+  {
+   "clip_id": "d8132313-a022-4577-a26d-20d06558acb9",
+   "file": "League-of-Legends__2026-07-24__03-03-11.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-07-24__03-03-11.mp4",
+   "start": "2026-07-24T03:03:11",
+   "session": "8408367d-24a5-4a63-9ba3-ddb45fbf3379",
+   "length": 58.233,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     33.818,
+     42.818,
+     45.818,
+     51.818
+    ],
+    "assists": [],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    33.818,
+    42.818,
+    45.818,
+    51.818
+   ],
+   "chain_size": 4,
+   "chain_span": 18.0,
+   "lead": 33.818,
+   "tail": 6.415,
+   "score": 168,
+   "used": false
+  },
+  {
+   "clip_id": "c2a4aa2d-8016-4402-aa22-083bd9f0d19d",
+   "file": "League-of-Legends__2026-01-11__03-44-36.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-01-11__03-44-36.mp4",
+   "start": "2026-01-11T03:44:36",
+   "session": "2b030439-26b3-4c21-810a-7bacf78438dc",
+   "length": 59.233,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     43.275,
+     46.275,
+     50.275,
+     54.275
+    ],
+    "assists": [],
+    "deaths": [
+     12.275
+    ],
+    "objectives": []
+   },
+   "chain": [
+    43.275,
+    46.275,
+    50.275,
+    54.275
+   ],
+   "chain_size": 4,
+   "chain_span": 11.0,
+   "lead": 43.275,
+   "tail": 4.958,
+   "score": 166,
+   "used": false
+  },
+  {
+   "clip_id": "bbfcb58c-de79-46a6-8c94-6a8d75abf658",
+   "file": "League-of-Legends__2026-02-09__02-37-47.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-02-09__02-37-47.mp4",
+   "start": "2026-02-09T02:37:47",
+   "session": "457a4dc0-d59a-4fc1-b3f2-0672e904e6fe",
+   "length": 58.933,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     45.237,
+     46.237,
+     49.237,
+     54.237
+    ],
+    "assists": [],
+    "deaths": [
+     54.237
+    ],
+    "objectives": []
+   },
+   "chain": [
+    45.237,
+    46.237,
+    49.237,
+    54.237
+   ],
+   "chain_size": 4,
+   "chain_span": 9.0,
+   "lead": 45.237,
+   "tail": 4.696,
+   "score": 166,
+   "used": false
+  },
+  {
+   "clip_id": "dc61ff43-e585-487f-82ab-4b06376e2a6e",
+   "file": "League-of-Legends__2026-02-19__23-03-03.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-02-19__23-03-03.mp4",
+   "start": "2026-02-19T23:03:03",
+   "session": "0a1c2d47-0769-4c46-9ed4-e28ae3b99935",
+   "length": 58.766,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     42.293,
+     48.293,
+     50.293,
+     54.293
+    ],
+    "assists": [
+     44.293
+    ],
+    "deaths": [
+     12.293
+    ],
+    "objectives": []
+   },
+   "chain": [
+    42.293,
+    48.293,
+    50.293,
+    54.293
+   ],
+   "chain_size": 4,
+   "chain_span": 12.0,
+   "lead": 42.293,
+   "tail": 4.473,
+   "score": 166,
+   "used": false
+  },
+  {
+   "clip_id": "cbddb5a5-1c06-427a-ae5b-255db335271a",
+   "file": "League-of-Legends__2026-02-20__00-59-44.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-02-20__00-59-44.mp4",
+   "start": "2026-02-20T00:59:44",
+   "session": "719de091-c481-471f-b15b-7e8b6156dac7",
+   "length": 59.0,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     10.033,
+     42.033,
+     49.033,
+     53.033,
+     54.033
+    ],
+    "assists": [
+     13.033
+    ],
+    "deaths": [
+     10.033,
+     56.033
+    ],
+    "objectives": []
+   },
+   "chain": [
+    42.033,
+    49.033,
+    53.033,
+    54.033
+   ],
+   "chain_size": 4,
+   "chain_span": 12.0,
+   "lead": 42.033,
+   "tail": 4.967,
+   "score": 166,
+   "used": false,
+   "duplicates": [
+    "League-of-Legends__2026-02-20__01-00-31.mp4"
+   ]
+  },
+  {
+   "clip_id": "4a661201-9935-4937-8879-1a15bb67c2c7",
+   "file": "League-of-Legends__2026-02-25__00-34-23.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-02-25__00-34-23.mp4",
+   "start": "2026-02-25T00:34:23",
+   "session": "c505aa4c-53d2-473d-9f65-6d8be8cb52b9",
+   "length": 58.433,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     40.876,
+     44.876,
+     47.876,
+     53.876
+    ],
+    "assists": [],
+    "deaths": [
+     1.876
+    ],
+    "objectives": []
+   },
+   "chain": [
+    40.876,
+    44.876,
+    47.876,
+    53.876
+   ],
+   "chain_size": 4,
+   "chain_span": 13.0,
+   "lead": 40.876,
+   "tail": 4.557,
+   "score": 166,
+   "used": false,
+   "duplicates": [
+    "League-of-Legends__2026-02-25__00-34-14.mp4"
+   ]
+  },
+  {
+   "clip_id": "58834154-e553-44b1-90f1-ac40bc8f89e2",
+   "file": "League-of-Legends__2026-04-07__20-29-33.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-04-07__20-29-33.mp4",
+   "start": "2026-04-07T20:29:33",
+   "session": "6601ff52-3f94-4386-9c0b-bcc76d975e4b",
+   "length": 59.266,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     41.498,
+     49.498,
+     52.498,
+     54.498
+    ],
+    "assists": [
+     3.498
+    ],
+    "deaths": [
+     1.498
+    ],
+    "objectives": []
+   },
+   "chain": [
+    41.498,
+    49.498,
+    52.498,
+    54.498
+   ],
+   "chain_size": 4,
+   "chain_span": 13.0,
+   "lead": 41.498,
+   "tail": 4.768,
+   "score": 166,
+   "used": false
+  },
+  {
+   "clip_id": "4d0f9a34-e90a-4147-9e25-1908daba3eef",
+   "file": "League-of-Legends__2026-01-09__23-56-15.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-01-09__23-56-15.mp4",
+   "start": "2026-01-09T23:56:15",
+   "session": "e7589349-51b8-43e5-874d-e9a22af2632a",
+   "length": 59.666,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [
+    "BARON-KILL"
+   ],
+   "events": {
+    "kills": [
+     32.616,
+     44.616,
+     50.616,
+     54.616
+    ],
+    "assists": [
+     39.616
+    ],
+    "deaths": [],
+    "objectives": [
+     26.616
+    ]
+   },
+   "chain": [
+    44.616,
+    50.616,
+    54.616
+   ],
+   "chain_size": 3,
+   "chain_span": 10.0,
+   "lead": 44.616,
+   "tail": 5.05,
+   "score": 113,
+   "used": false
+  },
+  {
+   "clip_id": "377cd413-d262-4d95-a954-2c357bc83b0f",
+   "file": "League-of-Legends__2026-04-03__16-52-09.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-04-03__16-52-09.mp4",
+   "start": "2026-04-03T16:52:09",
+   "session": "429eb8d5-f2dd-4b4b-98a0-672044a5c1f1",
+   "length": 59.516,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [
+    "BARON-KILL"
+   ],
+   "events": {
+    "kills": [
+     44.034,
+     47.034,
+     55.034
+    ],
+    "assists": [
+     39.034,
+     42.034
+    ],
+    "deaths": [],
+    "objectives": [
+     29.034
+    ]
+   },
+   "chain": [
+    44.034,
+    47.034,
+    55.034
+   ],
+   "chain_size": 3,
+   "chain_span": 11.0,
+   "lead": 44.034,
+   "tail": 4.482,
+   "score": 111,
+   "used": false,
+   "duplicates": [
+    "League-of-Legends__2026-04-03__16-52-01.mp4"
+   ]
+  },
+  {
+   "clip_id": "274ed763-615a-42cd-9447-d86fceb9ba4e",
+   "file": "League-of-Legends__2026-04-06__23-04-42.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-04-06__23-04-42.mp4",
+   "start": "2026-04-06T23:04:42",
+   "session": "17d7220d-78f2-4677-85a5-7eea33c676a3",
+   "length": 59.666,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [
+    "DRAGON-KILL"
+   ],
+   "events": {
+    "kills": [
+     46.567,
+     50.567,
+     54.567
+    ],
+    "assists": [
+     42.567,
+     43.567
+    ],
+    "deaths": [],
+    "objectives": [
+     44.567
+    ]
+   },
+   "chain": [
+    46.567,
+    50.567,
+    54.567
+   ],
+   "chain_size": 3,
+   "chain_span": 8.0,
+   "lead": 46.567,
+   "tail": 5.099,
+   "score": 111,
+   "used": false
+  },
+  {
+   "clip_id": "7bf9e26b-6d7e-42a6-a3f7-73a51e3b7625",
+   "file": "League-of-Legends__2026-07-23__15-53-17.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-07-23__15-53-17.mp4",
+   "start": "2026-07-23T15:53:17",
+   "session": "e4d48720-1b88-4c58-9ea6-573e733aa108",
+   "length": 59.85,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "",
+   "objective_names": [
+    "DRAGON-KILL"
+   ],
+   "events": {
+    "kills": [
+     36.983,
+     40.983,
+     48.983
+    ],
+    "assists": [],
+    "deaths": [],
+    "objectives": [
+     8.983
+    ]
+   },
+   "chain": [
+    36.983,
+    40.983,
+    48.983
+   ],
+   "chain_size": 3,
+   "chain_span": 12.0,
+   "lead": 36.983,
+   "tail": 10.867,
+   "score": 111,
+   "used": false
+  },
+  {
+   "clip_id": "8fbe7c3d-fc59-4cb5-b630-926d42962ce1",
+   "file": "League-of-Legends__2026-02-27__01-17-12.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-02-27__01-17-12.mp4",
+   "start": "2026-02-27T01:17:12",
+   "session": "9586aca1-0253-4be3-b31c-5a0d4339be1e",
+   "length": 58.9,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "low_health_kill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     32.532,
+     34.532,
+     36.532,
+     54.532
+    ],
+    "assists": [
+     9.532
+    ],
+    "deaths": [
+     54.532
+    ],
+    "objectives": []
+   },
+   "chain": [
+    32.532,
+    34.532,
+    36.532
+   ],
+   "chain_size": 3,
+   "chain_span": 4.0,
+   "lead": 32.532,
+   "tail": 22.368,
+   "score": 107,
+   "used": false,
+   "duplicates": [
+    "League-of-Legends__2026-02-27__01-16-52.mp4"
+   ]
+  },
+  {
+   "clip_id": "14b1bef8-0dba-484a-b05a-afb1fabab82a",
+   "file": "League-of-Legends__2026-02-22__20-46-31.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-02-22__20-46-31.mp4",
+   "start": "2026-02-22T20:46:31",
+   "session": "3aee21f2-2364-442d-8826-a9f32345e96a",
+   "length": 59.2,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     0.494,
+     3.494,
+     5.494,
+     51.494,
+     54.494,
+     54.494
+    ],
+    "assists": [
+     15.494
+    ],
+    "deaths": [
+     8.494
+    ],
+    "objectives": []
+   },
+   "chain": [
+    0.494,
+    3.494,
+    5.494
+   ],
+   "chain_size": 3,
+   "chain_span": 5.0,
+   "lead": 0.494,
+   "tail": 53.706,
+   "score": 106,
+   "used": false
+  },
+  {
+   "clip_id": "7e551b47-17af-4b68-a6c2-754455d054b3",
+   "file": "League-of-Legends__2026-02-20__01-06-26.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-02-20__01-06-26.mp4",
+   "start": "2026-02-20T01:06:26",
+   "session": "719de091-c481-471f-b15b-7e8b6156dac7",
+   "length": 59.666,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     36.199,
+     39.199,
+     39.199,
+     53.199,
+     55.199
+    ],
+    "assists": [],
+    "deaths": [
+     56.199
+    ],
+    "objectives": []
+   },
+   "chain": [
+    36.199,
+    39.199,
+    39.199
+   ],
+   "chain_size": 3,
+   "chain_span": 3.0,
+   "lead": 36.199,
+   "tail": 20.467,
+   "score": 104,
+   "used": false,
+   "duplicates": [
+    "League-of-Legends__2026-02-20__01-06-10.mp4"
+   ]
+  },
+  {
+   "clip_id": "49b78967-d5b2-45c6-aefb-a1adef48aca4",
+   "file": "League-of-Legends__2026-03-26__23-45-30.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-03-26__23-45-30.mp4",
+   "start": "2026-03-26T23:45:30",
+   "session": "370f72c8-0c07-4857-b41f-d65417ad7ef6",
+   "length": 58.816,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     16.625,
+     48.625,
+     50.625,
+     53.625
+    ],
+    "assists": [
+     58.625
+    ],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    48.625,
+    50.625,
+    53.625
+   ],
+   "chain_size": 3,
+   "chain_span": 5.0,
+   "lead": 48.625,
+   "tail": 5.191,
+   "score": 104,
+   "used": false
+  },
+  {
+   "clip_id": "76aa03c2-98a9-4e69-9acb-1dc13be61bd3",
+   "file": "League-of-Legends__2026-01-11__03-11-30.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-01-11__03-11-30.mp4",
+   "start": "2026-01-11T03:11:30",
+   "session": "4751a71e-2b14-49be-9da3-2e4191ca76bd",
+   "length": 59.866,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     51.406,
+     54.406,
+     55.406
+    ],
+    "assists": [
+     2.406,
+     7.406,
+     59.406
+    ],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    51.406,
+    54.406,
+    55.406
+   ],
+   "chain_size": 3,
+   "chain_span": 4.0,
+   "lead": 51.406,
+   "tail": 4.46,
+   "score": 102,
+   "used": false
+  },
+  {
+   "clip_id": "1060c207-e5f7-4ef5-bbc2-db7bf69e351a",
+   "file": "League-of-Legends__2026-01-19__22-35-41.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-01-19__22-35-41.mp4",
+   "start": "2026-01-19T22:35:41",
+   "session": "302a6f82-3739-4b11-a167-a58cd8b8f034",
+   "length": 58.25,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     48.645,
+     48.645,
+     53.645
+    ],
+    "assists": [
+     45.645
+    ],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    48.645,
+    48.645,
+    53.645
+   ],
+   "chain_size": 3,
+   "chain_span": 5.0,
+   "lead": 48.645,
+   "tail": 4.605,
+   "score": 102,
+   "used": false
+  },
+  {
+   "clip_id": "b9ec1c04-b733-4718-82ac-ae0c066b098b",
+   "file": "League-of-Legends__2026-01-28__01-59-30.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-01-28__01-59-30.mp4",
+   "start": "2026-01-28T01:59:30",
+   "session": "fce379ec-0d13-44a1-a978-5c286664397a",
+   "length": 58.45,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     53.187,
+     53.187,
+     54.187
+    ],
+    "assists": [
+     51.187
+    ],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    53.187,
+    53.187,
+    54.187
+   ],
+   "chain_size": 3,
+   "chain_span": 1.0,
+   "lead": 53.187,
+   "tail": 4.263,
+   "score": 102,
+   "used": false
+  },
+  {
+   "clip_id": "6fa4bf56-d35c-4361-89aa-688fbdf8618f",
+   "file": "League-of-Legends__2026-01-28__17-40-57.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-01-28__17-40-57.mp4",
+   "start": "2026-01-28T17:40:57",
+   "session": "07b6d8d3-739c-4e81-a42a-93308823dfb7",
+   "length": 58.916,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     52.14,
+     54.14,
+     54.14
+    ],
+    "assists": [
+     50.14
+    ],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    52.14,
+    54.14,
+    54.14
+   ],
+   "chain_size": 3,
+   "chain_span": 2.0,
+   "lead": 52.14,
+   "tail": 4.776,
+   "score": 102,
+   "used": false
+  },
+  {
+   "clip_id": "2585fe09-1aa3-4c37-830e-e926729d93ea",
+   "file": "League-of-Legends__2026-01-28__17-43-08.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-01-28__17-43-08.mp4",
+   "start": "2026-01-28T17:43:08",
+   "session": "07b6d8d3-739c-4e81-a42a-93308823dfb7",
+   "length": 59.166,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     49.89,
+     53.89,
+     54.89
+    ],
+    "assists": [
+     45.89,
+     48.89
+    ],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    49.89,
+    53.89,
+    54.89
+   ],
+   "chain_size": 3,
+   "chain_span": 5.0,
+   "lead": 49.89,
+   "tail": 4.276,
+   "score": 102,
+   "used": false
+  },
+  {
+   "clip_id": "a2078721-58a6-42b7-81af-9a3cd7d2e1fd",
+   "file": "League-of-Legends__2026-02-25__00-45-58.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-02-25__00-45-58.mp4",
+   "start": "2026-02-25T00:45:58",
+   "session": "10635d11-9ed7-42ed-8dfe-840893337575",
+   "length": 59.35,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     51.205,
+     52.205,
+     54.205
+    ],
+    "assists": [
+     49.205
+    ],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    51.205,
+    52.205,
+    54.205
+   ],
+   "chain_size": 3,
+   "chain_span": 3.0,
+   "lead": 51.205,
+   "tail": 5.145,
+   "score": 102,
+   "used": false
+  },
+  {
+   "clip_id": "3231ab9d-c4f1-4943-b686-d199fd084e40",
+   "file": "League-of-Legends__2026-02-25__01-03-33.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-02-25__01-03-33.mp4",
+   "start": "2026-02-25T01:03:33",
+   "session": "10635d11-9ed7-42ed-8dfe-840893337575",
+   "length": 59.05,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     49.038,
+     53.038,
+     54.038
+    ],
+    "assists": [],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    49.038,
+    53.038,
+    54.038
+   ],
+   "chain_size": 3,
+   "chain_span": 5.0,
+   "lead": 49.038,
+   "tail": 5.012,
+   "score": 102,
+   "used": false
+  },
+  {
+   "clip_id": "32ebf9ca-2be4-4a8d-ab47-e6483b2433c1",
+   "file": "League-of-Legends__2026-02-27__01-14-12.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-02-27__01-14-12.mp4",
+   "start": "2026-02-27T01:14:12",
+   "session": "9586aca1-0253-4be3-b31c-5a0d4339be1e",
+   "length": 58.483,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     49.615,
+     51.615,
+     53.615
+    ],
+    "assists": [
+     43.615
+    ],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    49.615,
+    51.615,
+    53.615
+   ],
+   "chain_size": 3,
+   "chain_span": 4.0,
+   "lead": 49.615,
+   "tail": 4.868,
+   "score": 102,
+   "used": false
+  },
+  {
+   "clip_id": "ad1cf6e3-b5d0-4628-977b-bb51b9123a76",
+   "file": "League-of-Legends__2026-03-03__00-18-26.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-03-03__00-18-26.mp4",
+   "start": "2026-03-03T00:18:26",
+   "session": "387a62ed-f49d-455d-9bdc-76f0eba6add1",
+   "length": 58.933,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     51.957,
+     52.957,
+     53.957
+    ],
+    "assists": [],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    51.957,
+    52.957,
+    53.957
+   ],
+   "chain_size": 3,
+   "chain_span": 2.0,
+   "lead": 51.957,
+   "tail": 4.976,
+   "score": 102,
+   "used": false
+  },
+  {
+   "clip_id": "7580c9e9-a4ab-4e36-a36c-eccb16d9cf50",
+   "file": "League-of-Legends__2026-03-20__02-22-06.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-03-20__02-22-06.mp4",
+   "start": "2026-03-20T02:22:06",
+   "session": "463ec766-ad16-4b50-a298-a2c85b084c08",
+   "length": 59.933,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     2.908,
+     4.908,
+     27.908,
+     43.908,
+     45.908,
+     55.908
+    ],
+    "assists": [
+     5.908,
+     35.908
+    ],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    43.908,
+    45.908,
+    55.908
+   ],
+   "chain_size": 3,
+   "chain_span": 12.0,
+   "lead": 43.908,
+   "tail": 4.025,
+   "score": 102,
+   "used": false
+  },
+  {
+   "clip_id": "87d412a8-ba86-4f6a-babc-71afa62f3bb1",
+   "file": "League-of-Legends__2026-04-05__23-02-29.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-04-05__23-02-29.mp4",
+   "start": "2026-04-05T23:02:29",
+   "session": "95563b25-d29b-45da-affb-8ac4cdedce7b",
+   "length": 59.883,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     49.744,
+     53.744,
+     54.744
+    ],
+    "assists": [
+     47.744
+    ],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    49.744,
+    53.744,
+    54.744
+   ],
+   "chain_size": 3,
+   "chain_span": 5.0,
+   "lead": 49.744,
+   "tail": 5.139,
+   "score": 102,
+   "used": false
+  },
+  {
+   "clip_id": "044b9cfb-dc46-410b-b4e0-556e480d9103",
+   "file": "League-of-Legends__2026-04-07__20-25-23.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-04-07__20-25-23.mp4",
+   "start": "2026-04-07T20:25:23",
+   "session": "6601ff52-3f94-4386-9c0b-bcc76d975e4b",
+   "length": 58.233,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     49.581,
+     51.581,
+     53.581
+    ],
+    "assists": [
+     41.581
+    ],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    49.581,
+    51.581,
+    53.581
+   ],
+   "chain_size": 3,
+   "chain_span": 4.0,
+   "lead": 49.581,
+   "tail": 4.652,
+   "score": 102,
+   "used": false
+  },
+  {
+   "clip_id": "70e49b64-5630-4af9-b2e6-d9212e6b4b45",
+   "file": "League-of-Legends__2026-02-25__01-29-30.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-02-25__01-29-30.mp4",
+   "start": "2026-02-25T01:29:30",
+   "session": "de374a89-5eb2-42e1-a9b0-4100c8168ee5",
+   "length": 58.766,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "low_health_kill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     34.317,
+     41.317,
+     43.317,
+     54.317
+    ],
+    "assists": [
+     58.317
+    ],
+    "deaths": [
+     55.317
+    ],
+    "objectives": []
+   },
+   "chain": [
+    34.317,
+    41.317,
+    43.317
+   ],
+   "chain_size": 3,
+   "chain_span": 9.0,
+   "lead": 34.317,
+   "tail": 15.449,
+   "score": 101,
+   "used": false,
+   "duplicates": [
+    "League-of-Legends__2026-02-25__01-29-17.mp4"
+   ]
+  },
+  {
+   "clip_id": "d8850a61-be7b-4a73-9c66-b9e4606e99e1",
+   "file": "League-of-Legends__2026-01-11__03-51-59.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-01-11__03-51-59.mp4",
+   "start": "2026-01-11T03:51:59",
+   "session": "2b030439-26b3-4c21-810a-7bacf78438dc",
+   "length": 59.75,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     49.775,
+     51.775,
+     54.775
+    ],
+    "assists": [],
+    "deaths": [
+     53.775
+    ],
+    "objectives": []
+   },
+   "chain": [
+    49.775,
+    51.775,
+    54.775
+   ],
+   "chain_size": 3,
+   "chain_span": 5.0,
+   "lead": 49.775,
+   "tail": 4.975,
+   "score": 100,
+   "used": false
+  },
+  {
+   "clip_id": "45eb8adc-5657-499c-a40e-6231c9ddac39",
+   "file": "League-of-Legends__2026-01-19__23-57-41.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-01-19__23-57-41.mp4",
+   "start": "2026-01-19T23:57:41",
+   "session": "72dd12d6-940d-497b-ad53-a401e677c276",
+   "length": 59.533,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     27.777,
+     34.777,
+     48.777,
+     51.777,
+     54.777
+    ],
+    "assists": [],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    48.777,
+    51.777,
+    54.777
+   ],
+   "chain_size": 3,
+   "chain_span": 6.0,
+   "lead": 48.777,
+   "tail": 4.756,
+   "score": 100,
+   "used": false
+  },
+  {
+   "clip_id": "a5344c64-5024-4d47-847d-2a43feae804b",
+   "file": "League-of-Legends__2026-01-29__02-44-41.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-01-29__02-44-41.mp4",
+   "start": "2026-01-29T02:44:41",
+   "session": "706aa5b6-0150-4f9f-9f8a-bba155dfb349",
+   "length": 58.116,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     0.175,
+     10.175,
+     38.175,
+     45.175,
+     52.175
+    ],
+    "assists": [],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    38.175,
+    45.175,
+    52.175
+   ],
+   "chain_size": 3,
+   "chain_span": 14.0,
+   "lead": 38.175,
+   "tail": 5.941,
+   "score": 100,
+   "used": false
+  },
+  {
+   "clip_id": "c2874426-697b-46e2-ba4b-199926e545bb",
+   "file": "League-of-Legends__2026-02-03__01-32-22.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-02-03__01-32-22.mp4",
+   "start": "2026-02-03T01:32:22",
+   "session": "cd8a8551-bda5-425d-bb4b-f2966bbf753a",
+   "length": 59.483,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     52.624,
+     53.624,
+     54.624
+    ],
+    "assists": [
+     9.624
+    ],
+    "deaths": [
+     58.624
+    ],
+    "objectives": []
+   },
+   "chain": [
+    52.624,
+    53.624,
+    54.624
+   ],
+   "chain_size": 3,
+   "chain_span": 2.0,
+   "lead": 52.624,
+   "tail": 4.859,
+   "score": 100,
+   "used": false
+  },
+  {
+   "clip_id": "d41b8309-0681-4d52-a298-fa9b9c4d2c8f",
+   "file": "League-of-Legends__2026-02-19__22-40-42.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-02-19__22-40-42.mp4",
+   "start": "2026-02-19T22:40:42",
+   "session": "960a5d06-3301-4ba1-8474-0e3cf23a1a71",
+   "length": 59.083,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     48.911,
+     50.911,
+     53.911
+    ],
+    "assists": [],
+    "deaths": [
+     20.911
+    ],
+    "objectives": []
+   },
+   "chain": [
+    48.911,
+    50.911,
+    53.911
+   ],
+   "chain_size": 3,
+   "chain_span": 5.0,
+   "lead": 48.911,
+   "tail": 5.172,
+   "score": 100,
+   "used": false
+  },
+  {
+   "clip_id": "393d917e-1b99-485f-a13b-fa96870990bb",
+   "file": "League-of-Legends__2026-02-20__01-04-52.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-02-20__01-04-52.mp4",
+   "start": "2026-02-20T01:04:52",
+   "session": "719de091-c481-471f-b15b-7e8b6156dac7",
+   "length": 59.833,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     50.866,
+     52.866,
+     54.866
+    ],
+    "assists": [
+     2.866
+    ],
+    "deaths": [
+     12.866
+    ],
+    "objectives": []
+   },
+   "chain": [
+    50.866,
+    52.866,
+    54.866
+   ],
+   "chain_size": 3,
+   "chain_span": 4.0,
+   "lead": 50.866,
+   "tail": 4.967,
+   "score": 100,
+   "used": false
+  },
+  {
+   "clip_id": "86996b09-81fa-4637-8162-73db0c737f83",
+   "file": "League-of-Legends__2026-02-27__00-42-47.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-02-27__00-42-47.mp4",
+   "start": "2026-02-27T00:42:47",
+   "session": "03bff84f-97b9-4e0c-b86a-6ea5eb756e7b",
+   "length": 59.816,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     52.487,
+     53.487,
+     55.487
+    ],
+    "assists": [
+     1.487
+    ],
+    "deaths": [
+     28.487
+    ],
+    "objectives": []
+   },
+   "chain": [
+    52.487,
+    53.487,
+    55.487
+   ],
+   "chain_size": 3,
+   "chain_span": 3.0,
+   "lead": 52.487,
+   "tail": 4.329,
+   "score": 100,
+   "used": false
+  },
+  {
+   "clip_id": "6a0adb8e-f1ff-4c92-8437-1dd924bbb0c4",
+   "file": "League-of-Legends__2026-03-02__23-46-55.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-03-02__23-46-55.mp4",
+   "start": "2026-03-02T23:46:55",
+   "session": "6f9a23d4-0539-4c55-9eac-80ff5e1403ea",
+   "length": 58.483,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "multikill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     48.943,
+     51.943,
+     53.943
+    ],
+    "assists": [
+     45.943
+    ],
+    "deaths": [
+     20.943
+    ],
+    "objectives": []
+   },
+   "chain": [
+    48.943,
+    51.943,
+    53.943
+   ],
+   "chain_size": 3,
+   "chain_span": 5.0,
+   "lead": 48.943,
+   "tail": 4.54,
+   "score": 100,
+   "used": false
+  },
+  {
+   "clip_id": "76b906d7-f8e3-44bf-82ca-945c1d93f426",
+   "file": "League-of-Legends__2026-01-31__22-37-18.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-01-31__22-37-18.mp4",
+   "start": "2026-01-31T22:37:18",
+   "session": "94c5f0f5-34f2-46a2-8fc1-3b2014d8afaf",
+   "length": 60.1,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "low_health_kill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     16.484,
+     29.484,
+     31.484,
+     55.484
+    ],
+    "assists": [
+     35.484
+    ],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    29.484,
+    31.484
+   ],
+   "chain_size": 2,
+   "chain_span": 2.0,
+   "lead": 29.484,
+   "tail": 28.616,
+   "score": 59,
+   "used": false,
+   "duplicates": [
+    "League-of-Legends__2026-01-31__22-36-54.mp4"
+   ]
+  },
+  {
+   "clip_id": "e2ec2b59-780e-4fb3-9cd1-34d747a58b2a",
+   "file": "League-of-Legends__2026-02-25__01-08-23.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-02-25__01-08-23.mp4",
+   "start": "2026-02-25T01:08:23",
+   "session": "10635d11-9ed7-42ed-8dfe-840893337575",
+   "length": 58.65,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "low_health_kill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     33.455,
+     35.455,
+     53.455
+    ],
+    "assists": [],
+    "deaths": [
+     53.455
+    ],
+    "objectives": []
+   },
+   "chain": [
+    33.455,
+    35.455
+   ],
+   "chain_size": 2,
+   "chain_span": 2.0,
+   "lead": 33.455,
+   "tail": 23.195,
+   "score": 55,
+   "used": false,
+   "duplicates": [
+    "League-of-Legends__2026-02-25__01-08-05.mp4"
+   ]
+  },
+  {
+   "clip_id": "8afbe413-551b-429d-8738-66fd0f329290",
+   "file": "League-of-Legends__2026-03-02__00-07-43.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-03-02__00-07-43.mp4",
+   "start": "2026-03-02T00:07:43",
+   "session": "9d862895-c05f-46ab-a43b-0fc92fbda0df",
+   "length": 58.55,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "low_health_kill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     10.009,
+     12.009,
+     54.009
+    ],
+    "assists": [
+     38.009
+    ],
+    "deaths": [
+     42.009
+    ],
+    "objectives": []
+   },
+   "chain": [
+    10.009,
+    12.009
+   ],
+   "chain_size": 2,
+   "chain_span": 2.0,
+   "lead": 10.009,
+   "tail": 46.541,
+   "score": 55,
+   "used": false,
+   "duplicates": [
+    "League-of-Legends__2026-03-02__00-07-01.mp4"
+   ]
+  },
+  {
+   "clip_id": "12f69af1-4a23-4709-a344-d80e126b7c95",
+   "file": "League-of-Legends__2026-03-20__00-52-41.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-03-20__00-52-41.mp4",
+   "start": "2026-03-20T00:52:41",
+   "session": "cda2d779-f0cb-4bb6-a278-f32cfa55391a",
+   "length": 58.316,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "low_health_kill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     32.813,
+     33.813,
+     53.813
+    ],
+    "assists": [
+     1.813
+    ],
+    "deaths": [
+     53.813
+    ],
+    "objectives": []
+   },
+   "chain": [
+    32.813,
+    33.813
+   ],
+   "chain_size": 2,
+   "chain_span": 1.0,
+   "lead": 32.813,
+   "tail": 24.503,
+   "score": 55,
+   "used": false,
+   "duplicates": [
+    "League-of-Legends__2026-03-20__00-52-21.mp4"
+   ]
+  },
+  {
+   "clip_id": "508d9536-0ed0-454f-a3a2-d6dd38aab39c",
+   "file": "League-of-Legends__2026-02-18__22-23-35.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-02-18__22-23-35.mp4",
+   "start": "2026-02-18T22:23:35",
+   "session": "00bef2ec-ae50-4220-b973-5034a65dff64",
+   "length": 59.2,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "low_health_kill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     15.185,
+     16.185,
+     54.185
+    ],
+    "assists": [],
+    "deaths": [
+     17.185,
+     55.185
+    ],
+    "objectives": []
+   },
+   "chain": [
+    15.185,
+    16.185
+   ],
+   "chain_size": 2,
+   "chain_span": 1.0,
+   "lead": 15.185,
+   "tail": 43.015,
+   "score": 53,
+   "used": false,
+   "duplicates": [
+    "League-of-Legends__2026-02-18__22-22-57.mp4"
+   ]
+  },
+  {
+   "clip_id": "590caeb9-f67c-4583-861c-1729a4feae88",
+   "file": "League-of-Legends__2026-01-11__04-21-42.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-01-11__04-21-42.mp4",
+   "start": "2026-01-11T04:21:42",
+   "session": "2567c9df-8350-44c9-88da-42ec7f3c7ed4",
+   "length": 59.75,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "low_health_kill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     10.638,
+     13.638,
+     54.638
+    ],
+    "assists": [
+     6.638
+    ],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    10.638,
+    13.638
+   ],
+   "chain_size": 2,
+   "chain_span": 3.0,
+   "lead": 10.638,
+   "tail": 46.112,
+   "score": 51,
+   "used": false,
+   "duplicates": [
+    "League-of-Legends__2026-01-11__04-21-01.mp4"
+   ]
+  },
+  {
+   "clip_id": "88fbad8a-e27d-4c36-86cb-7c5d58c480c8",
+   "file": "League-of-Legends__2026-01-19__23-11-01.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-01-19__23-11-01.mp4",
+   "start": "2026-01-19T23:11:01",
+   "session": "8204dcc7-f91c-45f0-9396-dc4e03ed4b29",
+   "length": 58.416,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "low_health_kill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     20.024,
+     27.024,
+     54.024
+    ],
+    "assists": [
+     15.024
+    ],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    20.024,
+    27.024
+   ],
+   "chain_size": 2,
+   "chain_span": 7.0,
+   "lead": 20.024,
+   "tail": 31.392,
+   "score": 51,
+   "used": false,
+   "duplicates": [
+    "League-of-Legends__2026-01-19__23-10-34.mp4",
+    "League-of-Legends__2026-01-19__23-11-08.mp4"
+   ]
+  },
+  {
+   "clip_id": "ea45bd6e-a87c-4e89-9099-1e635af992c6",
+   "file": "League-of-Legends__2026-01-28__01-37-56.mp4",
+   "path": "D:/PubgHighlights/League-of-Legends__2026-01-28__01-37-56.mp4",
+   "start": "2026-01-28T01:37:56",
+   "session": "c5946495-2fa8-4393-9d53-b2d34be2221b",
+   "length": 59.633,
+   "fps": 60,
+   "w": 2560,
+   "h": 1440,
+   "trigger": "low_health_kill",
+   "objective_names": [],
+   "events": {
+    "kills": [
+     33.373,
+     43.373,
+     55.373
+    ],
+    "assists": [
+     38.373
+    ],
+    "deaths": [],
+    "objectives": []
+   },
+   "chain": [
+    33.373,
+    43.373
+   ],
+   "chain_size": 2,
+   "chain_span": 10.0,
+   "lead": 33.373,
+   "tail": 16.26,
+   "score": 51,
+   "used": false,
+   "duplicates": [
+    "League-of-Legends__2026-01-28__01-37-44.mp4"
+   ]
+  }
+ ]
+}

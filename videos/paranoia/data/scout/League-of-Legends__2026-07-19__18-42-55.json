@@ -1,0 +1,37 @@
+{
+ "file": "League-of-Legends__2026-07-19__18-42-55.mp4",
+ "chain": [
+  26.924,
+  31.924,
+  37.924,
+  40.924,
+  49.924
+ ],
+ "kills": [
+  {
+   "marker": 26.924,
+   "banner_t": 27.0833,
+   "banner_diff": 30.04
+  },
+  {
+   "marker": 31.924,
+   "banner_t": 30.4333,
+   "banner_diff": 27.19
+  },
+  {
+   "marker": 37.924,
+   "banner_t": 36.4333,
+   "banner_diff": 26.97
+  },
+  {
+   "marker": 40.924,
+   "banner_t": 40.3667,
+   "banner_diff": 31.73
+  },
+  {
+   "marker": 49.924,
+   "banner_t": 50.35,
+   "banner_diff": 38.97
+  }
+ ]
+}

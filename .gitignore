@@ -1,7 +1,10 @@
-# renders, builds and caches
+# renders, builds and caches (every video)
 out/
-# CC0 textures and HDRIs (python tools/fetch_assets.py)
-assets/
 __pycache__/
 *.pyc
 *.blend1
+# pdoom-tabletop: CC0 textures and HDRIs (python tools/fetch_assets.py)
+videos/pdoom-tabletop/assets/
+# paranoia: gameplay clips and model weights (fetched onto the render machine)
+videos/paranoia/clips/
+videos/paranoia/models/

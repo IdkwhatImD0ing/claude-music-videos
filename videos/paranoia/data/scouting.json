@@ -1,0 +1,3664 @@
+{
+ "clips": [
+  {
+   "file": "League-of-Legends__2026-09-29__22-41-54.mp4",
+   "champion": "Viego (H3rmes)",
+   "map": "Summoners Rift",
+   "summary": "Viego dives a teamfight around the top-side river / Baron pit at 29:00 game time. He chains five kills, possessing each victim and resetting with Heartbreaker (R): rampage kill, double (Master Yi), triple (Caitlyn), then quadra and penta 0.4 s apart (zKeller, then Mordekaiser 'joobie'). He never dies, and his score goes 16/6/4 to 21/6/4 with a PENTAKILL banner.",
+   "hype": 9,
+   "readability": 6,
+   "spectacle": 9,
+   "best_in": 32.6,
+   "best_out": 49.3,
+   "kills": [
+    {
+     "marker": 33.59,
+     "est_t": 33.65,
+     "x": 0.33,
+     "y": 0.51,
+     "confidence": "high",
+     "note": "KDA 16->17 between 33.60 and 33.65; 'H3rmes is on a rampage!' banner at 33.70. Victim ('Major Noobman') is at Viego's spot, left of centre, inside a big cyan spell circle."
+    },
+    {
+     "marker": 38.59,
+     "est_t": 38.92,
+     "x": 0.49,
+     "y": 0.5,
+     "confidence": "high",
+     "note": "Master Yi. KDA 17->18 and DOUBLE KILL banner at 38.95. Big white-cyan Heartbreaker flash dead centre with +411 gold. The cleanest, most readable kill of the chain."
+    },
+    {
+     "marker": 43.59,
+     "est_t": 43.68,
+     "x": 0.59,
+     "y": 0.6,
+     "confidence": "high",
+     "note": "Caitlyn ('Jesster'). KDA 18->19 between 43.65 and 43.70; white flash and +399 gold right of centre. The TRIPLE KILL banner is delayed to 46.0 because it queues behind 'Ally slain' banners (43.2-45.7)."
+    },
+    {
+     "marker": 46.59,
+     "est_t": 47.08,
+     "x": 0.43,
+     "y": 0.19,
+     "confidence": "high",
+     "note": "zKeller. KDA 19->20 between 47.05 and 47.10; huge '999' crit and +410 gold in the upper third, just under the TRIPLE KILL banner. The quadra banner never shows."
+    },
+    {
+     "marker": 46.59,
+     "est_t": 47.48,
+     "x": 0.41,
+     "y": 0.22,
+     "confidence": "high",
+     "note": "Mordekaiser ('joobie'). KDA 20->21 between 47.45 and 47.50. A giant cyan Viego R blast covers the upper-centre at 47.48. The PENTAKILL banner only appears at 48.6 (queued)."
+    }
+   ],
+   "low_hp": "",
+   "camera": "Steady follow on Viego (looks locked or near-locked). He stays roughly in x 0.35-0.6, y 0.4-0.6. No cuts or jumps. The background slides as he dashes from the pit edge into the jungle (~41-42 s). Kills 4-5 happen in the upper third of the screen.",
+   "issues": "The chain is long: 13.9 s from kill 1 to kill 5, with gaps of 5.3, 4.75 and 3.4 s, then 0.4 s. The gaps have constant fighting but no kills. Viego's possession swaps his model and HUD portrait to the victim's champion (35.5-38.2, 40.5-41.7, 45.0-46.6), which can confuse non-Viego viewers. The fight is a dense blob of spell effects and overlapping damage numbers. 'Ally slain' banners clutter the top centre from 43.2 to 45.7. The PENTAKILL banner arrives 1.1 s after the real 5th kill. Chat bottom-left fills with kill messages. Lowest HP is about 30% (713/2368) at 44.0-44.5, so this is not a near-death 'fall' clip.",
+   "best_use": "drop",
+   "editor_notes": "Best single moment: 47.0-47.6, quadra then penta 0.4 s apart with the huge cyan R blast at 47.48. Hold through 48.6-49.3 for the PENTAKILL banner. Zoom target for that beat: around (0.43, 0.25), upper-centre. Velocity-sync plan: slow down at 33.65, 38.92, 43.68 and 47.08/47.48, and run the gaps at 2-3x (34.2-38.5, 39.3-43.3, 44.0-46.8). That squeezes the penta into the 11.3 s drop. It is a finale contender too if no tighter pentakill exists, but its 14 s spread fits the drop's velocity ramp better than the 9.1 s finale. Kill 2 (38.92) is the cleanest centred hit to land on a downbeat. Put hits on the KDA-change times above, not on the banners, which are delayed. Optional overlay: the top-right KDA counts 16 -> 21. The approach at 29.6-32.6 (a calm walk through the river pit) could also serve as a short intro or hunt lead-in."
+  },
+  {
+   "file": "League-of-Legends__2026-02-09__02-29-00.mp4",
+   "champion": "Master Yi",
+   "map": "ARAM (Butcher's Bridge)",
+   "summary": "Late-game Master Yi quadra. It opens with a big explosion in a messy teamfight at 43.2, then he cleans up three more over 12 s, including a clean 1v1 with a giant 2065 crit.",
+   "hype": 7,
+   "readability": 5,
+   "spectacle": 7,
+   "best_in": 41.9,
+   "best_out": 55.6,
+   "kills": [
+    {
+     "marker": 42.4,
+     "est_t": 43.22,
+     "x": 0.53,
+     "y": 0.36,
+     "confidence": "high",
+     "note": "Kill counter 10->11 at 43.22. The explosion lands in a chaotic blob top-centre. No banner of its own: an 'Ally slain' banner is showing."
+    },
+    {
+     "marker": 47.4,
+     "est_t": 48.27,
+     "x": 0.54,
+     "y": 0.42,
+     "confidence": "high",
+     "note": "Counter 11->12. The DOUBLE KILL banner appears at 48.3, matching."
+    },
+    {
+     "marker": 51.4,
+     "est_t": 51.65,
+     "x": 0.48,
+     "y": 0.36,
+     "confidence": "high",
+     "note": "Clean isolated Alpha Strike kill with a huge '2065' crit number. TRIPLE KILL banner at 51.7."
+    },
+    {
+     "marker": 54.4,
+     "est_t": 55.03,
+     "x": 0.5,
+     "y": 0.66,
+     "confidence": "high",
+     "note": "Counter 13->14 at 55.03. The SHUT DOWN banner at 54.4 is a different event. The QUADRA KILL banner only shows at about 57.1."
+    }
+   ],
+   "low_hp": "",
+   "camera": "Mostly follows Yi and stays fairly centred. It re-centres after dashes (a jump around 50.9). The kills sit near the centre except K4, which is in the lower third.",
+   "issues": "K1 is a chaotic blob of effects. Chat text runs at the left from 48 s on. The multikill banners lag behind the kills: the quadra banner is about 2 s late, queued behind a SHUT DOWN banner. Min HP is about 23% (590/2570) after the fight, so this is not a near-death clip.",
+   "best_use": "star",
+   "editor_notes": "Kill times come from the scoreboard kill counter and are frame-accurate. The best single moment is K3 at 51.65: a lone kill with a giant '2065' crit at (0.48, 0.36), a perfect zoom-punch target. K1 at 43.22 is a big fiery explosion top-centre, good for a flash cut. Kill gaps are 5.0, 3.4 and 3.4 s, so cruise fast between them. If you want the QUADRA banner on screen, hold to about 57.3."
+  },
+  {
+   "file": "League-of-Legends__2026-02-09__02-37-47.mp4",
+   "champion": "Master Yi",
+   "map": "ARAM (Butcher's Bridge)",
+   "summary": "Master Yi quadra in a big ARAM teamfight. It starts with a fast double (45.9 and 46.5), then two more kills. He is burst down and dies 0.46 s after the fourth kill.",
+   "hype": 7,
+   "readability": 5,
+   "spectacle": 7,
+   "best_in": 44.9,
+   "best_out": 54.7,
+   "kills": [
+    {
+     "marker": 45.24,
+     "est_t": 45.88,
+     "x": 0.55,
+     "y": 0.3,
+     "confidence": "high",
+     "note": "Kill counter 27->28. The camera jumps just before this (about 45.8), and the kill lands in the upper third."
+    },
+    {
+     "marker": 46.24,
+     "est_t": 46.53,
+     "x": 0.53,
+     "y": 0.32,
+     "confidence": "high",
+     "note": "Big '1081' crit pops above the target. Only 0.65 s after K1."
+    },
+    {
+     "marker": 49.24,
+     "est_t": 49.73,
+     "x": 0.55,
+     "y": 0.36,
+     "confidence": "high",
+     "note": "Counter 29->30. The fight is near the centre-top."
+    },
+    {
+     "marker": 54.24,
+     "est_t": 54.42,
+     "x": 0.54,
+     "y": 0.43,
+     "confidence": "high",
+     "note": "Counter 30->31. The QUADRA KILL banner pops immediately (54.5). Yi dies at about 54.88."
+    }
+   ],
+   "low_hp": "After the 4th kill (54.42, HP 1273/3576) Yi is burst to 320 HP (9%) at 54.6 and dies at about 54.88. He does not survive. If the cut ends at 54.7, it reads as a quadra at 9% HP.",
+   "camera": "Follows Yi, with an abrupt camera jump/re-centre at about 45.8 right before K1. K1 and K2 sit in the upper third of the frame; K3 and K4 are near the centre.",
+   "issues": "The user dies 0.46 s after the quadra: the screen goes grey from about 55 and the shop opens at 56.2, so end by 54.7. There is a camera jump right before K1. K1 and K2 sit high, near the top HUD. The 41-45 lead-in is a dense blob of effects (red pool, pink bubbles).",
+   "best_use": "star",
+   "editor_notes": "The 45.88/46.53 double (0.65 s apart) is ideal for two fast kick hits. It is close to the 0.527 s kick spacing in the 3-3-3-3-4 groove, so only a small remap is needed. For K1 and K2, zoom on the upper-centre (0.54, 0.33). K4 at 54.42 is centred and the QUADRA banner lands instantly, a clean sync point. Cut before 54.8."
+  },
+  {
+   "file": "League-of-Legends__2026-02-09__02-46-29.mp4",
+   "champion": "Master Yi",
+   "map": "ARAM (Butcher's Bridge)",
+   "summary": "Level-18 Master Yi pentakill pushing into the enemy base (Yi goes from 38 to 43 kills), finishing next to their Nexus. The double kill has a huge orange slash with a radial blur, and kills 3 and 4 land 0.93 s apart.",
+   "hype": 9,
+   "readability": 5,
+   "spectacle": 8,
+   "best_in": 36.9,
+   "best_out": 55.8,
+   "kills": [
+    {
+     "marker": 37.65,
+     "est_t": 37.8,
+     "x": 0.55,
+     "y": 0.5,
+     "confidence": "high",
+     "note": "Kill counter 38->39 inside a chaotic teamfight top-centre. 'You have slain an enemy' banner."
+    },
+    {
+     "marker": 44.65,
+     "est_t": 45,
+     "x": 0.6,
+     "y": 0.32,
+     "confidence": "high",
+     "note": "Kog'Maw dies. A huge orange slash crosses the screen with a radial blur, the hero frame. DOUBLE KILL banner."
+    },
+    {
+     "marker": 47.65,
+     "est_t": 48.17,
+     "x": 0.57,
+     "y": 0.36,
+     "confidence": "high",
+     "note": "Syndra dies. The camera has moved toward the enemy Nexus. TRIPLE KILL."
+    },
+    {
+     "marker": 48.65,
+     "est_t": 49.1,
+     "x": 0.52,
+     "y": 0.28,
+     "confidence": "high",
+     "note": "Yorick dies 0.93 s after K3, in the upper area."
+    },
+    {
+     "marker": 53.65,
+     "est_t": 53.88,
+     "x": 0.66,
+     "y": 0.5,
+     "confidence": "high",
+     "note": "Counter 42->43, right of centre beside the Nexus turret. The PENTAKILL banner only appears at 55.2 and stays up to about 57."
+    }
+   ],
+   "low_hp": "",
+   "camera": "Follows Yi but pans a lot, with re-centring jumps (around 43.6-44.2 and before 48). Kills land across the upper half and right of centre.",
+   "issues": "There is a 7.2 s gap between K1 and K2 (38.3-44.5 is chasing and walking). K1 is an unreadable blob of effects. Kills are often high in the frame. The multikill banners lag behind the kills (PENTAKILL is 1.3 s late). Min HP is about 23% (994/4310), not near death.",
+   "best_use": "finale",
+   "editor_notes": "This is the strongest play in this batch. Hero moment: K2 at 45.0, with the orange slash and radial blur. Land it on a big hit and zoom toward (0.6, 0.32). K3/K4 at 48.17/49.10 make a tight pair for two kick hits. Speed through 38.4-44.5. End on the PENTAKILL banner (55.2+) over the blue Nexus for the payoff."
+  },
+  {
+   "file": "League-of-Legends__2026-02-10__01-08-00.mp4",
+   "champion": "Cho'Gath",
+   "map": "ARAM (purple seasonal map variant, ARAM Mayhem augments in chat)",
+   "summary": "A giant 10.8k-HP Cho'Gath gets a quadra on a purple ARAM map. The kills are Feast executes and Rupture knock-ups, and his huge model is easy to follow.",
+   "hype": 6,
+   "readability": 7,
+   "spectacle": 6,
+   "best_in": 42.4,
+   "best_out": 55.8,
+   "kills": [
+    {
+     "marker": 42.62,
+     "est_t": 43.28,
+     "x": 0.5,
+     "y": 0.37,
+     "confidence": "high",
+     "note": "Kill counter 4->5. Feast execute with a '1426' number, top-centre."
+    },
+    {
+     "marker": 47.62,
+     "est_t": 47.88,
+     "x": 0.25,
+     "y": 0.7,
+     "confidence": "high",
+     "note": "A '+537' gold pop at the left edge, over the chat area."
+    },
+    {
+     "marker": 52.62,
+     "est_t": 52.78,
+     "x": 0.43,
+     "y": 0.55,
+     "confidence": "high",
+     "note": "Near the centre, during a Rupture cast."
+    },
+    {
+     "marker": 53.62,
+     "est_t": 53.75,
+     "x": 0.42,
+     "y": 0.58,
+     "confidence": "high",
+     "note": "About 1 s after K3, centred. The QUADRA KILL banner only appears at about 55.5."
+    }
+   ],
+   "low_hp": "",
+   "camera": "Steady. Cho'Gath stays roughly centred with gentle pans. The big model makes it easy to follow.",
+   "issues": "A 'Connect to League Voice' popup sits bottom-right next to the minimap the whole time. Chat is on the left. K2 is at the left edge over the chat. The QUADRA banner is 1.75 s late. Effects are lighter than on the Yi clips. Min HP is 26%, not near death.",
+   "best_use": "hunt",
+   "editor_notes": "Good for variety: a different champion and a purple-and-pink palette break from the green bridge. Best moment: the K1 Feast execute at 43.28 (0.50, 0.37). The K3-K4 pair (52.78/53.75) sits about 1 s apart near the centre, good for two kicks. Crop or zoom slightly to hide the voice popup."
+  },
+  {
+   "file": "League-of-Legends__2026-02-19__23-00-32.mp4",
+   "champion": "Master Yi",
+   "map": "ARAM (Butcher's Bridge)",
+   "summary": "Early-game (level 7) Master Yi pentakill that ends with a dive under the enemy turret. He drops to 7% HP and survives about 1.3 s before the turret kills him.",
+   "hype": 8,
+   "readability": 6,
+   "spectacle": 5,
+   "best_in": 32.2,
+   "best_out": 54.6,
+   "kills": [
+    {
+     "marker": 32.54,
+     "est_t": 33.07,
+     "x": 0.41,
+     "y": 0.46,
+     "confidence": "high",
+     "note": "Kill counter 6->7, just after 'Your team destroyed the first turret'."
+    },
+    {
+     "marker": 39.54,
+     "est_t": 39.53,
+     "x": 0.45,
+     "y": 0.52,
+     "confidence": "high",
+     "note": "A clean 1v1 near the centre."
+    },
+    {
+     "marker": 45.54,
+     "est_t": 46,
+     "x": 0.38,
+     "y": 0.64,
+     "confidence": "high",
+     "note": "Inside a big teal dome. TRIPLE KILL banner at 46.15."
+    },
+    {
+     "marker": 48.54,
+     "est_t": 49.22,
+     "x": 0.46,
+     "y": 0.38,
+     "confidence": "high",
+     "note": "QUADRA KILL banner at 49.37."
+    },
+    {
+     "marker": 53.54,
+     "est_t": 53.83,
+     "x": 0.42,
+     "y": 0.28,
+     "confidence": "high",
+     "note": "Tower dive under the enemy turret. The PENTAKILL banner pops almost on the kill (53.98)."
+    }
+   ],
+   "low_hp": "The pentakill at 53.83 lands at about 460/1506 HP (30%). The turret then drops Yi to about 101/1506 (7%), where he stays from 54.5 to 55.8. He dies at about 55.85. Cut before 55.8 and it reads as surviving a tower dive at 7% HP.",
+   "camera": "Follows Yi steadily, with kills near the centre. It re-centres onto the turret area for the last kill.",
+   "issues": "The chain is slow: 20.8 s for 5 kills, 3-6.5 s apart. Early-game, so the spell effects are smaller. A teal dome covers the fight from 44 to 50. He dies to the turret at 55.85. Chat runs at the left.",
+   "best_use": "drop",
+   "editor_notes": "The PENTAKILL banner lands right on K5 (53.98), a ready-made sync point for a big hit. Spacing between kills is uneven, so remap hard. This is also the only clip in this batch that suits the fall section: use 52.6-55.7 (penta under the turret, then hanging at 7% HP) in slow motion, and cut before the death."
+  },
+  {
+   "file": "League-of-Legends__2026-02-19__23-03-03.mp4",
+   "champion": "Master Yi",
+   "map": "ARAM (Butcher's Bridge)",
+   "summary": "Level-10 Master Yi quadra. It opens with a bounty shutdown inside a shield bubble, then three more kills near the centre over 12 s.",
+   "hype": 6,
+   "readability": 6,
+   "spectacle": 6,
+   "best_in": 41.6,
+   "best_out": 55.8,
+   "kills": [
+    {
+     "marker": 42.29,
+     "est_t": 42.5,
+     "x": 0.41,
+     "y": 0.64,
+     "confidence": "high",
+     "note": "Kill counter 11->12. SHUT DOWN (bonus bounty) banner at 42.65. The fight is in a purple-white bubble; the '+348' gold pops at about (0.39, 0.72). The x/y position is medium confidence."
+    },
+    {
+     "marker": 48.29,
+     "est_t": 48.43,
+     "x": 0.43,
+     "y": 0.5,
+     "confidence": "high",
+     "note": "A '+200' pop near the centre. DOUBLE KILL banner around 49."
+    },
+    {
+     "marker": 50.29,
+     "est_t": 50.23,
+     "x": 0.47,
+     "y": 0.58,
+     "confidence": "high",
+     "note": "1.8 s after K2, among green effects."
+    },
+    {
+     "marker": 54.29,
+     "est_t": 54.4,
+     "x": 0.46,
+     "y": 0.47,
+     "confidence": "high",
+     "note": "Centred, with red and orange effects. The QUADRA KILL banner only appears at about 55.4."
+    }
+   ],
+   "low_hp": "",
+   "camera": "Follows Yi with moderate panning. The kills stay near the centre.",
+   "issues": "The QUADRA banner is about 1 s late. Chat runs at the left. There are gaps of 6 s (K1 to K2) and 4 s (K3 to K4). Min HP is 27% (477/1780), not near death. The death in this clip (around 12) is outside the chain.",
+   "best_use": "star",
+   "editor_notes": "A solid but not standout quadra, best used as filler in the multikill run. Most readable kill: K4 at 54.40, centred (0.46, 0.47). The K2-K3 pair (48.43/50.23) is 1.8 s apart. Use the SHUT DOWN at 42.5 as a 'bounty claimed' opener if you need one."
+  },
+  {
+   "file": "League-of-Legends__2026-02-22__19-00-45.mp4",
+   "champion": "Aphelios",
+   "map": "ARAM (Howling Abyss; 'HAM vs USA' round scoreboard at top)",
+   "summary": "Aphelios fights around the Nexus towers. He gets a quick double kill in a crowded blob by the turret (38.95, 39.75), then picks off two fleeing enemies 9 s and 14 s later for a slow quadra. The QUADRA KILL banner shows at about 55.9.",
+   "hype": 5,
+   "readability": 5,
+   "spectacle": 5,
+   "best_in": 37.9,
+   "best_out": 40.5,
+   "kills": [
+    {
+     "marker": 38.93,
+     "est_t": 38.95,
+     "x": 0.47,
+     "y": 0.28,
+     "confidence": "high",
+     "note": "KDA 9->10 between 38.90 and 39.00; big 597 crit top-centre beside the turret"
+    },
+    {
+     "marker": 39.93,
+     "est_t": 39.75,
+     "x": 0.5,
+     "y": 0.42,
+     "confidence": "high",
+     "note": "KDA 10->11 between 39.70 and 39.80; 583 crit and gold pop dead centre"
+    },
+    {
+     "marker": 48.93,
+     "est_t": 48.75,
+     "x": 0.33,
+     "y": 0.25,
+     "confidence": "high",
+     "note": "KDA flips at 48.75; fleeing enemy upper-left, TRIPLE KILL banner appears"
+    },
+    {
+     "marker": 53.93,
+     "est_t": 54.15,
+     "x": 0.3,
+     "y": 0.62,
+     "confidence": "high",
+     "note": "KDA flips at 54.15; enemy lower-left, Aphelios shooting from about (0.42, 0.45)"
+    }
+   ],
+   "low_hp": "",
+   "camera": "Steady and roughly centred on Aphelios. The action drifts off-centre, so kills 3 and 4 land upper-left and lower-left.",
+   "issues": "9 s of dead time between kills 2 and 3, then 5 s more to kill 4. Kills 1-2 are a dense blue-on-blue blob (snow map, blue Nexus turret). A stat tooltip flashes over the lower centre around 53.1. Chat log bottom-left. Same game as 19-06-43 but no overlapping footage.",
+   "best_use": "hunt",
+   "editor_notes": "Best piece: the double kill at 37.9-40.5, two hits 0.8 s apart (38.95, 39.75). Zoom target about (0.48, 0.35). For a longer hunt shot, jump-cut to 48.3-48.9 (triple, upper-left) and 53.6-54.4 (quadra, lower-left, red Infernum laser). HP never drops below about 68%, so it's no use for fall."
+  },
+  {
+   "file": "League-of-Legends__2026-02-22__19-06-43.mp4",
+   "champion": "Aphelios",
+   "map": "ARAM (Howling Abyss; 'HAM vs USA' round scoreboard)",
+   "summary": "Aphelios in a chaotic teamfight. He gets a kill at 34.45, then a double 0.5 s apart (43.95, 44.45) just as his HP crashes to 151/2600. He survives on about 6% HP for 8 s and finishes the quadra at 53.65.",
+   "hype": 7,
+   "readability": 5,
+   "spectacle": 7,
+   "best_in": 42.9,
+   "best_out": 45.3,
+   "kills": [
+    {
+     "marker": 34.59,
+     "est_t": 34.45,
+     "x": 0.36,
+     "y": 0.28,
+     "confidence": "medium",
+     "note": "KDA 16->17 at 34.45; 754 crit and gold upper-left. A big explosion at the right (0.67, 0.5) is a separate skirmish"
+    },
+    {
+     "marker": 43.59,
+     "est_t": 43.95,
+     "x": 0.59,
+     "y": 0.42,
+     "confidence": "high",
+     "note": "KDA 17->18 at 43.95; +200 gold pop right of centre"
+    },
+    {
+     "marker": 44.59,
+     "est_t": 44.45,
+     "x": 0.53,
+     "y": 0.55,
+     "confidence": "medium",
+     "note": "KDA 18->19 at 44.45; 773 crit with a white flash. His HP hits 151 in the same instant"
+    },
+    {
+     "marker": 53.59,
+     "est_t": 53.65,
+     "x": 0.52,
+     "y": 0.22,
+     "confidence": "high",
+     "note": "KDA 19->20 at 53.65; 726 crit top-centre, QUADRA KILL"
+    }
+   ],
+   "low_hp": "HP falls from 1521 to 151/2600 (6%) between 44.0 and 44.5, exactly as he gets kills 2 and 3. He stays at 150-170 HP from 44.5 to 52.0, then 550-600 HP (about 22%) for the quadra at 53.65. He survives.",
+   "camera": "Follows Aphelios, mostly steady with mild pans. The fight is a busy purple blob around the centre.",
+   "issues": "Kills 1->2 are 9.5 s apart and 3->4 are 9.2 s apart. The fight is a dense purple blob full of damage numbers. Low HP shows only in the HUD bar, so viewers won't notice it without a zoom or callout. Chat bottom-left. Same game as 19-00-45 (no overlap).",
+   "best_use": "fall",
+   "editor_notes": "Fall shot: 42.9-45.3. Ramp to slow-mo at 44.2-44.6, where the double kill and the HP crash to 151 coincide, and punch-zoom the HP bar (HUD bottom-centre, about x 0.42-0.55, y 0.97) to sell it. Optional tag: jump to 53.3-53.9 for the quadra while still low (enemy top-centre, 0.52, 0.22). Kill 1 (34.2-34.7) is explosive but cluttered."
+  },
+  {
+   "file": "League-of-Legends__2026-02-22__20-45-40.mp4",
+   "champion": "Samira",
+   "map": "ARAM (purple/pink single-lane bridge map)",
+   "summary": "Samira pentakill spread over about 20 s: kills at 4.95, 7.85, 14.95 and 20.05 (quadra). She then dives at about 7% HP for the penta at 24.65. The PENTAKILL! banner follows, and at 26.2-26.9 a huge red-orange 'GG' burst fills the upper-right of the screen.",
+   "hype": 9,
+   "readability": 6,
+   "spectacle": 9,
+   "best_in": 19,
+   "best_out": 27.3,
+   "kills": [
+    {
+     "marker": 4.41,
+     "est_t": 4.95,
+     "x": 0.46,
+     "y": 0.42,
+     "confidence": "high",
+     "note": "KDA 15->16 between 4.90 and 5.00; +200 gold left of Samira"
+    },
+    {
+     "marker": 7.41,
+     "est_t": 7.85,
+     "x": 0.54,
+     "y": 0.38,
+     "confidence": "high",
+     "note": "KDA 16->17 at 7.85; big orange slash, DOUBLE KILL"
+    },
+    {
+     "marker": 14.41,
+     "est_t": 14.95,
+     "x": 0.5,
+     "y": 0.37,
+     "confidence": "high",
+     "note": "KDA 17->18 at 14.95; TRIPLE KILL plus a level-up flash"
+    },
+    {
+     "marker": 20.41,
+     "est_t": 20.05,
+     "x": 0.52,
+     "y": 0.3,
+     "confidence": "high",
+     "note": "KDA 18->19 at 20.05; red slash and big crit, QUADRA KILL"
+    },
+    {
+     "marker": 24.41,
+     "est_t": 24.65,
+     "x": 0.47,
+     "y": 0.45,
+     "confidence": "high",
+     "note": "KDA 19->20 at 24.65; 999 crit inside Samira's R ring, PENTAKILL at about 7% HP"
+    }
+   ],
+   "low_hp": "Max HP 2716. HP drops to about 650 (24%) by 21.5, 235 (9%) at 24.0, and 166-192 (6-7%) from 24.5 to 27.0. So the pentakill at 24.65 lands at about 7% HP. She survives (level-up at about 27.4).",
+   "camera": "Locked and centred on Samira almost the whole time. A brief pan up-right at 25.9-26.3 toward the explosion.",
+   "issues": "The penta is spread over 20 s (gaps of 2.9, 7.1, 5.1 and 4.6 s). The tail of the clip (47.9-58 s) is the SAME footage as 20-46-31 at 0-10 s (offset 47.9 s, frames verified identical), including Samira's death at about 55.8 here. Chat log bottom-left. Dark purple palette.",
+   "best_use": "finale",
+   "editor_notes": "Best moment: 24.4-24.9, the penta at 7% HP inside the R ring, then the GG explosion at 26.4-26.9 (centre about 0.62, 0.28) as the closing hit. Finale cut 19.0-27.3 holds the quadra (20.05), the low-HP penta (24.65) and the explosion in 8.3 s, close to the 9.1 s section. It's also the best 'fall' candidate in this batch. For the full penta, use jump cuts: 4.6-5.1, 7.5-8.0, 14.6-15.1, 19.7-20.2, 24.3-24.9. 0-1 s is a calm walk near a pink-tree shrine (possible intro)."
+  },
+  {
+   "file": "League-of-Legends__2026-02-22__20-46-31.mp4",
+   "champion": "Samira",
+   "map": "ARAM (purple/pink single-lane bridge map)",
+   "summary": "Samira dives the enemy's outer tower at 20-30% HP. She gets a kill at 0.35, then a double kill under the turret with her ult (3.75, 5.75), then dies at about 7.9 s.",
+   "hype": 6,
+   "readability": 6,
+   "spectacle": 7,
+   "best_in": 2.9,
+   "best_out": 6.3,
+   "kills": [
+    {
+     "marker": 0.49,
+     "est_t": 0.35,
+     "x": 0.5,
+     "y": 0.33,
+     "confidence": "high",
+     "note": "KDA 20->21 at 0.35; the clip starts mid-fight, so take the lead-in from 20-45-40 at 47.5-48.5"
+    },
+    {
+     "marker": 3.49,
+     "est_t": 3.75,
+     "x": 0.5,
+     "y": 0.28,
+     "confidence": "high",
+     "note": "KDA 21->22 at 3.75; 999 crit just above the tower"
+    },
+    {
+     "marker": 5.49,
+     "est_t": 5.75,
+     "x": 0.62,
+     "y": 0.22,
+     "confidence": "high",
+     "note": "KDA 22->23 at 5.75; 999 crit upper-right, DOUBLE KILL banner"
+    }
+   ],
+   "low_hp": "Low the whole clip: 657-986/2915 HP (22-34%) from 0 to 4.75, then 367 (13%) at 5.0-5.25, just before kill 3 at 5.75. She dies at about 7.9 (0 HP from 8.0).",
+   "camera": "Steady and centred on Samira at the tower. The fight drifts up-right.",
+   "issues": "The user dies at about 7.9, so cut by 7.4. No lead-in (starts mid-fight). Footage overlaps 20-45-40 (this clip's 0-10 s = 20-45-40's 47.9-57.9). Only a DOUBLE KILL banner. Chat bottom-left.",
+   "best_use": "star",
+   "editor_notes": "Use 2.9-6.2: R spin under the tower at 2.5-3.5, a 999-crit kill at 3.75, a 999-crit kill at 5.75. Zoom target about (0.55, 0.3). It can back up 'fall' (13% HP kill at 5.75), but she dies 2 s later, so never run past 7.4. Don't cast both this and 20-45-40's 48-58 s section."
+  },
+  {
+   "file": "League-of-Legends__2026-02-22__20-48-45.mp4",
+   "champion": "Samira",
+   "map": "ARAM (purple/pink single-lane bridge map)",
+   "summary": "Samira catches the enemy in the lane and chains a quadra kill in 4.4 s (2.15, 3.75, 5.25, 6.55) with dashes and her ult, at full HP. The QUADRA KILL banner shows at about 7.7.",
+   "hype": 8,
+   "readability": 7,
+   "spectacle": 8,
+   "best_in": 1.3,
+   "best_out": 7.6,
+   "kills": [
+    {
+     "marker": 1.99,
+     "est_t": 2.15,
+     "x": 0.56,
+     "y": 0.4,
+     "confidence": "high",
+     "note": "KDA 27->28 at 2.15; 999 crit, 'You have slain an enemy' at 2.3"
+    },
+    {
+     "marker": 3.99,
+     "est_t": 3.75,
+     "x": 0.53,
+     "y": 0.33,
+     "confidence": "high",
+     "note": "KDA 28->29 at 3.75; orange slash. The banner is queued and doesn't say DOUBLE until 4.9"
+    },
+    {
+     "marker": 4.99,
+     "est_t": 5.25,
+     "x": 0.57,
+     "y": 0.28,
+     "confidence": "high",
+     "note": "KDA 29->30 at 5.25; +119 gold pop, no TRIPLE banner shown"
+    },
+    {
+     "marker": 6.99,
+     "est_t": 6.55,
+     "x": 0.5,
+     "y": 0.38,
+     "confidence": "high",
+     "note": "KDA 30->31 at 6.55; 999 crit inside the R ring"
+    }
+   ],
+   "low_hp": "",
+   "camera": "Follows Samira steadily. She stays a bit above centre, and the camera slides along the lane between kills 1 and 2.",
+   "issues": "Kill banners lag (DOUBLE at 4.9, triple skipped, QUADRA at about 7.7), so sync to the kills, not the banners. A red glow along the bottom edge at 4.8-7.2 is not low HP (HP stays full). Chat bottom-left. Later events in the clip (kills 47.99/50.99/54.99, death 55.99) were not reviewed.",
+   "best_use": "drop",
+   "editor_notes": "The tightest chain in this batch: kills 1.6, 1.5 and 1.3 s apart, so they line up with beats using light speed ramps. Samira's R ring (5.8-7.2), centred about (0.5, 0.4), is a great zoom target for the last two kills. 0.0-1.3 is a calm approach along the lane with minions, usable for intro."
+  },
+  {
+   "file": "League-of-Legends__2026-02-22__20-50-45.mp4",
+   "champion": "Samira",
+   "map": "ARAM (purple/pink single-lane bridge map)",
+   "summary": "Samira pentakill over 23 s. Two kills near the enemy's inner tower (31.85, 36.65), then an ult tower-dive triple at 41.95. After a 10 s lull come the quadra (51.85) and penta (54.55), 2.7 s apart. The PENTAKILL banner follows, then a huge red 'GG' burst at 56.1-56.5.",
+   "hype": 8,
+   "readability": 6,
+   "spectacle": 9,
+   "best_in": 51.2,
+   "best_out": 56.8,
+   "kills": [
+    {
+     "marker": 32.24,
+     "est_t": 31.85,
+     "x": 0.42,
+     "y": 0.47,
+     "confidence": "high",
+     "note": "KDA 34->35 at 31.85; 999 crit and pink flash"
+    },
+    {
+     "marker": 36.24,
+     "est_t": 36.65,
+     "x": 0.4,
+     "y": 0.36,
+     "confidence": "high",
+     "note": "KDA 35->36 at 36.65; 999 crit, DOUBLE KILL"
+    },
+    {
+     "marker": 42.24,
+     "est_t": 41.95,
+     "x": 0.44,
+     "y": 0.47,
+     "confidence": "high",
+     "note": "KDA 36->37 at 41.95; R ring around the enemy tower, TRIPLE KILL"
+    },
+    {
+     "marker": 52.24,
+     "est_t": 51.85,
+     "x": 0.6,
+     "y": 0.4,
+     "confidence": "high",
+     "note": "KDA 37->38 at 51.85; 999 crit right of centre, QUADRA KILL"
+    },
+    {
+     "marker": 54.24,
+     "est_t": 54.55,
+     "x": 0.6,
+     "y": 0.22,
+     "confidence": "high",
+     "note": "KDA 38->39 at 54.55; 999 crit upper-right next to a blue ally bubble, PENTAKILL"
+    }
+   ],
+   "low_hp": "",
+   "camera": "Follows Samira with short pans. The quadra and penta happen up and to the right of centre.",
+   "issues": "10 s lull between kills 3 and 4 (42-51.8) that is just walking. Kills 4-5 are upper-right and smallish among minions. Dark purple palette, chat bottom-left. HP never drops below about 38%, so it can't be used for fall.",
+   "best_use": "star",
+   "editor_notes": "Best moment: 54.3-54.8 (penta), then the GG explosion at 56.1-56.5 (centre about 0.62, 0.3) as a hard hit. Star shot 51.2-56.8 gives quadra, penta and explosion. The ult tower-dive triple at 41.2-42.3 (R ring around the turret, centre about 0.5, 0.45) works as a standalone shot. It's the backup finale or drop if 20-45-40 or 20-48-45 are used elsewhere. The 45-50 s walk down the lane is a slow approach that could suit intro."
+  },
+  {
+   "file": "League-of-Legends__2026-01-10__18-59-52.mp4",
+   "champion": "Xin Zhao",
+   "map": "Summoners Rift",
+   "summary": "Xin Zhao fights in the jungle by the river and gets a QUADRA KILL over about 14 s. The first kill (40.3) is inside his ult ring, kills 2 and 3 come 0.35 s apart (47.05, 47.4), and the last one on Lucian lands around 54.5. An ally killed the fifth enemy, so the fight ends in an ace.",
+   "hype": 7,
+   "readability": 5,
+   "spectacle": 6,
+   "best_in": 39.3,
+   "best_out": 55.6,
+   "kills": [
+    {
+     "marker": 40.2,
+     "est_t": 40.3,
+     "x": 0.58,
+     "y": 0.29,
+     "confidence": "high",
+     "note": "No banner at 40.20. The killing-spree banner and +409 gold are up at 40.45. Inside the Crescent Guard (R) ring."
+    },
+    {
+     "marker": 46.2,
+     "est_t": 47.05,
+     "x": 0.58,
+     "y": 0.3,
+     "confidence": "medium",
+     "note": "Nothing dies near 46.2. The DOUBLE KILL banner appears between 46.95 and 47.20, with no queued banner ahead of it. Chat: double kill on Roma Kitty."
+    },
+    {
+     "marker": 47.2,
+     "est_t": 47.4,
+     "x": 0.56,
+     "y": 0.28,
+     "confidence": "low",
+     "note": "The triple kill (Twisted Fate). Gold jumps +619 and the +370 popup is visible by 47.60. The TRIPLE KILL banner only shows at about 50.1 because it waits behind the DOUBLE banner."
+    },
+    {
+     "marker": 53.2,
+     "est_t": 54.5,
+     "x": 0.55,
+     "y": 0.32,
+     "confidence": "low",
+     "note": "Quadra on Lucian. Gold is still flat at 53.93 and +380 by 55.20, where the QUADRA KILL banner is up. The DOUBLE KILL banner at 52.4-54 belongs to the enemy Lucian, not the user."
+    }
+   ],
+   "low_hp": "",
+   "camera": "Steady, roughly locked on Xin. The fight stays in the upper-centre (y about 0.3) the whole time, with only small pans.",
+   "issues": "Dark jungle and a busy blob of effects. Lots of chat lines bottom-left. Gaps of 6.7 s (K1 to K2) and 7 s (K3 to K4) are mostly chasing. Multikill banners run 2-3 s behind the kills. The enemy's DOUBLE KILL banner shows just before the quadra.",
+   "best_use": "drop",
+   "editor_notes": "Sync hits to the kills, not the banners. Sub-cuts: 39.4-40.9 (K1 inside the gold Xin R ring, flashiest frame at about 40.0-40.3), then 46.4-48.0 (K2 and K3 0.35 s apart, a natural double hit for a velocity ramp), then skip 48.0-53.8 and finish 53.9-55.6 on the QUADRA KILL banner. Zoom target about (0.57,0.30); 1.4x crops cleanly because the action never leaves the upper-centre."
+  },
+  {
+   "file": "League-of-Legends__2026-01-11__03-11-30.mp4",
+   "champion": "Samira",
+   "map": "ARAM (bridge map, Bilgewater/Butcher's Bridge look)",
+   "summary": "Samira gets a kill at 51.55 during a camera jump. She then ults into the enemy clump and gets two more inside her spinning Inferno Trigger ring: a double kill at about 54.55 and a third kill at about 55.2.",
+   "hype": 6,
+   "readability": 6,
+   "spectacle": 8,
+   "best_in": 52.9,
+   "best_out": 55.9,
+   "kills": [
+    {
+     "marker": 51.41,
+     "est_t": 51.55,
+     "x": 0.42,
+     "y": 0.47,
+     "confidence": "medium",
+     "note": "The 'You have slain an enemy!' banner appears between 51.41 and 51.66. KDA goes from 1 to 2 by 52.07. The camera jumps to a new framing at about 51.6."
+    },
+    {
+     "marker": 54.41,
+     "est_t": 54.55,
+     "x": 0.46,
+     "y": 0.47,
+     "confidence": "medium",
+     "note": "No DOUBLE KILL banner at 54.41; it is up at 54.66. Kill is inside the R ring with a 1044 damage number."
+    },
+    {
+     "marker": 55.41,
+     "est_t": 55.2,
+     "x": 0.44,
+     "y": 0.35,
+     "confidence": "low",
+     "note": "KDA goes from 3 to 4 between 54.74 and 55.41, and a +116 gold popup follows. The triple banner is not in the sheet; it probably shows after about 57, queued behind the DOUBLE banner."
+    }
+   ],
+   "low_hp": "",
+   "camera": "Follows Samira, mostly centred. It jumps or re-centres hard at about 51.6, right on kill 1, and is steady during the ult.",
+   "issues": "Very cluttered ARAM brawl. The camera jump at 51.6 makes kill 1 hard to use. The triple banner is not visible in the window checked.",
+   "best_use": "star",
+   "editor_notes": "Best moment: the R spin from 53.0 to 55.4. The magenta and blue ring is centred, her style grade S floats overhead, the double kill hits at about 54.55 and the third kill at about 55.2. Zoom about 1.3x on the ring centre (0.45,0.47). Start after the camera jump; 52.9 is a good in-point. Kills 2 and 3 are about 0.65 s apart, which is nice for two quick hits."
+  },
+  {
+   "file": "League-of-Legends__2026-01-11__03-44-36.mp4",
+   "champion": "Jinx",
+   "map": "ARAM (bridge map, Bilgewater/Butcher's Bridge look)",
+   "summary": "Jinx takes four kills in 11 s: 43.5, 46.4, 50.15 and 54.8. The game shows double, triple, then a SHUT DOWN banner. She sits at about 20-25% HP for the second half and survives.",
+   "hype": 5,
+   "readability": 5,
+   "spectacle": 4,
+   "best_in": 42.8,
+   "best_out": 55.4,
+   "kills": [
+    {
+     "marker": 43.27,
+     "est_t": 43.5,
+     "x": 0.49,
+     "y": 0.62,
+     "confidence": "medium",
+     "note": "A red vertical kill beam hits the target at 43.52. KDA is 3 by 43.81. No own banner because the 'Ally slain' banner is still showing."
+    },
+    {
+     "marker": 46.27,
+     "est_t": 46.4,
+     "x": 0.63,
+     "y": 0.3,
+     "confidence": "medium",
+     "note": "+230 gold popup at 46.52 and 47.21. The DOUBLE KILL banner shows late (about 48.3) behind the 'Enemy slain' banner."
+    },
+    {
+     "marker": 50.27,
+     "est_t": 50.15,
+     "x": 0.46,
+     "y": 0.25,
+     "confidence": "medium",
+     "note": "+354 gold visible at 50.27, nothing at 50.02. The TRIPLE banner is delayed to about 51.7."
+    },
+    {
+     "marker": 54.27,
+     "est_t": 54.8,
+     "x": 0.62,
+     "y": 0.2,
+     "confidence": "low",
+     "note": "KDA goes from 5 to 6 between 54.52 and 55.14. The SHUT DOWN! banner and +200 gold are up at 55.14. Chat says 'has shut down', so a quadra is not confirmed."
+    }
+   ],
+   "low_hp": "HP about 20-25% (roughly 300-420 of 1527) from about 48.3 to 54.0. She survives and still gets kills 3 (50.15) and 4 (54.8, a shutdown at about 20% HP). Low, but not a one-hit sliver.",
+   "camera": "Steady, follows Jinx. The action spreads over the centre and upper half and drifts upward for the last kill.",
+   "issues": "Multikill banners run 1.5-2 s behind the kills. The 4th kill reads SHUT DOWN!, not QUADRA. Champions are small, the map edges are dark, and chat spam sits bottom-left. Effects are modest for a carry.",
+   "best_use": "hunt",
+   "editor_notes": "Kills are 3-4 s apart, about one per bar at this tempo, which suits the hunt build. Best single moment: K3 at about 50.15 (rocket hit, +354 gold at (0.46,0.25)). Zoom about 1.3x around (0.52,0.40). Fallback for 'fall' if nothing lower exists: the 20% HP stretch ending in the 54.8 shutdown."
+  },
+  {
+   "file": "League-of-Legends__2026-01-11__03-54-09.mp4",
+   "champion": "Jinx",
+   "map": "ARAM (bridge map, Bilgewater/Butcher's Bridge look)",
+   "summary": "Late-game Jinx (15 min) takes four kills in 7.7 s. The first (46.4) is a big pink rocket explosion, then a shutdown at 51.15, then kills at 52.3 and 54.05. The TRIPLE KILL banner arrives on the last kill.",
+   "hype": 6,
+   "readability": 5,
+   "spectacle": 6,
+   "best_in": 45.7,
+   "best_out": 54.8,
+   "kills": [
+    {
+     "marker": 46.52,
+     "est_t": 46.4,
+     "x": 0.57,
+     "y": 0.3,
+     "confidence": "medium",
+     "note": "No banner at 46.27; 'You have slain an enemy!' is up at 46.52. Pink and purple rocket explosion, +142 gold at 46.86."
+    },
+    {
+     "marker": 50.52,
+     "est_t": 51.15,
+     "x": 0.43,
+     "y": 0.22,
+     "confidence": "high",
+     "note": "No banner at 51.02; SHUT DOWN! and +356 gold are up at 51.27. Chat at 15:58 confirms the shutdown."
+    },
+    {
+     "marker": 51.52,
+     "est_t": 52.3,
+     "x": 0.37,
+     "y": 0.17,
+     "confidence": "medium",
+     "note": "KDA goes from 15 to 16 between 52.06 and 52.92. +106 gold already visible at 52.52. Sits high, near the banner."
+    },
+    {
+     "marker": 53.52,
+     "est_t": 54.05,
+     "x": 0.47,
+     "y": 0.25,
+     "confidence": "medium",
+     "note": "KDA goes from 16 to 17 between 53.79 and 54.66. Chat 'triple kill' at 16:01 puts it at or before about 54.35. +169 gold and a purple ring at 54.66, and the TRIPLE KILL banner shows."
+    }
+   ],
+   "low_hp": "",
+   "camera": "Steady follow on Jinx. The camera drifts left between kill 1 and kill 2, and later kills sit in the upper third.",
+   "issues": "Kills 2-4 sit high in the frame, close to the banner and top HUD. Chat spam bottom-left. 47-50.5 is repositioning with no kill. The game's banners are odd (shutdown, then the triple appears on the 4th kill).",
+   "best_use": "star",
+   "editor_notes": "Four kills in 7.7 s with full HP. Best visual: the 46.4 pink rocket blast at (0.57,0.30). Cut 45.7-46.9, skip to 50.6-54.8 for three kills about 1-1.2 s apart, which fits beat-synced hits. Zoom about 1.3x centred near (0.45,0.28), keeping the top HUD out."
+  },
+  {
+   "file": "League-of-Legends__2026-01-19__22-35-41.mp4",
+   "champion": "unknown (dark-purple-haired female portrait; maybe Kai'Sa)",
+   "map": "ARAM (Howling Abyss)",
+   "summary": "In a messy ARAM teamfight, the user gets two kills about 0.7 s apart (48.8, 49.5; DOUBLE KILL). After a short chase they get a third kill at about 53.85 in the lower-left for a TRIPLE.",
+   "hype": 5,
+   "readability": 3,
+   "spectacle": 7,
+   "best_in": 47.4,
+   "best_out": 50.2,
+   "kills": [
+    {
+     "marker": 48.65,
+     "est_t": 48.8,
+     "x": 0.46,
+     "y": 0.48,
+     "confidence": "low",
+     "note": "KDA goes from 5 to 6 between 48.31 and 49.05. +200 gold at 49.05, near a red vertical kill beam. The 'Enemy slain' banner up to 48.9 is an ally's kill."
+    },
+    {
+     "marker": 48.65,
+     "est_t": 49.5,
+     "x": 0.62,
+     "y": 0.32,
+     "confidence": "medium",
+     "note": "Second marker at the same time. KDA goes from 6 to 7 between 49.05 and 49.78. Chat 16:58 puts it at or after 49.24. DOUBLE KILL banner and +200 gold up at 49.78."
+    },
+    {
+     "marker": 53.65,
+     "est_t": 53.85,
+     "x": 0.23,
+     "y": 0.63,
+     "confidence": "medium",
+     "note": "KDA goes from 7 to 8 between 53.45 and 54.18. 1195 damage hit at 53.90 and +172 gold at 54.18. Lower-left, under the chat box. The TRIPLE KILL banner is delayed to 55.65."
+    }
+   ],
+   "low_hp": "",
+   "camera": "Steady. The teamfight is centred from 47 to 50, then the user moves into the lower-left for kill 3.",
+   "issues": "A chaotic blob of overlapping AoEs (green zone, blue rings, explosions), so you can't see who dies. Kill 3 sits under the chat box. Banners lag. The champion isn't identified.",
+   "best_use": "hunt",
+   "editor_notes": "Use 47.4-50.2 only. It's a bright, explosive two-kill burst; the DOUBLE KILL banner shows at 49.78. A 1.2x zoom on (0.52,0.42) tightens the blob. Kill 3 at 53.85 needs a crop toward (0.25,0.6) or a skip. Better as a fast energy cut than a showcase."
+  },
+  {
+   "file": "League-of-Legends__2026-01-25__13-15-45.mp4",
+   "champion": "Leona",
+   "map": "ARAM (Howling Abyss)",
+   "summary": "A tank Leona with about 13k HP (fits the HEARTSTEEL theme) gets a QUADRA KILL over 25 s in a clumped bridge fight. Kills land at about 30.6, 37.2, 45.75 and 54.8; the triple and quadra banners hit at 45.85 and about 55.5.",
+   "hype": 6,
+   "readability": 5,
+   "spectacle": 7,
+   "best_in": 44.8,
+   "best_out": 55.8,
+   "kills": [
+    {
+     "marker": 29.6,
+     "est_t": 30.6,
+     "x": 0.56,
+     "y": 0.25,
+     "confidence": "low",
+     "note": "KDA goes from 6 to 7 between 29.60 and 31.60, with no banner yet at 29.85. 'You have slain an enemy!' is up at 31.60. Purple R blast at the top-centre."
+    },
+    {
+     "marker": 36.6,
+     "est_t": 37.2,
+     "x": 0.55,
+     "y": 0.3,
+     "confidence": "low",
+     "note": "No banner at 36.85; DOUBLE KILL is up at 37.60. Chat: double on Twisted Fate."
+    },
+    {
+     "marker": 45.6,
+     "est_t": 45.75,
+     "x": 0.6,
+     "y": 0.35,
+     "confidence": "medium",
+     "note": "TRIPLE KILL banner already visible at 45.85, with KDA 9 by 47.60. Kill is in the middle of the clump."
+    },
+    {
+     "marker": 53.6,
+     "est_t": 54.8,
+     "x": 0.62,
+     "y": 0.28,
+     "confidence": "low",
+     "note": "KDA goes from 9 to 10 between 53.60 and 55.60. The chat 'quadra kill' line at 19:41 puts it at or after about 54.6. QUADRA KILL banner at 55.60. The SHUT DOWN banner at 52.85-54 is an ally Veigar's kill."
+    }
+   ],
+   "low_hp": "",
+   "camera": "Steady follow on Leona. The fight stays in the upper-centre third with few pans.",
+   "issues": "The kills are spread out (gaps of 6.6, 8.5 and 9 s), so most of the clip is brawling with no kills. Clumped ARAM fight with lots of overlapping purple effects. An ally's SHUT DOWN banner shows right before the quadra.",
+   "best_use": "star",
+   "editor_notes": "Use two pieces: 44.8-46.5 (the triple, TRIPLE banner at 45.85, centred at (0.6,0.35)) and 53.8-55.8 (the quadra, big purple and gold burst at (0.62,0.28), QUADRA KILL banner by 55.6). Could also work as an alternative drop quadra if the fast cuts hide the gaps. Leona's huge HP bar (about 13k) is a fun HEARTSTEEL nod worth a 1.5x zoom on her HUD for a frame. Zoom about 1.3x on (0.58,0.32) for the fight."
+  },
+  {
+   "file": "League-of-Legends__2026-02-19__23-12-48.mp4",
+   "champion": "Kayn (HEARTSTEEL skin)",
+   "map": "ARAM (Butcher's Bridge / Bilgewater bridge)",
+   "summary": "HEARTSTEEL Kayn gets a quadra in 9.1 s (36.25-45.35), the last two while at 12-19% HP. After the ACE he walks into the enemy base, kills a respawned enemy at their nexus for the PENTAKILL (54.15), and dies to the nexus turret 0.8 s later.",
+   "hype": 8,
+   "readability": 4,
+   "spectacle": 8,
+   "best_in": 35.4,
+   "best_out": 45.9,
+   "kills": [
+    {
+     "marker": 36.13,
+     "est_t": 36.25,
+     "x": 0.44,
+     "y": 0.58,
+     "confidence": "high",
+     "note": "KDA 21->22 between 36.2 and 36.3; kill inside the blue shield swirl, lower-centre"
+    },
+    {
+     "marker": 41.13,
+     "est_t": 41.35,
+     "x": 0.63,
+     "y": 0.22,
+     "confidence": "high",
+     "note": "KDA 22->23 between 41.3 and 41.4; '+200' gold pops at top-right of centre; DOUBLE KILL banner only at 41.9"
+    },
+    {
+     "marker": 43.13,
+     "est_t": 43.85,
+     "x": 0.41,
+     "y": 0.55,
+     "confidence": "high",
+     "note": "KDA 23->24 between 43.8 and 43.9 (marker is 0.7 s early); chaotic blob of effects; Kayn at ~12% HP"
+    },
+    {
+     "marker": 45.13,
+     "est_t": 45.35,
+     "x": 0.55,
+     "y": 0.37,
+     "confidence": "high",
+     "note": "KDA 24->25 between 45.3 and 45.4; QUADRA banner is queued until 47.7"
+    },
+    {
+     "marker": 54.13,
+     "est_t": 54.15,
+     "x": 0.54,
+     "y": 0.48,
+     "confidence": "high",
+     "note": "KDA 25->26 between 54.1 and 54.2; PENTA on a respawned enemy at their nexus under turret fire; PENTAKILL banner only at ~55.0, over the grey death screen"
+    }
+   ],
+   "low_hp": "43.5 s: Kayn at 349/2857 HP (12%) and stays at 13-19% until ~49 s, yet takes the triple (43.85) and quadra (45.35) in that window. Good fall candidate (42.6-45.9). Later dies to the nexus turret at 54.95, 0.8 s after the penta kill (0 HP by 55.5).",
+   "camera": "Mostly steady with Kayn near centre; hard reposition at ~41.75 when his R exits; then follows a long walk into the enemy base from 46 to 54.",
+   "issues": "8.8 s of dead time between kill 4 (45.35) and kill 5 (54.15) after the ACE. The user dies at 54.95 and the screen greys from ~55.0. Very dark map. Chat log bottom-left from ~41 s. Kill banners lag the kills because they queue (DOUBLE 41.9, TRIPLE 44.7, QUADRA 47.7, ACE 50.5, PENTAKILL 55.0). Overlaps the duplicate file 2026-02-19__23-12-35, so use only one.",
+   "best_use": "drop",
+   "editor_notes": "HEARTSTEEL Kayn skin, so it fits a HEARTSTEEL song. Quadra kills at 36.25 / 41.35 / 43.85 / 45.35. Single best moment: 43.85-45.35 (triple then quadra at ~13% HP). Zoom target ~(0.5, 0.45). For the full penta, jump-cut from ~45.8 to ~53.6 and end by ~54.8 before the death. Or hold the grey 'PENTAKILL!' death screen (55.0-55.6) as a 'died a rock star' beat. The dark, quiet approach at 32.1-35.0 could serve the CCTV intro."
+  },
+  {
+   "file": "League-of-Legends__2026-02-20__00-59-44.mp4",
+   "champion": "Samira",
+   "map": "ARAM (bridge variant, pink trees / purple ground)",
+   "summary": "Samira gets a quadra spread over 12.3 s (42.35, 48.95, 53.15, 54.65). The last two kills come 1.5 s apart inside her R bullet ring, then she dies at 55.95.",
+   "hype": 6,
+   "readability": 5,
+   "spectacle": 7,
+   "best_in": 52.3,
+   "best_out": 55.3,
+   "kills": [
+    {
+     "marker": 42.03,
+     "est_t": 42.35,
+     "x": 0.53,
+     "y": 0.2,
+     "confidence": "high",
+     "note": "KDA 3->4 between 42.3 and 42.4; high on screen right after a camera jump"
+    },
+    {
+     "marker": 49.03,
+     "est_t": 48.95,
+     "x": 0.56,
+     "y": 0.3,
+     "confidence": "high",
+     "note": "KDA 4->5 between 48.9 and 49.0; '+159' gold pop"
+    },
+    {
+     "marker": 53.03,
+     "est_t": 53.15,
+     "x": 0.55,
+     "y": 0.35,
+     "confidence": "high",
+     "note": "KDA 5->6 between 53.1 and 53.2; '999' crit"
+    },
+    {
+     "marker": 54.03,
+     "est_t": 54.65,
+     "x": 0.6,
+     "y": 0.52,
+     "confidence": "high",
+     "note": "KDA 6->7 between 54.6 and 54.7 (marker 0.6 s early); inside the R ring, '+188/999'"
+    }
+   ],
+   "low_hp": "Slides from ~40% at 50 s to 175/1967 (9%) at 55.5 s. Gets the quadra at 54.65 at ~20% HP, then dies at 55.95 (KDA death counter); death recap from ~56.0. Not a survive moment.",
+   "camera": "Follows Samira. Big jump upward at ~42.0, just before kill 1, so kill 1 sits near the top. Later kills are lower-centre.",
+   "issues": "6.6 s gap between kills 1 and 2. The user dies 1.3 s after the quadra. Camera jump at 42.0. Chat log on the left. Same Samira game as 01-03-30, 01-06-26, 01-08-10 and 01-11-57 (too much Samira if all are used). Overlaps the duplicate 01-00-31.",
+   "best_use": "star",
+   "editor_notes": "Best moment: the R ring 53.0-54.9 with kill 3 (53.15) and the quadra kill (54.65) 1.5 s apart; zoom ~(0.57, 0.45). Cut out by 55.4 before the death. For a longer shot, 47.9-49.4 has kill 2 centred."
+  },
+  {
+   "file": "League-of-Legends__2026-02-20__01-03-30.mp4",
+   "champion": "Samira",
+   "map": "ARAM (bridge variant, pink trees / purple ground)",
+   "summary": "Samira gets a steady quadra: kills at 41.45, 45.05 and 48.55, about 3.5 s apart, then the 4th at 53.95 inside her R ring with a 999 crit. No death.",
+   "hype": 6,
+   "readability": 7,
+   "spectacle": 6,
+   "best_in": 40.6,
+   "best_out": 49.2,
+   "kills": [
+    {
+     "marker": 41.2,
+     "est_t": 41.45,
+     "x": 0.57,
+     "y": 0.45,
+     "confidence": "high",
+     "note": "KDA 12->13 between 41.4 and 41.5; '608' crit, centre"
+    },
+    {
+     "marker": 45.2,
+     "est_t": 45.05,
+     "x": 0.46,
+     "y": 0.53,
+     "confidence": "high",
+     "note": "KDA 13->14 between 45.0 and 45.1 (an assist lands at the same moment); red slash, centre"
+    },
+    {
+     "marker": 48.2,
+     "est_t": 48.55,
+     "x": 0.53,
+     "y": 0.42,
+     "confidence": "high",
+     "note": "KDA 14->15 between 48.5 and 48.6; '999/471'"
+    },
+    {
+     "marker": 54.2,
+     "est_t": 53.95,
+     "x": 0.58,
+     "y": 0.3,
+     "confidence": "high",
+     "note": "KDA 15->16 between 53.9 and 54.0; inside the R ring, '999'; QUADRA banner at ~54.9"
+    }
+   ],
+   "low_hp": "",
+   "camera": "Steady, follows Samira. Kills are mid-screen. Drifts slightly down toward an ally turret for kill 4.",
+   "issues": "Kills 3.5-5.4 s apart, so no burst. Banners queue and lag (an 'Enemy slain' banner at 45.15, DOUBLE ~48.5, TRIPLE 51.1, QUADRA 54.9). Chat log on the left. Same Samira game as the other four. Overlaps the duplicate 01-03-21.",
+   "best_use": "hunt",
+   "editor_notes": "Hunt pacing: 41.45 / 45.05 / 48.55, evenly spaced like beats; zoom ~(0.53, 0.45). The 4th kill at 53.95 (R ring plus 999 crit, 53.2-54.3) is a nice extra hit if hunt needs more. The purple ground gives good contrast, so this is one of the cleaner Samira clips."
+  },
+  {
+   "file": "League-of-Legends__2026-02-20__01-06-26.mp4",
+   "champion": "Samira",
+   "map": "ARAM (bridge variant, pink trees / purple ground)",
+   "summary": "Samira gets a triple: a big 584 crit kill at 36.25, then two kills 0.5 s apart (39.45, 39.95) inside her R ring. After the ACE she dives the enemy base for two more kills and dies at 56.25.",
+   "hype": 5,
+   "readability": 6,
+   "spectacle": 6,
+   "best_in": 35.5,
+   "best_out": 40.5,
+   "kills": [
+    {
+     "marker": 36.2,
+     "est_t": 36.25,
+     "x": 0.57,
+     "y": 0.38,
+     "confidence": "high",
+     "note": "KDA 19->20 between 36.2 and 36.3; '584' crit"
+    },
+    {
+     "marker": 39.2,
+     "est_t": 39.45,
+     "x": 0.59,
+     "y": 0.25,
+     "confidence": "high",
+     "note": "KDA 20->21 between 39.4 and 39.5; '+200/999'"
+    },
+    {
+     "marker": 39.2,
+     "est_t": 39.95,
+     "x": 0.55,
+     "y": 0.4,
+     "confidence": "high",
+     "note": "KDA 21->22 between 39.9 and 40.0; '999', inside the R ring; TRIPLE banner only at ~42-43"
+    }
+   ],
+   "low_hp": "Drops to 252/3543 (7%) at 56.0 under the enemy turret and dies at 56.25. That is after the chain, so not a survive moment.",
+   "camera": "Steady. Kills in the upper-middle. The camera slides to the enemy base after the ACE (~45 s).",
+   "issues": "Only a triple. Then ~13 s of ACE and walking. Extra kills at 53.55 and 55.35 (enemy base, 'rampage', not part of the multikill), then the user dies at 56.25. The triple banner shows late because it queues. Same Samira game as the other four. Overlaps the duplicate 01-06-10.",
+   "best_use": "star",
+   "editor_notes": "Best moment: 39.45 + 39.95, two kills 0.5 s apart inside the R ring; zoom ~(0.57, 0.32). Hit them on two consecutive beats. The first kill (36.25, big '584') is a good lead-in. The calm approach at 32.2-33.4 could be intro filler."
+  },
+  {
+   "file": "League-of-Legends__2026-02-20__01-08-10.mp4",
+   "champion": "Samira",
+   "map": "ARAM (bridge variant, pink trees / purple ground)",
+   "summary": "This is a PENTAKILL, not just the quadra the chain lists. Kills at 31.35, 34.75, 38.75 and 44.55, then a 10.8 s walk to the enemy nexus for the 5th kill at 55.35, with the PENTAKILL banner and chat line at 55.45. No death.",
+   "hype": 7,
+   "readability": 6,
+   "spectacle": 7,
+   "best_in": 30.5,
+   "best_out": 39.3,
+   "kills": [
+    {
+     "marker": 31.03,
+     "est_t": 31.35,
+     "x": 0.55,
+     "y": 0.33,
+     "confidence": "high",
+     "note": "KDA 24->25 between 31.3 and 31.4; '999/824'"
+    },
+    {
+     "marker": 34.03,
+     "est_t": 34.75,
+     "x": 0.48,
+     "y": 0.36,
+     "confidence": "high",
+     "note": "KDA 25->26 between 34.7 and 34.8 (marker 0.7 s early); explosion, '920'"
+    },
+    {
+     "marker": 38.03,
+     "est_t": 38.75,
+     "x": 0.49,
+     "y": 0.25,
+     "confidence": "high",
+     "note": "KDA 26->27 between 38.7 and 38.8 (marker 0.7 s early); '999/413'"
+    },
+    {
+     "marker": 44.03,
+     "est_t": 44.55,
+     "x": 0.6,
+     "y": 0.42,
+     "confidence": "high",
+     "note": "KDA 27->28 between 44.5 and 44.6; '999/1048'; Samira at 18% HP"
+    },
+    {
+     "marker": 55.03,
+     "est_t": 55.35,
+     "x": 0.53,
+     "y": 0.31,
+     "confidence": "high",
+     "note": "KDA 28->29 between 55.3 and 55.4; at the enemy nexus; PENTAKILL banner at 55.45"
+    }
+   ],
+   "low_hp": "44.0-44.5 s at ~681/3762 HP (18%) when the 4th kill lands at 44.55. Survives and heals. Not dramatic.",
+   "camera": "Steady follow with quick pans on dashes. The 5th kill comes after a long walk to the enemy nexus.",
+   "issues": "The kills spread over 24 s, with a 10.8 s gap before the 5th. Banners queue and lag. Chat log on the left. Same Samira game as the other four. Overlaps the duplicates 01-07-59 and 01-07-49.",
+   "best_use": "hunt",
+   "editor_notes": "Hunt: 31.35 / 34.75 / 38.75 (3.4-4 s apart); zoom ~(0.5, 0.32). A huge flaming ult rolls across the screen at 33.0-34.5, which looks great. Big red blast at 39.7 and a white flash at 43.5. For a penta payoff, use 44.55 (4th kill), then jump-cut to 54.8-56.0 for the nexus kill and the PENTAKILL banner."
+  },
+  {
+   "file": "League-of-Legends__2026-02-20__01-11-57.mp4",
+   "champion": "Samira",
+   "map": "ARAM (bridge variant, pink trees / purple ground)",
+   "summary": "Samira gets a tight PENTAKILL: five kills in 6.8 s (46.75, 49.05, 50.65, 52.05, 53.55), all in the upper-middle of the screen. Two R rings, a big green ally ring and a white-green flash land on the final kill. She dips to 16% HP and heals back.",
+   "hype": 10,
+   "readability": 7,
+   "spectacle": 9,
+   "best_in": 45.9,
+   "best_out": 56,
+   "kills": [
+    {
+     "marker": 46.7,
+     "est_t": 46.75,
+     "x": 0.48,
+     "y": 0.3,
+     "confidence": "high",
+     "note": "KDA 32->33 between 46.7 and 46.8; '999/1123'"
+    },
+    {
+     "marker": 48.7,
+     "est_t": 49.05,
+     "x": 0.5,
+     "y": 0.36,
+     "confidence": "high",
+     "note": "KDA 33->34 between 49.0 and 49.1; purple R ring; camera pans with her dash"
+    },
+    {
+     "marker": 50.7,
+     "est_t": 50.65,
+     "x": 0.58,
+     "y": 0.3,
+     "confidence": "high",
+     "note": "KDA 34->35 between 50.6 and 50.7; orange R ring, '999/1067'"
+    },
+    {
+     "marker": 51.7,
+     "est_t": 52.05,
+     "x": 0.43,
+     "y": 0.25,
+     "confidence": "high",
+     "note": "KDA 35->36 between 52.0 and 52.1; '+200/958'"
+    },
+    {
+     "marker": 53.7,
+     "est_t": 53.55,
+     "x": 0.53,
+     "y": 0.24,
+     "confidence": "high",
+     "note": "KDA 36->37 between 53.5 and 53.6; white-green flash at 53.45; PENTAKILL banner at 55.7"
+    }
+   ],
+   "low_hp": "53.5 s: 625/3986 HP (16%) right as the penta kill lands at 53.55. Lifesteal brings her back to ~55% by 54.0. Moderate dip, survives.",
+   "camera": "Follows Samira closely and pans with each dash (e.g. 49.0-49.15). All five kills sit in the upper-middle (y 0.24-0.36).",
+   "issues": "An ally's DOUBLE KILL banner sits at top-centre from 45.3 to ~47.5, before the user's first kill, which could confuse viewers. Banners queue: TRIPLE never shows, QUADRA at ~53.1, PENTAKILL at 55.7 (2.1 s after the last kill). Stacked damage numbers and the green ally ring clutter 51.4-54. Chat log on the left. Before 45.9 it is a turret siege. Same Samira game as the other four.",
+   "best_use": "finale",
+   "editor_notes": "The best play in this batch. Gaps between kills are 2.3, 1.6, 1.4 and 1.5 s, so the pace speeds up, which is ideal for velocity sync. Zoom target ~(0.5, 0.3). Big moments: purple R ring at 48.7, orange R ring at 50.5-51.7, white-green flash at 53.45 into the penta kill at 53.55. Hold to ~55.9 to show the PENTAKILL banner, or overlay your own banner at 53.55 since the in-game one is 2 s late."
+  },
+  {
+   "file": "League-of-Legends__2026-03-20__00-54-39.mp4",
+   "champion": "Ashe",
+   "map": "ARAM (Butcher's Bridge skin; 'Howling Abyss Aura' tooltip)",
+   "summary": "ARAM teamfight. Ashe gets a kill at 40.85. A mecha-skin Sion ult then rams her from about 2,000 to 347/2,551 HP at the same moment she gets her double kill (~43.15). She kites on 15-35% HP for the next 12 s and finishes a triple (~51.45) and a quadra (~55.75).",
+   "hype": 7,
+   "readability": 5,
+   "spectacle": 7,
+   "best_in": 42.2,
+   "best_out": 46.6,
+   "kills": [
+    {
+     "marker": 40.98,
+     "est_t": 40.85,
+     "x": 0.63,
+     "y": 0.46,
+     "confidence": "medium",
+     "note": "'You have slain an enemy!' first shows between 40.73 and 40.98; '+129' gold pops on the enemy right of centre"
+    },
+    {
+     "marker": 42.98,
+     "est_t": 43.15,
+     "x": 0.54,
+     "y": 0.31,
+     "confidence": "medium",
+     "note": "'+200' gold already up at 43.23; DOUBLE KILL banner only at 43.65 (it waits for the first banner); Sion's red charge hits Ashe at the same moment"
+    },
+    {
+     "marker": 50.98,
+     "est_t": 51.45,
+     "x": 0.62,
+     "y": 0.43,
+     "confidence": "medium",
+     "note": "No banner at 51.23, TRIPLE KILL by 51.65; big crit numbers on the enemy right of centre"
+    },
+    {
+     "marker": 54.98,
+     "est_t": 55.75,
+     "x": 0.36,
+     "y": 0.56,
+     "confidence": "low",
+     "note": "Chat still says 'triple kill' at 55.65 and the TRIPLE banner is fading; QUADRA shows by 56.98. White crit flash on the enemy left of centre at 55.65; the marker looks ~0.7 s early"
+    }
+   ],
+   "low_hp": "~43.0-43.3: Sion's ult takes Ashe from ~2,000 to 347/2,551 HP (14%). The HUD HP bar flashes red at 43.65. She stays at 350-850 HP for the rest of the clip (gold shield glow around her at ~46.3) and gets the triple and quadra on that HP. She never dies.",
+   "camera": "Mostly follows Ashe and keeps her near the centre. The camera repositions around 47 s as the fight moves down the bridge. Kills land in the middle or upper-middle.",
+   "issues": "Hover tooltips over the lower-centre of the fight: 'Champion Balance Buff' at ~51.2 and 'Howling Abyss Aura' at ~51.6-52.2. Chat kill spam fills the bottom-left from ~43 s. There's an 8 s gap between kills 2 and 3, so the full quadra (40.85-55.75) is too long for one section without speed ramps.",
+   "best_use": "fall",
+   "editor_notes": "Best moment: 43.2. Sion's red mecha charge slams Ashe while her double kill lands, and her HP bar empties to 14%. Use 42.2-46.6 in slow-mo, zoomed on (0.47, 0.45). The red chevron charge trail reads well. The triple at 51.45 (0.62, 0.43) also works as a punch-in, but avoid the tooltip popup at 51.6-52.2. The quadra kill at ~55.75 is left of centre (0.36, 0.56) behind a white crit flash."
+  },
+  {
+   "file": "League-of-Legends__2026-03-26__23-45-30.mp4",
+   "champion": "Kindred (probably: red/white Spirit-Blossom-style mask portrait, Lamb's Respite and Wolf zone circles)",
+   "map": "ARAM (pink/violet themed bridge map)",
+   "summary": "An ARAM brawl at full HP. The user gets a triple over ~5.7 s, with each kill in a different part of the screen. Gold coins spray everywhere from an ally's effects.",
+   "hype": 4,
+   "readability": 4,
+   "spectacle": 5,
+   "best_in": 47.9,
+   "best_out": 55.2,
+   "kills": [
+    {
+     "marker": 48.62,
+     "est_t": 48.95,
+     "x": 0.28,
+     "y": 0.47,
+     "confidence": "medium",
+     "note": "No banner at 48.88, 'You have slain an enemy!' at 49.02; golden beam and 997/979 crits on the enemy at the left"
+    },
+    {
+     "marker": 50.62,
+     "est_t": 51.6,
+     "x": 0.46,
+     "y": 0.5,
+     "confidence": "low",
+     "note": "Still 'You have slain' at 51.23, DOUBLE KILL at 51.96; '+200' gold and a 999 crit just left of centre at 51.96. Marker looks ~1 s early"
+    },
+    {
+     "marker": 53.62,
+     "est_t": 54.6,
+     "x": 0.61,
+     "y": 0.62,
+     "confidence": "low",
+     "note": "Still DOUBLE at 54.16, TRIPLE at 54.89; 999 crit and '+112' gold below-right of the user at 54.89"
+    }
+   ],
+   "low_hp": "",
+   "camera": "Unlocked and roaming. It pans from the upper-left fight down to the lower lane around 51.5 s. The user sits near the top-centre in the last part.",
+   "issues": "No standout play: kills are scattered and the user is never in danger (60-100% HP). The red Wolf zone and green Respite circles clutter the first half. Chat fills the bottom-left from ~51.9.",
+   "best_use": "hunt",
+   "editor_notes": "Best moment: 48.95, a golden beam and big crit numbers at the left (0.28, 0.47). Cut 48.4-49.6 for a first-kill hit. The 54.6 kill (0.61, 0.62) has a nice '999' crit pop. This is filler-grade hunt footage, so use it short."
+  },
+  {
+   "file": "League-of-Legends__2026-04-03__16-52-09.mp4",
+   "champion": "Master Yi (the '[R] Highlander' tooltip and the 'Meditate' cast bar are visible)",
+   "map": "Summoner's Rift",
+   "summary": "Post-Baron SR. Yi, on a legendary streak, picks off one enemy in the jungle (~43.95) and another at the jungle entrance (~47.1). He then dives the enemy tower on about 10% HP for the triple (~55.15) and Meditates under it.",
+   "hype": 5,
+   "readability": 5,
+   "spectacle": 4,
+   "best_in": 53.5,
+   "best_out": 56.6,
+   "kills": [
+    {
+     "marker": 44.03,
+     "est_t": 43.95,
+     "x": 0.53,
+     "y": 0.43,
+     "confidence": "medium",
+     "note": "'+120' gold already on the target at 44.03 (pink Alpha Strike flash at 43.78). The 'legendary' banner waits behind an ally's 'Enemy slain' and only shows ~1 s later, so don't sync to the banner"
+    },
+    {
+     "marker": 47.03,
+     "est_t": 47.1,
+     "x": 0.57,
+     "y": 0.3,
+     "confidence": "low",
+     "note": "'+277' gold near Yi by 47.28; DOUBLE KILL banner only at 47.97 (queued)"
+    },
+    {
+     "marker": 55.03,
+     "est_t": 55.15,
+     "x": 0.62,
+     "y": 0.42,
+     "confidence": "medium",
+     "note": "Nothing at 55.03, '+410' gold pops at 55.28 just right of the tower; TRIPLE banner by 55.90"
+    }
+   ],
+   "low_hp": "From ~51.4, Yi is at ~606/3,858 HP (16%). It drops to ~394 (10%) at ~54.8 while he tower-dives. He gets the triple at ~55.15 on that HP, then starts Meditate (cast bar bottom-centre at 55.9) and heals to ~750. He survives.",
+   "camera": "Follows Yi closely and steadily, so he stays near the upper-centre. It jumps when Yi Alpha Strikes. Pictures are clean but small at SR default zoom.",
+   "issues": "An 8 s gap of running between kills 2 and 3. The early part (40-47) is in a dark jungle. Kill banners are delayed behind ally announcements. There's a Baron objective at 29 s, outside the useful window.",
+   "best_use": "fall",
+   "editor_notes": "Best moment: 55.15. The 10%-HP tower dive ends in the triple, with '+410' at (0.62, 0.42), then Meditate. Slow-mo 53.5-56.6 and zoom on (0.58, 0.40). Kills 1-2 (43.6-47.6) could serve as hunt footage."
+  },
+  {
+   "file": "League-of-Legends__2026-04-06__01-08-50.mp4",
+   "champion": "Master Yi (same ability icons as the other Yi clips; armoured-skin portrait; summoner shown as 'Ap0llo')",
+   "map": "Summoner's Rift (enemy base and nexus; '3 minutes until Sudden Death!' message)",
+   "summary": "A game-ending fight in the enemy base, buried in a huge wave of purple minions. Yi gets four kills in ~6.5 s (a shutdown '+516', then kills 2 and 3 only 0.7 s apart). The nexus falls: the HUD vanishes at ~55.4 and the camera swings onto the exploding nexus.",
+   "hype": 6,
+   "readability": 3,
+   "spectacle": 6,
+   "best_in": 50.9,
+   "best_out": 56.2,
+   "kills": [
+    {
+     "marker": 48.47,
+     "est_t": 48.95,
+     "x": 0.45,
+     "y": 0.33,
+     "confidence": "low",
+     "note": "'+516' shutdown gold up by 49.67; the rampage banner appears in 48.8-49.7. Banners queue in this clip (each holds ~2.5 s), so they lag the kills by up to 2 s"
+    },
+    {
+     "marker": 51.47,
+     "est_t": 51.6,
+     "x": 0.55,
+     "y": 0.38,
+     "confidence": "low",
+     "note": "'+299' gold over the pile at 51.72"
+    },
+    {
+     "marker": 52.47,
+     "est_t": 52.3,
+     "x": 0.56,
+     "y": 0.3,
+     "confidence": "low",
+     "note": "'+317' gold at 52.27; the TRIPLE banner only shows at ~54.7 because of the queue"
+    },
+    {
+     "marker": 55.47,
+     "est_t": 55.6,
+     "x": 0.57,
+     "y": 0.36,
+     "confidence": "low",
+     "note": "Large gold pop at 55.74, right of the nexus. The HUD disappears at ~55.45 (game over). QUADRA banner at 57.47"
+    }
+   ],
+   "low_hp": "",
+   "camera": "Steady-ish with Yi in the upper-middle until ~55.4. Then the end-of-game camera takes over, centres on the enemy nexus and hides the HUD.",
+   "issues": "Very hard to read: a soup of purple minions and pink effects, with Yi a small blob and the dying champions impossible to pick out. The HUD vanishes from ~55.4, which breaks the keep-the-HUD look. 'Sudden Death' text sits in the banner area 44-47. HP never low (lowest ~1,287/3,858).",
+   "best_use": "star",
+   "editor_notes": "Best moment: 51.6-52.3, two kills 0.7 s apart in the pile around (0.55, 0.35). Good for one rapid 'star' beat with zoom and flash. The nexus-explosion swirl at 55.5-57.8 (HUD gone, camera on the nexus) could be a 'game won' button shot. Don't use it as a clean-kill showcase."
+  },
+  {
+   "file": "League-of-Legends__2026-04-06__23-04-42.mp4",
+   "champion": "Kha'Zix (chat: 'Art3m1s (Kha'Zix)')",
+   "map": "Summoner's Rift (river and dragon pit at night)",
+   "summary": "After the enemy takes Chemtech Drake, Kha'Zix stalks the dark river and skirmishes in the pit. Chat confirms only a double kill (27:00 '...for a double kill!'), finished at ~55.05 with an isolated Q and a leap reset. One of the first two markers is probably an assist.",
+   "hype": 3,
+   "readability": 4,
+   "spectacle": 4,
+   "best_in": 44.3,
+   "best_out": 47.4,
+   "kills": [
+    {
+     "marker": 46.57,
+     "est_t": 47.05,
+     "x": 0.32,
+     "y": 0.53,
+     "confidence": "low",
+     "note": "Pink beam and '+196' gold at 47.23. Probably an assist, since chat counts only a double ending at ~55"
+    },
+    {
+     "marker": 50.57,
+     "est_t": 50.9,
+     "x": 0.47,
+     "y": 0.38,
+     "confidence": "medium",
+     "note": "'+294' gold and a 559 hit on an enemy in the pit at 50.97. The banner is blocked by the drake message until 51.9, then by an ally's (Gnar) DOUBLE KILL 52.8-55"
+    },
+    {
+     "marker": 54.57,
+     "est_t": 55.05,
+     "x": 0.42,
+     "y": 0.62,
+     "confidence": "medium",
+     "note": "'Evolved Taste Their Fear' purple burst on the target at 54.82; '+370' gold by 55.63 after Kha'Zix leaps away. The user's own DOUBLE KILL banner shows at 55.63"
+    }
+   ],
+   "low_hp": "",
+   "camera": "Unlocked. Calm drift in the dark river (42.5-46.5), then jumps at ~47.2 (to the pit) and ~55.6 (follows the leap upward, leaving the kill at the bottom of frame).",
+   "issues": "Not a real triple. The banner area is taken by the drake and ally messages for most of the chain. The fights are small and dark, and kills are 4-8 s apart. HP stays full.",
+   "best_use": "intro",
+   "editor_notes": "Best moment: 44.3-47.4, a quiet, dark river with Kha'Zix stalking and a purple evolution glow at ~46.5. Moody enough for the CCTV intro, with a slow push-in on (0.5, 0.45). For a kill shot, the isolated-Q burst at 54.8-55.1 (0.40, 0.58) is the only flashy hit."
+  },
+  {
+   "file": "League-of-Legends__2026-04-07__20-29-33.mp4",
+   "champion": "Master Yi (same HUD as the 04-03 clip; 'Meditate' cast bar at 56.5)",
+   "map": "other (small jungle/lane map with a red-vs-blue team score bar top-centre; looks like the Brawl mode)",
+   "summary": "Master Yi quadra in an open grass field. He gets a kill under a pink portal at ~41.45, then after 8 s a fast triple at ~49.65, ~53.4 and ~55.0. Every kill drops a yellow light pillar on the spot, which makes them easy to see.",
+   "hype": 6,
+   "readability": 6,
+   "spectacle": 5,
+   "best_in": 48.7,
+   "best_out": 56.6,
+   "kills": [
+    {
+     "marker": 41.5,
+     "est_t": 41.45,
+     "x": 0.56,
+     "y": 0.36,
+     "confidence": "medium",
+     "note": "Yellow kill pillar and 'You have slain an enemy!' both appear at 41.50"
+    },
+    {
+     "marker": 49.5,
+     "est_t": 49.65,
+     "x": 0.5,
+     "y": 0.42,
+     "confidence": "medium",
+     "note": "Pillar appears between 49.50 and 49.75 on the enemy at centre; DOUBLE banner by 50.16"
+    },
+    {
+     "marker": 52.5,
+     "est_t": 53.4,
+     "x": 0.58,
+     "y": 0.38,
+     "confidence": "low",
+     "note": "Nothing at 52.75; pillar and TRIPLE banner at 53.50 (the camera jumped in between). Marker ~0.9 s early"
+    },
+    {
+     "marker": 54.5,
+     "est_t": 55,
+     "x": 0.47,
+     "y": 0.3,
+     "confidence": "low",
+     "note": "Fire explosion on the target 54.25-54.75; pillar and gold visible at 55.23; QUADRA banner only at 56.50 (queued behind TRIPLE)"
+    }
+   ],
+   "low_hp": "",
+   "camera": "Loosely follows Yi in an open field, with action near the centre or upper-centre. Hard reframes at ~52.5 and ~53.5.",
+   "issues": "8 s of walking between kill 1 (41.45) and kill 2 (49.65). Chat fills the bottom-left. The user dies at clip start (1.5 s, irrelevant). HP stays above 40% (lowest ~939/2,270 at 54), so there's no near-death beat.",
+   "best_use": "drop",
+   "editor_notes": "Best moment: 53.4-55.2, two kills with fire bursts and yellow pillars near the centre (0.5, 0.35). The 49.65-55.0 triple fits a velocity-ramped chorus drop. Kill 1 at 41.45 (0.56, 0.36) can be a separate hunt hit. The yellow pillars are good sync points because they appear on the exact kill frame."
+  },
+  {
+   "file": "League-of-Legends__2025-12-30__18-34-02.mp4",
+   "champion": "unknown (brown-haired male portrait, mana user; same champion as 2025-12-30 18-39-04)",
+   "map": "Summoners Rift (winter/snow look)",
+   "summary": "Quadra kill near the bot-side base. After the first kill at 41.4 the user drops to about 12% HP and still gets kills 2, 3 and 4 (47.3, 48.6, 54.55) without dying.",
+   "hype": 7,
+   "readability": 5,
+   "spectacle": 7,
+   "best_in": 45.9,
+   "best_out": 49.2,
+   "kills": [
+    {
+     "marker": 41.41,
+     "est_t": 41.45,
+     "x": 0.44,
+     "y": 0.4,
+     "confidence": "medium",
+     "note": "gold pop at 41.41, red kill beam at 41.66; the user's banner is held back by an 'Ally slain' banner"
+    },
+    {
+     "marker": 47.41,
+     "est_t": 47.3,
+     "x": 0.51,
+     "y": 0.44,
+     "confidence": "high",
+     "note": "DOUBLE KILL banner first visible at 47.41 (absent at 47.16), +250 gold; detector's 45.92 is wrong (that is the 'legendary' banner ending)"
+    },
+    {
+     "marker": 48.41,
+     "est_t": 48.6,
+     "x": 0.6,
+     "y": 0.56,
+     "confidence": "medium",
+     "note": "+370 gold and red beam at 48.66; TRIPLE banner only shows around 50 because the double banner is still up"
+    },
+    {
+     "marker": 54.41,
+     "est_t": 54.55,
+     "x": 0.47,
+     "y": 0.5,
+     "confidence": "high",
+     "note": "QUADRA KILL banner appears between 54.41 and 54.66"
+    }
+   ],
+   "low_hp": "From 46.3 to the end the user sits at 12-15% HP (417/2811 at 46.3, 336/2811 at 47.5, about 600/2582 later) and still gets kills 2, 3 and 4. Never dies.",
+   "camera": "Locked on the user and mostly centred; gentle drift, no jumps.",
+   "issues": "Dark map and crowded fights. 6 s gaps between kill 1 and 2 and between kill 3 and 4. Kill banners lag the kills by 1-1.5 s because of queued banners. Chat text grows on the left from about 43 s.",
+   "best_use": "fall",
+   "editor_notes": "Best moment: 46.3-48.7. The HP bar in the HUD (bottom centre, about x 0.45, y 0.97) reads 336/2811 while kills 2 and 3 land 1.3 s apart (47.3 and 48.6). Slow-mo there, or punch into the HP bar. For a fuller cut: kill 1 at 41.45, jump to 46.3, then jump from 49.2 to 53.6 for the QUADRA at 54.55. Zoom target for kills 2 and 3: about (0.55, 0.5)."
+  },
+  {
+   "file": "League-of-Legends__2025-12-30__18-39-04.mp4",
+   "champion": "unknown (brown-haired male portrait, mana user; same champion as 2025-12-30 18-34-02)",
+   "map": "Summoners Rift (winter/snow look)",
+   "summary": "Mid-river teamfight quadra by the user (the banners carry the user's icon): kills at 23.2, 30.0, 33.9 and 38.4. The first kill comes with a big orange ring explosion, the last inside a pink and red sphere.",
+   "hype": 6,
+   "readability": 6,
+   "spectacle": 7,
+   "best_in": 22.4,
+   "best_out": 38.9,
+   "kills": [
+    {
+     "marker": 23.32,
+     "est_t": 23.25,
+     "x": 0.46,
+     "y": 0.3,
+     "confidence": "high",
+     "note": "'You have slain an enemy!' banner, red beam and +300 gold all at 23.32; orange ring explosion around it"
+    },
+    {
+     "marker": 30.32,
+     "est_t": 30,
+     "x": 0.45,
+     "y": 0.43,
+     "confidence": "medium",
+     "note": "user's DOUBLE KILL banner first visible at 30.07 (absent at 29.82); red beam at 30.32"
+    },
+    {
+     "marker": 33.32,
+     "est_t": 33.9,
+     "x": 0.48,
+     "y": 0.28,
+     "confidence": "low",
+     "note": "enemy health bar nearly empty at 33.57, no banner until TRIPLE is seen at 34.72"
+    },
+    {
+     "marker": 38.32,
+     "est_t": 38.4,
+     "x": 0.45,
+     "y": 0.5,
+     "confidence": "medium",
+     "note": "blue beam at 38.32, +380 gold at 38.57; QUADRA banner delayed to about 40.3 behind a teammate's TRIPLE banner"
+    }
+   ],
+   "low_hp": "Dips to about 24% HP (714/2927) at 30.5, right after kill 2; otherwise healthy.",
+   "camera": "Steady and centred on the user (white marker cone over them).",
+   "issues": "The quadra is spread over 15 s, so it needs jump cuts. A teammate's DOUBLE KILL banners (26.3-27.7) and TRIPLE banner (37.3-38.9) sit at top centre and could confuse viewers. Chat on the left. The kill list also has a 5th kill at 54.32, outside the sheets. It is 16 s after the quadra, so it could be a PENTAKILL (League allows up to 30 s if no enemy has respawned). Worth checking 54-57 s.",
+   "best_use": "drop",
+   "editor_notes": "Jump-cut segments: 22.4-24.0 (ring explosion and first kill), 29.4-30.6, 33.3-34.8, 37.3-38.9 (pink sphere, blue beam). The ring explosion at 23.2 is the best single hit for the chorus downbeat. First check 54.3 for a PENTAKILL banner: if it is there, this clip jumps to finale-level material."
+  },
+  {
+   "file": "League-of-Legends__2026-01-08__17-10-23.mp4",
+   "champion": "Viego",
+   "map": "Summoners Rift (jungle)",
+   "summary": "Viego quadra in the jungle: kills at 41.15, 44.5 (announced as SHUT DOWN), 48.1 and 54.2. He possesses the victims between kills, so the HUD portrait keeps changing, and an ally's laser beams and a big blue zone fill the screen.",
+   "hype": 7,
+   "readability": 5,
+   "spectacle": 8,
+   "best_in": 40.3,
+   "best_out": 48.8,
+   "kills": [
+    {
+     "marker": 41.04,
+     "est_t": 41.15,
+     "x": 0.46,
+     "y": 0.4,
+     "confidence": "medium",
+     "note": "explosion at 41.04, +427 gold and red beam at 41.29; banner held back by 'Ally slain'"
+    },
+    {
+     "marker": 44.04,
+     "est_t": 44.5,
+     "x": 0.48,
+     "y": 0.45,
+     "confidence": "medium",
+     "note": "Viego R burst at 44.3, red beam about 44.6; announced as SHUT DOWN! (no DOUBLE banner)"
+    },
+    {
+     "marker": 48.04,
+     "est_t": 48.1,
+     "x": 0.57,
+     "y": 0.22,
+     "confidence": "medium",
+     "note": "red explosion and gold at 48.04, TRIPLE banner at 48.29; the camera jumps right after"
+    },
+    {
+     "marker": 54.04,
+     "est_t": 54.2,
+     "x": 0.53,
+     "y": 0.32,
+     "confidence": "medium",
+     "note": "QUADRA banner and big red beam at 54.29"
+    }
+   ],
+   "low_hp": "",
+   "camera": "Mostly follows the user but jumps twice (40.8 to 41.0 and 47.8 to 48.3) when it re-centres. The action is often in the upper half.",
+   "issues": "Very busy screen (ally lasers, purple and pink effects). Camera jumps. There is a 6 s gap before kill 4. Chat on the left.",
+   "best_use": "star",
+   "editor_notes": "Three kills in 7 s (41.15, 44.5, 48.1) make a tight star-section run. Hide the camera jumps by cutting on them. Kill 4: jump from 48.8 to 53.4 and land 54.2 with the QUADRA banner. Most spectacular frames: 43.0-44.6 (ally laser beams and Viego R). Zoom target about (0.5, 0.4)."
+  },
+  {
+   "file": "League-of-Legends__2026-01-09__23-56-15.mp4",
+   "champion": "unknown (pink/red portrait)",
+   "map": "Summoners Rift (jungle near Baron pit)",
+   "summary": "Spread-out triple in the dark jungle after a Baron. Kills at about 44.7, 50.85 and 54.75. The user is at 15% HP for the last kill. The SHUT DOWN banner at 46 belongs to a teammate.",
+   "hype": 4,
+   "readability": 3,
+   "spectacle": 4,
+   "best_in": 53,
+   "best_out": 55.6,
+   "kills": [
+    {
+     "marker": 44.62,
+     "est_t": 44.7,
+     "x": 0.52,
+     "y": 0.33,
+     "confidence": "low",
+     "note": "kill not clearly visible. The SHUT DOWN banner at 45.95 has a teammate's icon. +390 gold appears at 45.95 near (0.58, 0.36) and may be assist gold"
+    },
+    {
+     "marker": 50.62,
+     "est_t": 50.85,
+     "x": 0.55,
+     "y": 0.38,
+     "confidence": "medium",
+     "note": "flash at 50.87, +300 gold at 51.28; 'on a rampage' banner (user's icon)"
+    },
+    {
+     "marker": 54.62,
+     "est_t": 54.75,
+     "x": 0.54,
+     "y": 0.35,
+     "confidence": "medium",
+     "note": "burst at 54.4-54.6, +420 gold at 55.55; the user's TRIPLE banner only shows about 56.6 (queued)"
+    }
+   ],
+   "low_hp": "About 15% HP (333/2257) from 53.4 to 56.6. Gets the 3rd kill at about 54.75 while that low and survives.",
+   "camera": "Offset or unlocked: the user sits in the upper third with lots of empty dark jungle below; pans.",
+   "issues": "Dark, small, off-centre action with lots of dead space. The multikill banners are a confusing mix of teammate and user banners. Kills are spread over 10 s.",
+   "best_use": "fall",
+   "editor_notes": "Only a backup for the fall section: 53.4-55.6, low HP plus a kill. The 2025-12-30 18-34-02 clip does the same thing much better. The Baron kill at 26.6 is not on the sheets; might be worth a look for the intro."
+  },
+  {
+   "file": "League-of-Legends__2026-01-10__02-28-00.mp4",
+   "champion": "Karthus",
+   "map": "ARAM (Howling Abyss)",
+   "summary": "Karthus quadra on the ARAM bridge over 20 s. Lay Waste orbs, a cyan Wall of Pain and a final purple Requiem-style column. The double and triple are 3 s apart (42.65, 45.6); the 4th kill comes at 54.65.",
+   "hype": 5,
+   "readability": 5,
+   "spectacle": 6,
+   "best_in": 41.7,
+   "best_out": 46.4,
+   "kills": [
+    {
+     "marker": 34.53,
+     "est_t": 34.7,
+     "x": 0.55,
+     "y": 0.38,
+     "confidence": "low",
+     "note": "messy teamfight; 'You have slain' banner only at about 35.7 (queued behind 'Ally slain')"
+    },
+    {
+     "marker": 42.53,
+     "est_t": 42.65,
+     "x": 0.37,
+     "y": 0.31,
+     "confidence": "high",
+     "note": "DOUBLE KILL banner and +200 gold at 42.78"
+    },
+    {
+     "marker": 45.53,
+     "est_t": 45.6,
+     "x": 0.15,
+     "y": 0.6,
+     "confidence": "low",
+     "note": "victim at the far left edge; +200 gold at 46.1; TRIPLE banner delayed to about 49.6 by an 'Enemy slain' banner"
+    },
+    {
+     "marker": 54.53,
+     "est_t": 54.65,
+     "x": 0.51,
+     "y": 0.28,
+     "confidence": "medium",
+     "note": "purple column on the victim; QUADRA banner and +174 gold at 54.78"
+    }
+   ],
+   "low_hp": "",
+   "camera": "Loosely follows the user; several kills happen near the frame edges.",
+   "issues": "Spread over 20 s with idle time from 46 to 54 (standing in Defile among minions). Kill 3 is at the screen edge. Not mechanically flashy.",
+   "best_use": "hunt",
+   "editor_notes": "Use 41.7-46.4: double (42.65) then triple (45.6) with the cyan wall and purple orbs, fine for the hunt build. Bright snowy map, so it reads well. Quadra hit at 54.65 if needed (from 54.0)."
+  },
+  {
+   "file": "League-of-Legends__2026-01-10__02-53-11.mp4",
+   "champion": "unknown (purple portrait, possibly Varus)",
+   "map": "ARAM (Butcher's Bridge / Bilgewater)",
+   "summary": "Not the user's multikill. The TRIPLE (43.6) and QUADRA (50.9) banners carry a red-haired teammate's icon. The user gets one confirmed kill at 48.0, probably trades for another at 54.7, and dies there (the screen goes grey).",
+   "hype": 3,
+   "readability": 4,
+   "spectacle": 6,
+   "best_in": 47,
+   "best_out": 49,
+   "kills": [
+    {
+     "marker": 47.63,
+     "est_t": 48,
+     "x": 0.53,
+     "y": 0.45,
+     "confidence": "medium",
+     "note": "user's only confirmed kill: 'You have slain an enemy!' banner (seen 48.8-50.6)"
+    },
+    {
+     "marker": 51.63,
+     "est_t": 51.6,
+     "x": 0.48,
+     "y": 0.42,
+     "confidence": "low",
+     "note": "red beam and +200 gold, but no user banner; the QUADRA banner at 50.9 is a teammate's. Possibly only an assist"
+    },
+    {
+     "marker": 51.63,
+     "est_t": 51.6,
+     "x": 0.48,
+     "y": 0.42,
+     "confidence": "low",
+     "note": "duplicate marker; no second kill visible"
+    },
+    {
+     "marker": 54.63,
+     "est_t": 54.7,
+     "x": 0.52,
+     "y": 0.6,
+     "confidence": "medium",
+     "note": "+435 gold just as the user dies (grey screen at 54.88)"
+    }
+   ],
+   "low_hp": "HP falls from 36% at 50.6 to 16% at 53.2. The user dies at about 54.7 (grey screen from 54.9) while trading for a last kill.",
+   "camera": "Centred on the user, steady; turns grey at 54.9 on death.",
+   "issues": "The multikill on screen is a teammate's, not the user's. The user dies. Dark, cluttered map. The banners would mislead viewers.",
+   "best_use": "none",
+   "editor_notes": "Skip it. If a death beat is ever wanted, 53.6-55.2 shows the user at 16% HP going grey with a +435 trade kill. The big purple beam at 45.37 is the one flashy frame."
+  },
+  {
+   "file": "League-of-Legends__2026-02-25__00-34-23.mp4",
+   "champion": "Graves",
+   "map": "ARAM (alternate pink cherry-blossom bridge skin, not the snowy Howling Abyss)",
+   "summary": "Graves picks off four enemies one at a time over 12 s for a quadra kill (Rell, Lissandra, Milio and one more). He is under 25% HP from 47 s on and lands the quadra at 130/1935 HP (7%), then levels up and survives.",
+   "hype": 7,
+   "readability": 5,
+   "spectacle": 4,
+   "best_in": 47,
+   "best_out": 55,
+   "kills": [
+    {
+     "marker": 40.88,
+     "est_t": 41.47,
+     "x": 0.58,
+     "y": 0.24,
+     "confidence": "high",
+     "note": "KDA 11->12 at 41.50; top-centre, small"
+    },
+    {
+     "marker": 44.88,
+     "est_t": 45.52,
+     "x": 0.54,
+     "y": 0.28,
+     "confidence": "high",
+     "note": "KDA 12->13 at 45.53 (double)"
+    },
+    {
+     "marker": 47.88,
+     "est_t": 48.18,
+     "x": 0.51,
+     "y": 0.28,
+     "confidence": "high",
+     "note": "KDA 13->14 at 48.20 (triple), Graves at 275 HP"
+    },
+    {
+     "marker": 53.88,
+     "est_t": 53.8,
+     "x": 0.48,
+     "y": 0.42,
+     "confidence": "high",
+     "note": "KDA 14->15 at 53.82 (quadra) with Graves at 130 HP; QUADRA KILL banner ~53.95"
+    }
+   ],
+   "low_hp": "Graves drops to 332/1935 at 47.0 and 275 at 48.0 (triple kill at that HP), then to 181 at 53.3 and 130 (7%) at 53.8, the exact moment of the quadra kill. He levels up at 53.9 (361/2052) and survives.",
+   "camera": "Follows Graves fairly steadily and drifts down the lane between kills. The kills sit in the upper-middle of the screen.",
+   "issues": "The kills are small, low-VFX shotgun hits spread 3-5 s apart. There is a lot of foliage and clutter. The TRIPLE KILL banner at 39-41 s belongs to an enemy Vayne, not the user. The pink map looks different from the other (Howling Abyss) clips.",
+   "best_use": "fall",
+   "editor_notes": "The best fall moment in this batch: the HP bar is nearly empty (428 -> 184 -> 130 between 53.0 and 53.8) and the quadra lands at 53.80. Slow-mo 52.8-54.3 and zoom on (0.48, 0.42). For the 8.5 s fall section cut 47.0-48.4 (triple at 275 HP) plus 52.8-54.5 (quadra at 130 HP). Kills 1-2 are too far apart for drop/star use."
+  },
+  {
+   "file": "League-of-Legends__2026-02-25__00-45-58.mp4",
+   "champion": "Vayne",
+   "map": "ARAM (Howling Abyss)",
+   "summary": "An early-game (level 4, 2:10) Vayne triple kill: three kills in 3.2 s in a centred mid-bridge fight, with the triple on Shaco. Afterwards she bleeds down to 46/978 HP (5%) and survives to the end of the clip.",
+   "hype": 6,
+   "readability": 7,
+   "spectacle": 5,
+   "best_in": 50.7,
+   "best_out": 56,
+   "kills": [
+    {
+     "marker": 51.2,
+     "est_t": 51.7,
+     "x": 0.62,
+     "y": 0.49,
+     "confidence": "high",
+     "note": "KDA 0->1 at 51.72; kill starburst right of centre (the orange ring at 51.40 is a hit, not the kill)"
+    },
+    {
+     "marker": 52.2,
+     "est_t": 52.73,
+     "x": 0.61,
+     "y": 0.33,
+     "confidence": "high",
+     "note": "KDA 1->2 at 52.75"
+    },
+    {
+     "marker": 54.2,
+     "est_t": 54.9,
+     "x": 0.42,
+     "y": 0.5,
+     "confidence": "high",
+     "note": "KDA 2->3 at 54.92, triple on Shaco; TRIPLE KILL banner right after"
+    }
+   ],
+   "low_hp": "Vayne is at about 25% when she gets the triple at 54.9. She falls to 129/978 (13%) at 55.0, keeps draining to 46/978 (5%) at 58.0, and survives to the end of the clip (59.4).",
+   "camera": "Steady and almost locked. The fight stays in the centre of the frame.",
+   "issues": "Level-4 champion, so the effects are small. Nothing happens after 56 s apart from the slow HP drain. The fight is a small 2-3 champion skirmish.",
+   "best_use": "hunt",
+   "editor_notes": "Three clean, readable kills 1.0 s and 2.2 s apart. They fit 'first kills' beat hits well: 51.70, 52.73, 54.90. Each has a clear starburst you can zoom on. Extending to 58.5 shows her surviving at 46 HP, so this can stand in for the fall section if needed. Cut before 50.5, where it is only poking."
+  },
+  {
+   "file": "League-of-Legends__2026-02-25__01-03-33.mp4",
+   "champion": "Vayne",
+   "map": "ARAM (Howling Abyss)",
+   "summary": "A late-game Vayne (level 18) triple kill in a dense brawl by the wall, ending on Talon. Very flashy: huge crit numbers (2316) and a white-out explosion on the third kill.",
+   "hype": 6,
+   "readability": 5,
+   "spectacle": 9,
+   "best_in": 48.4,
+   "best_out": 55.3,
+   "kills": [
+    {
+     "marker": 49.04,
+     "est_t": 49.4,
+     "x": 0.51,
+     "y": 0.5,
+     "confidence": "high",
+     "note": "KDA change at 49.40; big '999' gold pop in the centre"
+    },
+    {
+     "marker": 53.04,
+     "est_t": 53,
+     "x": 0.45,
+     "y": 0.53,
+     "confidence": "high",
+     "note": "KDA change at 53.00; huge '2316' crit pop and burst"
+    },
+    {
+     "marker": 54.04,
+     "est_t": 54.55,
+     "x": 0.55,
+     "y": 0.5,
+     "confidence": "high",
+     "note": "KDA change at 54.55; white-out explosion at 54.60 (triple on Talon)"
+    }
+   ],
+   "low_hp": "",
+   "camera": "Steady and tightly centred on the brawl. Small shifts only.",
+   "issues": "A chaotic blob of overlapping spell effects, 'Spell Immune!' text and many health bars, so it is hard to tell who dies. 3.6 s of chasing between kills 1 and 2.",
+   "best_use": "star",
+   "editor_notes": "The strongest effects in this batch. The best single moment is 54.55-54.70 (white-out explosion), with 53.0 (2316 crit) second. Zoom 1.3-1.5x on (0.5, 0.5). For a quick star hit, cut 49.1-49.6, then 52.8-53.2, then 54.4-54.9: three explosions on three beats."
+  },
+  {
+   "file": "League-of-Legends__2026-02-25__01-06-32.mp4",
+   "champion": "Vayne",
+   "map": "ARAM (Howling Abyss)",
+   "summary": "A late-game Vayne quadra kill: one kill, then two back-to-back kills 0.3 s apart while an ally Lux's giant purple laser sweeps the screen, then a chase-down of Morgana for the quadra.",
+   "hype": 7,
+   "readability": 6,
+   "spectacle": 7,
+   "best_in": 47.6,
+   "best_out": 56,
+   "kills": [
+    {
+     "marker": 47.79,
+     "est_t": 48.5,
+     "x": 0.56,
+     "y": 0.22,
+     "confidence": "high",
+     "note": "KDA 19->20 at 48.52; '1317' pop in the upper part of the screen"
+    },
+    {
+     "marker": 50.79,
+     "est_t": 51.55,
+     "x": 0.62,
+     "y": 0.42,
+     "confidence": "high",
+     "note": "KDA 20->21 at 51.57; '999/350' burst right after the Lux laser"
+    },
+    {
+     "marker": 51.79,
+     "est_t": 51.87,
+     "x": 0.42,
+     "y": 0.42,
+     "confidence": "high",
+     "note": "KDA 21->22 at 51.87 (triple on Talon); 0.3 s after the previous kill"
+    },
+    {
+     "marker": 54.79,
+     "est_t": 55.37,
+     "x": 0.44,
+     "y": 0.22,
+     "confidence": "high",
+     "note": "KDA 22->23 at 55.37, quadra on Morgana after a chase; orange burst near the top"
+    }
+   ],
+   "low_hp": "",
+   "camera": "Pans a lot, following Vayne across the bridge. The kills land in different parts of the screen (two near the top edge).",
+   "issues": "Kills 1 and 4 sit high in the frame (y 0.22), near the kill-banner area. 3.5 s of chasing before the quadra. Chat text bottom-left.",
+   "best_use": "drop",
+   "editor_notes": "The quadra for the chorus. The giant purple Lux laser (50.5-51.6) leads straight into the 51.55/51.87 double, which is good for a speed-ramp into a downbeat. Speed up the chase 52.2-55.0 to land the quadra at 55.37 on the next hit. Zoom targets: (0.62, 0.42) for kill 2 and (0.44, 0.22) for kill 4."
+  },
+  {
+   "file": "League-of-Legends__2026-02-25__01-08-23.mp4",
+   "champion": "Vayne",
+   "map": "ARAM (Howling Abyss)",
+   "summary": "A Vayne double kill (ending on Shaco) inside a crowded tower fight, followed by an ace and a slow siege. Near the end she trades: she dies at 54.05 and gets a kill on the grey death screen.",
+   "hype": 3,
+   "readability": 4,
+   "spectacle": 6,
+   "best_in": 44,
+   "best_out": 51.5,
+   "kills": [
+    {
+     "marker": 33.45,
+     "est_t": 33.55,
+     "x": 0.46,
+     "y": 0.32,
+     "confidence": "high",
+     "note": "KDA 23->24 at 33.55; '999/901' pop near the enemy tower"
+    },
+    {
+     "marker": 35.45,
+     "est_t": 35.6,
+     "x": 0.48,
+     "y": 0.69,
+     "confidence": "high",
+     "note": "KDA 24->25 at 35.62, double on Shaco; low in the frame among many units"
+    },
+    {
+     "marker": 53.45,
+     "est_t": 54.25,
+     "x": 0.42,
+     "y": 0.5,
+     "confidence": "medium",
+     "note": "Kill after death: Vayne dies at 54.05, KDA kill +1 at ~54.27, screen already grey"
+    }
+   ],
+   "low_hp": "Not low during the double (HP 60% or more). She dies at 54.05 (screen goes grey). There is no survival moment.",
+   "camera": "Pans around a cluttered tower siege with many minions and champions.",
+   "issues": "Only a double kill. The fight is very crowded and kill 2 is low in the frame. The user dies at 54.05. 55-58 s shows the death screen, the shop menu and augment cards.",
+   "best_use": "intro",
+   "editor_notes": "Weak for kills. Its use is the calm, slightly ominous siege footage 44-51.5 (team walking under the enemy towers) for the intro's surveillance look. 36.0-37.8 has big red laser beams across the screen as a texture shot. Avoid anything after 53.8."
+  },
+  {
+   "file": "League-of-Legends__2026-02-26__14-08-36.mp4",
+   "champion": "Ashe",
+   "map": "ARAM (Howling Abyss)",
+   "summary": "Ashe gets a near-simultaneous double kill, drops to 10% HP, then picks up the triple (Bard) and quadra (Aphelios) while still low. Her team then aces, but the fifth kill isn't hers.",
+   "hype": 7,
+   "readability": 6,
+   "spectacle": 5,
+   "best_in": 45.5,
+   "best_out": 55.6,
+   "kills": [
+    {
+     "marker": 46.07,
+     "est_t": 46.03,
+     "x": 0.55,
+     "y": 0.34,
+     "confidence": "medium",
+     "note": "KDA 14->16 in one frame at 46.07; this one is the gold pop right of centre"
+    },
+    {
+     "marker": 46.07,
+     "est_t": 46.1,
+     "x": 0.375,
+     "y": 0.46,
+     "confidence": "medium",
+     "note": "Second kill of the double (Lee Sin): big orange burst centre-left"
+    },
+    {
+     "marker": 53.07,
+     "est_t": 52.85,
+     "x": 0.35,
+     "y": 0.47,
+     "confidence": "high",
+     "note": "KDA 16->17 at 52.85, triple on Bard, Ashe at ~400 HP"
+    },
+    {
+     "marker": 55.07,
+     "est_t": 55.12,
+     "x": 0.375,
+     "y": 0.435,
+     "confidence": "high",
+     "note": "KDA 17->18 at 55.12, quadra on Aphelios"
+    }
+   ],
+   "low_hp": "Ashe drops from 543 to 253/2428 (10%) at 49.8, stays at 10-13% until 52.2, then gets the triple at 52.85 (about 17%) and the quadra at 55.12 (about 24%). She survives.",
+   "camera": "Moves with Ashe. The fight stays centre-left and is fairly steady.",
+   "issues": "Chat spam ('Kai'Sa Poro Blaster' x6) bottom-left. The fight is medium-small on screen. A 6.7 s gap between the double and the triple.",
+   "best_use": "fall",
+   "editor_notes": "Two uses. Fall: slow-mo 49.5-50.6 on the HP crash to 10%, then snap to 52.7-53.1 for the triple and 55.0-55.3 for the quadra. Drop alternative: the double at 46.03/46.10 reads as one big burst, a strong chorus downbeat. Zoom on (0.375, 0.46). The ace banner at 13:10 is not a pentakill."
+  },
+  {
+   "file": "League-of-Legends__2026-01-28__01-59-30.mp4",
+   "champion": "Miss Fortune",
+   "map": "ARAM (bridge map with diagonal minimap, not the snowy Howling Abyss)",
+   "summary": "Miss Fortune fires Bullet Time into a fight around an enemy turret and gets a double kill (kills at ~53.4 and ~54.05; DOUBLE KILL banner at 54.1). SteelSeries logged three kills, but the extra 53.19 marker is an assist (+120 gold at ~52.95). The banner never reaches TRIPLE.",
+   "hype": 5,
+   "readability": 5,
+   "spectacle": 6,
+   "best_in": 51.3,
+   "best_out": 54.7,
+   "kills": [
+    {
+     "marker": 53.19,
+     "est_t": 53.4,
+     "x": 0.59,
+     "y": 0.31,
+     "confidence": "high",
+     "note": "+162 gold pops over the victim at 53.4 (gold counter 2079->2241). The banner still shows an older 'Enemy slain'."
+    },
+    {
+     "marker": 53.19,
+     "est_t": 52.95,
+     "x": 0.5,
+     "y": 0.28,
+     "confidence": "low",
+     "note": "Duplicate marker. This is most likely an assist (+120 gold at ~52.95), not a kill, because the banner only reaches DOUBLE."
+    },
+    {
+     "marker": 54.19,
+     "est_t": 54.05,
+     "x": 0.65,
+     "y": 0.52,
+     "confidence": "high",
+     "note": "Stunned enemy right of the turret dies with +169 gold. DOUBLE KILL banner appears at 54.10."
+    }
+   ],
+   "low_hp": "",
+   "camera": "Steady/locked. The fight stays near the centre around the big blue turret, with MF just above it.",
+   "issues": "Only a double. Heavy damage-number clutter ('3315', '999' execute icons) covers the fight. All-chat lines appear bottom-left from ~54 s. Dark frame with a red lava tint along the bottom.",
+   "best_use": "hunt",
+   "editor_notes": "Best moment: 54.05 (second kill, with the DOUBLE KILL banner at 54.1). The Bullet Time cone sweeps in from ~51.5, and a big orange explosion at ~50.6 makes a good flash cut-in. The two kills are 0.65 s apart, so they fit two quick beat hits. Zoom target ~(0.6, 0.42), between both victims. Do not sync to the 53.19 markers."
+  },
+  {
+   "file": "League-of-Legends__2026-01-28__02-15-34.mp4",
+   "champion": "Viego",
+   "map": "ARAM (Howling Abyss, snowy bridge)",
+   "summary": "Viego quadra kill in a big bridge teamfight. He gets three kills in 4.5 s (43.65, 47.3, 48.15) while possessing enemies (Heartbreaker), then chases down a fourth at 54.65, which is also a SHUT DOWN (QUADRA KILL banner at 54.8).",
+   "hype": 8,
+   "readability": 4,
+   "spectacle": 7,
+   "best_in": 42.8,
+   "best_out": 55.3,
+   "kills": [
+    {
+     "marker": 43.24,
+     "est_t": 43.65,
+     "x": 0.39,
+     "y": 0.3,
+     "confidence": "high",
+     "note": "'999' execute number and +300 gold at 43.7; 'You have slain an enemy!' appears 43.5-43.7."
+    },
+    {
+     "marker": 47.24,
+     "est_t": 47.32,
+     "x": 0.48,
+     "y": 0.43,
+     "confidence": "high",
+     "note": "+429 gold pop at 47.3 (counter 934->1367)."
+    },
+    {
+     "marker": 48.24,
+     "est_t": 48.15,
+     "x": 0.54,
+     "y": 0.21,
+     "confidence": "high",
+     "note": "Gold +200 between 48.1 and 48.2. The TRIPLE KILL banner only shows at ~49.4 because the announcements are queued."
+    },
+    {
+     "marker": 54.24,
+     "est_t": 54.65,
+     "x": 0.33,
+     "y": 0.42,
+     "confidence": "high",
+     "note": "+319 gold over the victim at 54.7; the SHUT DOWN banner is replaced by QUADRA KILL at 54.8."
+    }
+   ],
+   "low_hp": "",
+   "camera": "Unlocked; the camera pans with the fight. Kills 1-3 are in a dense blob in the upper-left/centre next to a turret, and kill 4 is centre-left after the camera swings over.",
+   "issues": "Dark blue night palette. The first three kills happen in a crowded particle blob, so it is hard to see who dies. There are 6.5 s of chase between kills 3 and 4. Banners lag the kills by up to 1.3 s (DOUBLE is never shown), so sync to the gold pops instead. All-chat spam bottom-left from ~49 s. The same fight is also in League-of-Legends__2026-01-28__02-15-27.mp4 (which starts 7 s earlier), so use only one of them. HP is lowest at ~30% (678/2253 around 41-43 s), which is not a near-death moment.",
+   "best_use": "drop",
+   "editor_notes": "The kills span 43.65 to 54.65 = 11.0 s, almost exactly the 11.3 s drop. Speed-ramp or cut the chase from 48.6 to 54.0. Best single moment: 47.3-48.15 (two kills 0.85 s apart with the possession effects). Zoom ~(0.47, 0.32) for kills 1-3 and ~(0.35, 0.42) for kill 4. Sync hits to 43.65, 47.32, 48.15 and 54.65. The 02-48-55 Sejuani quadra is a more readable alternative for the drop."
+  },
+  {
+   "file": "League-of-Legends__2026-01-28__17-40-57.mp4",
+   "champion": "Jinx",
+   "map": "ARAM (bridge map with diagonal minimap, not the snowy Howling Abyss)",
+   "summary": "Jinx triple kill. After a messy skirmish she picks off three enemies in 2.5 s (52.35, 54.0, 54.85). The TRIPLE KILL banner shows up late, at 55.4.",
+   "hype": 6,
+   "readability": 5,
+   "spectacle": 5,
+   "best_in": 51.6,
+   "best_out": 55.6,
+   "kills": [
+    {
+     "marker": 52.14,
+     "est_t": 52.35,
+     "x": 0.36,
+     "y": 0.38,
+     "confidence": "high",
+     "note": "Orange burst, then +200 gold at 52.4. The bunny kill-counter icons at the top centre get their first blue X at 52.4."
+    },
+    {
+     "marker": 54.14,
+     "est_t": 54,
+     "x": 0.44,
+     "y": 0.46,
+     "confidence": "medium",
+     "note": "'488' execute number at 53.8, then +114 gold at 54.0. The second X appears on the counter by 54.2."
+    },
+    {
+     "marker": 54.14,
+     "est_t": 54.85,
+     "x": 0.41,
+     "y": 0.3,
+     "confidence": "medium",
+     "note": "'730' execute number at 54.8 and +187 gold at 54.9. The third X appears at ~54.9, and the TRIPLE KILL banner at 55.4."
+    }
+   ],
+   "low_hp": "",
+   "camera": "Follows Jinx with some panning. The action is centre/upper-centre, and Jinx is the blue-glowing figure around (0.43, 0.5).",
+   "issues": "Small figures and lots of minions make it cluttered. All-chat lines sit on the left the whole clip. Banners lag: 'You have slain an enemy!' only at 52.6 and TRIPLE KILL at 55.4, 0.5-1 s after the kills. Same game as 17-43-08 (same Jinx), but a different fight. HP stays full (2326/2508).",
+   "best_use": "star",
+   "editor_notes": "Tight triple at 52.35, 54.0 and 54.85, which fits three beat hits in the star run. The row of bunny icons at the top centre gains a blue X on each kill, which makes a clean on-screen sync cue. Zoom ~(0.40, 0.40). Drop the unclear fighting before 51.5."
+  },
+  {
+   "file": "League-of-Legends__2026-01-28__17-43-08.mp4",
+   "champion": "Jinx",
+   "map": "ARAM (bridge map with diagonal minimap, not the snowy Howling Abyss)",
+   "summary": "Jinx triple kill in a teamfight. The first kill comes at 50.15. She then casts Super Mega Death Rocket (~53.2), whose explosion gets the second kill at 53.95, and finishes a fleeing enemy at 54.75. TRIPLE KILL banner at 55.2.",
+   "hype": 6,
+   "readability": 5,
+   "spectacle": 7,
+   "best_in": 49.6,
+   "best_out": 55.4,
+   "kills": [
+    {
+     "marker": 49.89,
+     "est_t": 50.15,
+     "x": 0.46,
+     "y": 0.32,
+     "confidence": "high",
+     "note": "+200 gold at 50.2 in a busy fight; the first X on the top bunny counter appears at ~50.3."
+    },
+    {
+     "marker": 53.89,
+     "est_t": 53.95,
+     "x": 0.43,
+     "y": 0.58,
+     "confidence": "high",
+     "note": "The rocket's white-blue then purple explosion lands at 53.8-54.0, with +200 gold at 54.0. The second X appears at 54.0-54.2."
+    },
+    {
+     "marker": 54.89,
+     "est_t": 54.75,
+     "x": 0.52,
+     "y": 0.61,
+     "confidence": "high",
+     "note": "'450' execute number and +157 gold on the fleeing enemy at 54.8, while the user hits LEVEL UP at the same moment. TRIPLE banner at 55.2."
+    }
+   ],
+   "low_hp": "",
+   "camera": "Follows Jinx with moderate panning; the action stays near the centre.",
+   "issues": "Busy and dark, with cluttered numbers. There's a 3.8 s lull between kills 1 and 2. All-chat lines bottom-left from ~55 s. Banner lag: 'You have slain an enemy!' only appears at 52.6 for the 50.15 kill. Same game as 17-40-57. HP stays around 45-85%.",
+   "best_use": "star",
+   "editor_notes": "Best moment: the Super Mega Death Rocket. It's cast at ~53.2 ('Super Mega Death Rocket!' cast bar), the explosion lands at 53.9 for kill 2, and kill 3 follows 0.8 s later. A tighter cut is 52.8-55.4. Zoom ~(0.47, 0.55). The big blue-white explosion at ~48.1 makes a good flash frame."
+  },
+  {
+   "file": "League-of-Legends__2026-01-29__02-48-55.mp4",
+   "champion": "Sejuani",
+   "map": "ARAM (bridge map with cannons/ship, diagonal minimap)",
+   "summary": "A giant 60k-HP Sejuani (ARAM Mayhem scaling) wins a long fight around a turret for a quadra kill. The kills come at 37.35 ('godlike'), 43.95 (DOUBLE), 51.3 (TRIPLE) and 54.35 (QUADRA), with huge green Winter's Wrath spin effects.",
+   "hype": 7,
+   "readability": 6,
+   "spectacle": 8,
+   "best_in": 36.6,
+   "best_out": 55,
+   "kills": [
+    {
+     "marker": 36.92,
+     "est_t": 37.35,
+     "x": 0.55,
+     "y": 0.28,
+     "confidence": "high",
+     "note": "+165 gold (counter 4438->4603) and the 'Art3m1s is godlike!' banner at 37.4."
+    },
+    {
+     "marker": 43.92,
+     "est_t": 43.95,
+     "x": 0.54,
+     "y": 0.27,
+     "confidence": "high",
+     "note": "+200 gold at 44.0; DOUBLE KILL banner at 44.0."
+    },
+    {
+     "marker": 50.92,
+     "est_t": 51.3,
+     "x": 0.5,
+     "y": 0.51,
+     "confidence": "high",
+     "note": "+121 gold at 51.3; TRIPLE KILL banner at 51.4."
+    },
+    {
+     "marker": 53.92,
+     "est_t": 54.35,
+     "x": 0.48,
+     "y": 0.44,
+     "confidence": "high",
+     "note": "+108 gold at 54.4; QUADRA KILL banner at 54.5."
+    }
+   ],
+   "low_hp": "",
+   "camera": "Steady, locked on the giant Sejuani at screen centre.",
+   "issues": "The kills are 6.6 s, 7.3 s and 3.1 s apart (17 s in total), so this needs jump cuts or speed ramps. The giant boar model and green spin effects cover the enemies, so it's often unclear who dies. Constant all-chat spam bottom-left for the whole clip. The same fight is also in League-of-Legends__2026-01-29__02-48-48.mp4 (which starts 7 s earlier). The user is never in danger (46,844/60,292 HP at 44 s).",
+   "best_use": "star",
+   "editor_notes": "Best chunk: 50.6-55.0, with TRIPLE at 51.3 and QUADRA at 54.35, centred and clean. This is also a strong drop candidate if the lead wants the full quadra: speed-ramp through 37.6-43.6 and 44.2-51.0 and slow down at each kill. Zoom target ~(0.5, 0.42); the user is always at the centre. Fun angle for friends: the user's champion is enormous."
+  },
+  {
+   "file": "League-of-Legends__2026-01-31__22-37-18.mp4",
+   "champion": "Zeri",
+   "map": "ARAM (bridge map with diagonal minimap, not the snowy Howling Abyss)",
+   "summary": "Early-game Zeri (level 5). She gets two kills at 29.6 and 31.6, then drops to 83/1050 HP (8%) at ~51.5-52. She keeps fighting at 8%, kills an enemy at 55.5 ('Art3m1s is on a rampage!') and is still alive at the end of the clip.",
+   "hype": 4,
+   "readability": 4,
+   "spectacle": 3,
+   "best_in": 51,
+   "best_out": 57,
+   "kills": [
+    {
+     "marker": 29.48,
+     "est_t": 29.57,
+     "x": 0.73,
+     "y": 0.46,
+     "confidence": "medium",
+     "note": "Gold +222 between 29.5 and 29.6. The victim is inside a purple zone at the right edge near the minimap. No multikill banner follows."
+    },
+    {
+     "marker": 31.48,
+     "est_t": 31.62,
+     "x": 0.55,
+     "y": 0.38,
+     "confidence": "medium",
+     "note": "Gold +204 between 31.5 and 31.75; 'You have slain an enemy!' appears at ~31.8."
+    },
+    {
+     "marker": 55.48,
+     "est_t": 55.5,
+     "x": 0.58,
+     "y": 0.64,
+     "confidence": "high",
+     "note": "The low-HP kill: white burst at 55.5, gold 1564->1786 by 55.6, and the rampage banner at 55.6. Zeri is at 86/1050 HP."
+    }
+   ],
+   "low_hp": "HP falls from 473 to 281 to 83/1050 between 50 and 52 s (the big drop is between 51.5 and 52.0). It then stays at ~85-91 (8%) to the end of the clip. At 55.5 she kills an enemy while at 8% HP. A red skillshot beam streaks down right past her at 55.6-55.8, and a big blue beam crosses near her at 59.5. She is still alive at 60 s.",
+   "camera": "Unlocked and wide. Zeri is off-centre: around (0.57, 0.68), bottom-centre-right, in the low-HP part, and the 29.6 kill is at the right edge.",
+   "issues": "Early game, so the champions are small, there are lots of minions and there is little spectacle. The only low-HP cue is the HUD health bar; the game shows no vignette. The kills at 29-31 are minor. This overlaps League-of-Legends__2026-01-31__22-37-58.mp4, which starts 40 s later, so its ~15.5 s is this clip's 55.5 kill.",
+   "best_use": "fall",
+   "editor_notes": "For the fall: start ~51.0 to catch the HP drop (to 83 by 52.0), slow-mo through 52-55, hit the kill at 55.5, then use the red-beam near miss at 55.6-55.8. Zoom ~(0.57, 0.66) and add a red low-HP vignette or a health-bar callout, since the game shows none. On its own the hype is low; it works as the 'barely alive' beat, not as a highlight."
+  },
+  {
+   "file": "League-of-Legends__2026-02-27__01-14-12.mp4",
+   "champion": "Kindred",
+   "map": "ARAM (pink Ionian bridge variant of Howling Abyss)",
+   "summary": "Kindred (Art3m1s) gets a quadra kill in 4.6 s in a big teamfight on the bridge. Kills 3 and 4 land 0.12 s apart. An ally takes the 5th kill, so it ends on ACE at 57.8 with no penta.",
+   "hype": 7,
+   "readability": 5,
+   "spectacle": 8,
+   "best_in": 48.3,
+   "best_out": 55.5,
+   "kills": [
+    {
+     "marker": 49.62,
+     "est_t": 49.48,
+     "x": 0.46,
+     "y": 0.54,
+     "confidence": "high",
+     "note": "KDA 15->16 between 49.45 and 49.50; +200 gold under the purple Lamb's Respite dome"
+    },
+    {
+     "marker": 51.62,
+     "est_t": 51.28,
+     "x": 0.59,
+     "y": 0.16,
+     "confidence": "high",
+     "note": "long-range snipe on a fleeing enemy at the TOP edge, away from the main blob; KDA 16->17 between 51.25 and 51.30"
+    },
+    {
+     "marker": 53.62,
+     "est_t": 53.96,
+     "x": 0.7,
+     "y": 0.52,
+     "confidence": "high",
+     "note": "+169 gold right of centre; KDA 17->18 at 53.96"
+    },
+    {
+     "marker": 53.62,
+     "est_t": 54.08,
+     "x": 0.58,
+     "y": 0.6,
+     "confidence": "high",
+     "note": "4th kill. SteelSeries has no separate marker for it (it merged it with kill 3). KDA 18->19 between 54.05 and 54.10. QUADRA KILL banner shows at 54.95"
+    }
+   ],
+   "low_hp": "",
+   "camera": "Locked-ish camera following Kindred with small pans. The fight sits centre to centre-left. Kill 2 is at the top edge.",
+   "issues": "Very busy: red Mounting Dread circles, the purple R dome and ally effects make one blob. Kill 2 is a small snipe at the top edge. A giant Kindred-skin lamb/lantern graphic flashes over the top-left at 49.35-49.45. Banners are queued and late: 'You have slain' at 49.55, DOUBLE at ~52.2, then QUADRA at 54.95 (no TRIPLE banner). Chat lines appear bottom-left from ~52. Same game and champion as 01-17-12.",
+   "best_use": "drop",
+   "editor_notes": "Best moment is 53.96 to 54.08: two kills almost on the same frame, then QUADRA KILL at 54.95. Put the chorus hit on 53.96 and treat the 4th kill as a flam or the same beat. Zoom target for kills 3 and 4 is about (0.64, 0.56). Kill gaps: 1.8 s, then 2.7 s, then 0.12 s. The purple R dome at 49.3-49.6 is a good flash frame for kill 1. Kill 2 needs a quick pan or zoom to the top (0.59, 0.16), or skip it visually."
+  },
+  {
+   "file": "League-of-Legends__2026-02-27__01-17-12.mp4",
+   "champion": "Kindred",
+   "map": "ARAM (pink Ionian bridge variant of Howling Abyss)",
+   "summary": "Same Kindred game, 3 minutes later. A triple kill in 3.6 s near the enemy turret: two kills in the scrum, then a long-range arrow snipe on a runner. At the clip's end Kindred trades a kill for her own death (~54.1 kill, ~54.65 death).",
+   "hype": 5,
+   "readability": 6,
+   "spectacle": 6,
+   "best_in": 31.9,
+   "best_out": 37,
+   "kills": [
+    {
+     "marker": 32.53,
+     "est_t": 32.98,
+     "x": 0.52,
+     "y": 0.37,
+     "confidence": "medium",
+     "note": "KDA 19->20 between 32.95 and 33.00; time is solid, position is the damage-number cluster just above centre"
+    },
+    {
+     "marker": 34.53,
+     "est_t": 35.12,
+     "x": 0.56,
+     "y": 0.31,
+     "confidence": "high",
+     "note": "KDA 20->21 between 35.10 and 35.15; +200 gold just above the red circle"
+    },
+    {
+     "marker": 36.53,
+     "est_t": 36.58,
+     "x": 0.72,
+     "y": 0.22,
+     "confidence": "high",
+     "note": "long-range snipe on a fleeing enemy upper-right; KDA 21->22 between 36.55 and 36.60"
+    }
+   ],
+   "low_hp": "Not in the chain: HP stays at 77% or more. At the end, a kill at ~54.1 is followed by HP 907/2764 (33%) at 54.3, then death at ~54.65. That is a trade, not a survival, so it does not fit 'fall'.",
+   "camera": "Fairly steady and follows Kindred. Kills 1 and 2 are near centre; kill 3 is upper-right.",
+   "issues": "Same game and champion as 01-14-12, so they compete for variety. Banners are late: DOUBLE at ~35.9, TRIPLE at ~38.5. Chat lines appear bottom-left from ~35.9. The user dies at ~54.65.",
+   "best_use": "hunt",
+   "editor_notes": "Use 31.9-37.0. Kill gaps of 2.1 s and 1.5 s sit well on half-bars. The flashiest frame is Kindred's purple arrow streak at 32.5-32.8 just before kill 1. Zoom to about (0.55, 0.33) for kills 1 and 2. Kill 3 needs a pan to the upper right (0.72, 0.22)."
+  },
+  {
+   "file": "League-of-Legends__2026-03-02__00-07-43.mp4",
+   "champion": "Teemo",
+   "map": "ARAM (pink Ionian bridge variant of Howling Abyss)",
+   "summary": "An early-game (level 10) Teemo double kill in a skirmish. An ally's huge orange meteor explodes right of centre just before kill 1. Later the user dies (~42) and gets a kill while dead at ~54.4 (grey screen).",
+   "hype": 3,
+   "readability": 5,
+   "spectacle": 6,
+   "best_in": 9.6,
+   "best_out": 13,
+   "kills": [
+    {
+     "marker": 10.01,
+     "est_t": 10.68,
+     "x": 0.6,
+     "y": 0.22,
+     "confidence": "medium",
+     "note": "KDA 3->4 between 10.65 and 10.70; +200 gold pops at the top of the screen; small target"
+    },
+    {
+     "marker": 12.01,
+     "est_t": 12.52,
+     "x": 0.3,
+     "y": 0.68,
+     "confidence": "medium",
+     "note": "KDA 4->5 between 12.50 and 12.55; lower-left, with a white flash"
+    }
+   ],
+   "low_hp": "",
+   "camera": "Steady and centred on Teemo. The two kills are on opposite sides of the screen (top, then lower-left).",
+   "issues": "Only a double, and Teemo is tiny on screen. HUD tooltip boxes pop up at ~10.7 and ~11.0 because the cursor is hovering over buffs. Banners lag ('You have slain' only at ~11.1, DOUBLE at ~14). The user dies at ~42. The ~54.4 kill happens on the grey death screen.",
+   "best_use": "hunt",
+   "editor_notes": "The eye candy is the orange meteor explosion at 10.45-10.85 on the right (0.65-0.75, 0.35-0.6). Put a beat on it and on kill 1 at 10.68. The pre-fight poke at 6.0-8.6 (lasers crossing the screen) could be filler for intro or hunt. This is a low-priority clip."
+  },
+  {
+   "file": "League-of-Legends__2026-03-02__01-15-19.mp4",
+   "champion": "Viego",
+   "map": "ARAM (pink Ionian bridge variant of Howling Abyss)",
+   "summary": "Viego gets a quadra spread over 18 s, using possession resets (he plays Pantheon around 50-53). Kills 3 and 4 come with huge golden Heartbreaker blasts. The user is credited with the ACE at ~59.3, but there is no penta.",
+   "hype": 8,
+   "readability": 6,
+   "spectacle": 8,
+   "best_in": 54.4,
+   "best_out": 56.2,
+   "kills": [
+    {
+     "marker": 36.78,
+     "est_t": 37.15,
+     "x": 0.65,
+     "y": 0.38,
+     "confidence": "high",
+     "note": "KDA 24->25 between 37.10 and 37.20; 999 and +200 right of centre"
+    },
+    {
+     "marker": 42.78,
+     "est_t": 42.91,
+     "x": 0.52,
+     "y": 0.37,
+     "confidence": "high",
+     "note": "KDA 25->26 between 42.90 and 42.92; 'Combo Break!!' text; DOUBLE KILL banner by 43.05"
+    },
+    {
+     "marker": 47.78,
+     "est_t": 47.95,
+     "x": 0.55,
+     "y": 0.3,
+     "confidence": "high",
+     "note": "KDA 26->27 between 47.90 and 48.00; big golden column blast; TRIPLE KILL banner at 48.05"
+    },
+    {
+     "marker": 54.78,
+     "est_t": 55.15,
+     "x": 0.46,
+     "y": 0.21,
+     "confidence": "high",
+     "note": "KDA 27->28 between 55.10 and 55.20; huge gold explosion at top-centre; QUADRA KILL banner by 55.35"
+    }
+   ],
+   "low_hp": "",
+   "camera": "Follows Viego, but he sits in the upper half of the frame. There are large reframes when he dashes or possesses, notably at ~47.9-48.0.",
+   "issues": "The chain spans 18 s with dead time between kills (49-54 is mostly running in the Pantheon body). Chat lines stack up bottom-left the whole clip. The DOUBLE KILL banner at ~35.98 is someone else's, from before the chain.",
+   "best_use": "star",
+   "editor_notes": "This clip alone can fill STAR as four jump-cut beats with the banner climbing DOUBLE, TRIPLE, QUADRA: 36.6-37.5 (kill 1), 42.4-43.3 (kill 2 with 'Combo Break!!'), 47.4-48.4 (kill 3, golden column and TRIPLE banner), 54.5-55.8 (kill 4, giant gold blast and QUADRA banner). The single best moment is 55.15; zoom target (0.46, 0.22). It is also a strong backup for drop."
+  },
+  {
+   "file": "League-of-Legends__2026-03-03__00-04-24.mp4",
+   "champion": "Quinn",
+   "map": "ARAM (pink Ionian bridge variant of Howling Abyss)",
+   "summary": "Quinn gets a quadra in 6.8 s. She starts in the mid-bridge fight, then chases down to the enemy turret for kills 3 and 4, which are 1.5 s apart.",
+   "hype": 7,
+   "readability": 4,
+   "spectacle": 6,
+   "best_in": 48,
+   "best_out": 56.2,
+   "kills": [
+    {
+     "marker": 48.94,
+     "est_t": 48.92,
+     "x": 0.45,
+     "y": 0.47,
+     "confidence": "high",
+     "note": "KDA 16->17 between 48.90 and 48.95; 999 and 878 numbers just left of centre"
+    },
+    {
+     "marker": 50.94,
+     "est_t": 51.22,
+     "x": 0.57,
+     "y": 0.41,
+     "confidence": "high",
+     "note": "KDA 17->18 between 51.20 and 51.25; 999 and 1217 right of centre"
+    },
+    {
+     "marker": 53.94,
+     "est_t": 54.22,
+     "x": 0.23,
+     "y": 0.55,
+     "confidence": "high",
+     "note": "KDA 18->19 between 54.20 and 54.25; far LEFT of frame, after a big camera reframe"
+    },
+    {
+     "marker": 54.94,
+     "est_t": 55.68,
+     "x": 0.62,
+     "y": 0.33,
+     "confidence": "high",
+     "note": "KDA 19->20 between 55.65 and 55.70; 999, +200 and 849 upper-right of the turret"
+    }
+   ],
+   "low_hp": "",
+   "camera": "Follows Quinn, but jumps hard around 52.2-52.9 when she rushes to the enemy turret. Kill 3 lands at the far left edge.",
+   "issues": "Banners are very late: DOUBLE at ~53.0, TRIPLE at ~54.9, and QUADRA only fades in at ~57.4 (full by ~59.5). There is a camera jump mid-chain. A red laser and a purple block effect sit bottom-left at 54.3-55.2. Chat lines show bottom-left. A Korean-name 'rampage' banner appears at 49.0.",
+   "best_use": "drop",
+   "editor_notes": "Kills 3 and 4 are 1.46 s apart, a strong one-two for a chorus hit. Kills 1 and 2 are 2.3 s apart near centre. Zoom targets: kills 1-2 about (0.5, 0.45), kill 3 (0.25, 0.55), kill 4 (0.62, 0.35). If you want the QUADRA banner on screen, hold to ~57.6, or overlay your own banner."
+  },
+  {
+   "file": "League-of-Legends__2026-03-03__00-18-26.mp4",
+   "champion": "Darius",
+   "map": "ARAM (Butcher's Bridge)",
+   "summary": "Darius dives under the enemy cannon turret and gets a triple kill in 1.7 s with Noxian Guillotine resets. He survives at about 24% HP.",
+   "hype": 6,
+   "readability": 7,
+   "spectacle": 7,
+   "best_in": 51.4,
+   "best_out": 55.2,
+   "kills": [
+    {
+     "marker": 51.96,
+     "est_t": 52.62,
+     "x": 0.48,
+     "y": 0.54,
+     "confidence": "high",
+     "note": "KDA 6->7 between 52.60 and 52.65; guillotine dunk, +200 and 439 at centre"
+    },
+    {
+     "marker": 52.96,
+     "est_t": 53.02,
+     "x": 0.48,
+     "y": 0.5,
+     "confidence": "high",
+     "note": "KDA 7->8 between 53.00 and 53.05; same spot, purple blob"
+    },
+    {
+     "marker": 53.96,
+     "est_t": 54.32,
+     "x": 0.52,
+     "y": 0.55,
+     "confidence": "high",
+     "note": "KDA 8->9 between 54.30 and 54.35; +408 and 508 at centre with a blue ring"
+    }
+   ],
+   "low_hp": "After the triple, HP falls to 762/3213 (24%) at ~55.8-56.0 and he survives to the clip end. That is low but not dramatic; at best a weak 'fall' candidate.",
+   "camera": "Steady and locked on Darius at screen centre. Very readable framing.",
+   "issues": "The dark Butcher's Bridge palette differs from the other clips (good for variety, but it needs a grade match). All three kills happen inside one purple blob of overlapping champions, so it is hard to see who dies. The TRIPLE banner is delayed to ~55.9 because an 'Ally slain' banner sits there until then.",
+   "best_use": "star",
+   "editor_notes": "Very tight: kills at 52.62, 53.02 and 54.32 (0.4 s and 1.3 s apart), all at centre, so a punch-in zoom on (0.5, 0.53) works for all three. A big orange explosion ring at ~54.9 is a nice tail flash. Use 51.4-55.2, or extend to 56.2 to catch the TRIPLE KILL banner."
+  },
+  {
+   "file": "League-of-Legends__2026-04-07__21-21-36.mp4",
+   "champion": "Master Yi (purple-hair/glasses skin; player Art3m1s)",
+   "map": "other: 5v5 points mode on a grassy jungle/river map (Brawl-style; red-vs-blue team score bar top-centre, single-lane minimap)",
+   "summary": "Master Yi dives a teamfight in the river and gets a quadra kill (Vex double, Tristana quadra) plus the team ace. Between kills 2 and 3 he drops to 65/1672 HP (4%), then kill 3 at 52.55 heals him back to 506.",
+   "hype": 7,
+   "readability": 6,
+   "spectacle": 7,
+   "best_in": 45.9,
+   "best_out": 55.6,
+   "kills": [
+    {
+     "marker": 46.51,
+     "est_t": 46.95,
+     "x": 0.56,
+     "y": 0.37,
+     "confidence": "high",
+     "note": "Enemy score drops 104->99 between 46.8 and 47.0; '1071' crit. Its banner only appears at 49.6 because it was queued."
+    },
+    {
+     "marker": 50.51,
+     "est_t": 50.27,
+     "x": 0.58,
+     "y": 0.31,
+     "confidence": "high",
+     "note": "Vex. Score drops 97->92 between 50.2 and 50.3; '1071' crit plus a blue/pink comet streak. DOUBLE banner only at 52.6."
+    },
+    {
+     "marker": 52.51,
+     "est_t": 52.55,
+     "x": 0.52,
+     "y": 0.38,
+     "confidence": "high",
+     "note": "Score drops 91->86 between 52.5 and 52.6. Yi sits at 65 HP from 52.0 to 52.5 and jumps to 506 HP at 52.6. The camera jumps at about 52.6 (Alpha Strike). An ally kill or assist follows at about 52.85 (86->81). No TRIPLE banner is shown."
+    },
+    {
+     "marker": 54.51,
+     "est_t": 54.78,
+     "x": 0.55,
+     "y": 0.28,
+     "confidence": "high",
+     "note": "Tristana, the quadra. Score drops 81->76 between 54.7 and 54.8; '1067' crit. QUADRA banner at 55.3."
+    }
+   ],
+   "low_hp": "HP 421 at 50.0, 239 at 50.5, 96 at 51.7, then 65/1672 (4%) from 52.0 to 52.5. Yi is still in the fight and gets kill 3 at 52.55, and HP jumps to 506/2112 at 52.6 (level-up plus heal). He survives.",
+   "camera": "Locked and steady. The whole fight sits in the upper-middle band (y 0.25-0.4, x 0.45-0.6), just under the score bar. There are small jumps when Yi blinks with Alpha Strike, the clearest at about 52.6.",
+   "issues": "Mode-specific HUD clutter: the score bar top-centre and a purple 'GOLD DIFFERENCE' stats panel at top-right (x 0.86-0.93). The chat/kill feed fills bottom-left. Kill banners are queued and lag the real kills by up to 2.6 s ('You have slain' 49.6, DOUBLE 52.6, QUADRA 55.3, no TRIPLE), so sync to est_t, not the banners. The action is high in the frame.",
+   "best_use": "fall",
+   "editor_notes": "Best FALL candidate in this batch: 50.0-53.0. Freeze or slow on 52.0-52.5 while the HP bar reads 65/1672, then hit at 52.55 as the HP refills. Zoom to about (0.52,0.40) and also keep the HUD HP number readable (bottom-centre x 0.47, y 0.965). The whole quadra (46.95, 50.27, 52.55, 54.78, roughly 2.3-3.3 s apart) also works as a DROP if needed. Crits '1071' at 46.9 and 50.3 make good impact frames. Crop the top-right stats panel if zooming."
+  },
+  {
+   "file": "League-of-Legends__2026-07-19__18-42-55.mp4",
+   "champion": "Viego (player Art3m1s; possesses Samira, Kha'Zix, then Karthus during the chain)",
+   "map": "ARAM (Butcher's Bridge)",
+   "summary": "Viego chains kills while hopping bodies: Samira, then Ryze as Samira (double), Kha'Zix (triple), Karthus as Kha'Zix (quadra). He hovers at 29 HP, is shut down by Trundle, and the 5th kill (Trundle) lands after his death for a posthumous PENTAKILL (kill feed: 'Art3m1s (Viego) has slain Hanamorl (Trundle) for a penta kill!').",
+   "hype": 9,
+   "readability": 4,
+   "spectacle": 8,
+   "best_in": 37.4,
+   "best_out": 44.8,
+   "kills": [
+    {
+     "marker": 26.92,
+     "est_t": 27.95,
+     "x": 0.45,
+     "y": 0.48,
+     "confidence": "medium",
+     "note": "Gold 455->631 between 27.8 and 28.05, about 1 s after the marker. Probably Samira (he is Samira next). The camera snaps from 26.95 to 27.2 as Viego dashes. Its banner is lost behind 'Ally slain'."
+    },
+    {
+     "marker": 31.92,
+     "est_t": 32.3,
+     "x": 0.4,
+     "y": 0.45,
+     "confidence": "high",
+     "note": "Ryze, killed as Samira. Gold 693->898 between 32.2 and 32.4; big '369/263' numbers. DOUBLE banner queued to 33.0."
+    },
+    {
+     "marker": 37.92,
+     "est_t": 38.4,
+     "x": 0.42,
+     "y": 0.45,
+     "confidence": "high",
+     "note": "Kha'Zix. Gold 958->1115 between 38.3 and 38.5; '+157' pop and '999'. TRIPLE banner at about 38.9."
+    },
+    {
+     "marker": 40.92,
+     "est_t": 41.1,
+     "x": 0.4,
+     "y": 0.65,
+     "confidence": "high",
+     "note": "Karthus, killed as Kha'Zix. Gold 1164->1364 between 41.0 and 41.25; '+200' pop low in frame. QUADRA banner only at 43.5. Big purple eruption at 42.0. HUD switches to Karthus at 43.4."
+    },
+    {
+     "marker": 49.92,
+     "est_t": 50.05,
+     "x": 0.15,
+     "y": 0.6,
+     "confidence": "medium",
+     "note": "Trundle. Gold 1464->1809 between 49.9 and 50.2. The user is already dead (grey screen, respawn timer), so the kill is barely visible (possibly the rooted figure lower-left). PENTAKILL banner at 51.95 after the SHUT DOWN banner. Position is low confidence."
+    }
+   ],
+   "low_hp": "Viego at 51/1801 HP at 42.0 and 29/1801 at 43.0 before the quadra. The possessed Karthus body reads 0/1993 at 44.0 and 2/1993 at 44.5 (SteelSeries logged a 'death' at 43.92) but stays alive and climbs to about 150 by 49.0. He is shut down by Trundle at about 47.6 (SHUT DOWN banner 47.65), the screen is grey from about 49.3, and the penta kill still lands at 50.05.",
+   "camera": "Locked on Viego, mostly centred (action at x 0.35-0.65). Snaps on dashes (26.95-27.2). Dark wooden bridge map. After about 49.3 it is the grey death view.",
+   "issues": "Dark, murky map with heavy teal/black effects and overlapping health bars. The chain spans 22 s, so it needs jump cuts. The shop window is opened at 50.5-51.0 and covers the left-centre. The 5th kill happens on the grey death screen and is not clearly visible. Banners are queued 1-2.5 s behind the real kills. 'Ally slain' and an ally SHUT DOWN banner appear in between.",
+   "best_use": "star",
+   "editor_notes": "Strongest beat: 38.4 (triple) -> 41.1 (quadra) -> 43.0-44.5 HUD shows 29 then 0 HP while he steals Karthus. Use 37.4-44.8 as a star shot, or cut 41.0-44.6 into the FALL as a second near-death. The posthumous penta is a great story beat: show the grey screen with the PENTAKILL banner at 51.95-53.0 (skip 50.5-51.1, where the shop is open). Zoom target about (0.42,0.5). Kill 1 (27.95) is 4.3 s before kill 2 and visually weak, so skip it."
+  },
+  {
+   "file": "League-of-Legends__2026-07-20__00-19-26.mp4",
+   "champion": "Jinx (player Art3m1s)",
+   "map": "ARAM (bridge map, dark stone near the enemy turret)",
+   "summary": "Jinx fights under the enemy tower and gets four kills in 2.4 seconds for a quadra (last kill Blitzcrank), and the team scores an ace. Enemy chat: 'who fed jinx'.",
+   "hype": 7,
+   "readability": 5,
+   "spectacle": 6,
+   "best_in": 40.6,
+   "best_out": 45,
+   "kills": [
+    {
+     "marker": 41.23,
+     "est_t": 41.58,
+     "x": 0.36,
+     "y": 0.27,
+     "confidence": "high",
+     "note": "Gold 1911->2111 between 41.5 and 41.65; '+200' pop."
+    },
+    {
+     "marker": 42.23,
+     "est_t": 42.78,
+     "x": 0.44,
+     "y": 0.46,
+     "confidence": "high",
+     "note": "Gold 2124->2331 between 42.7 and 42.85; '+200' pop."
+    },
+    {
+     "marker": 43.23,
+     "est_t": 43.38,
+     "x": 0.44,
+     "y": 0.42,
+     "confidence": "high",
+     "note": "Gold 2331->2556 between 43.3 and 43.45. A purple thorn vignette starts around 43.4."
+    },
+    {
+     "marker": 44.23,
+     "est_t": 43.98,
+     "x": 0.52,
+     "y": 0.28,
+     "confidence": "high",
+     "note": "Blitzcrank, the quadra. Gold 2562->2733 between 43.9 and 44.05. QUADRA banner at 44.1."
+    }
+   ],
+   "low_hp": "",
+   "camera": "Locked and steady. The fight sits upper-left of centre (x 0.35-0.52, y 0.27-0.46) beside the red enemy turret. Little camera motion.",
+   "issues": "Crowded: many overlapping health bars and minions, small champions, and a dark green-brown palette. The 'Ally slain' banner sits top-centre from 40.8 to 43.8 (an ally Ivern died). A purple thorn border appears from about 43.4. The user dies later at about 54.2, so end before 50. HP never gets very low (lowest about 743/2506).",
+   "best_use": "drop",
+   "editor_notes": "Kills at 41.58, 42.78, 43.38 and 43.98 are 0.6-1.2 s apart, ideal for hitting four consecutive beats or a speed-ramp when the chorus hits. Zoom about 1.4x on (0.44,0.38) so the cluster fills the frame. The QUADRA banner at 44.1-45.0 is a clean end card. Optional 'who fed jinx' chat gag at about 48-50 (bottom-left)."
+  },
+  {
+   "file": "League-of-Legends__2026-07-20__02-14-08.mp4",
+   "champion": "Jinx (dark purple skin; player Art3m1s)",
+   "map": "ARAM (Howling Abyss)",
+   "summary": "A huge brawl at the enemy inhibitor/tower: Jinx gets a quadra kill (last on Ezreal) and the team aces, surrounded by a giant pink-claw champion and a red dragon-form champion.",
+   "hype": 7,
+   "readability": 3,
+   "spectacle": 8,
+   "best_in": 42.9,
+   "best_out": 48.4,
+   "kills": [
+    {
+     "marker": 43.03,
+     "est_t": 43.9,
+     "x": 0.45,
+     "y": 0.35,
+     "confidence": "high",
+     "note": "Gold 889->1046 between 43.8 and 44.0; '466' crit at 43.5. 'You have slain an enemy' banner at about 44.0."
+    },
+    {
+     "marker": 46.03,
+     "est_t": 46.1,
+     "x": 0.6,
+     "y": 0.37,
+     "confidence": "medium",
+     "note": "Gold 1073->1182 between 46.0 and 46.2; '+102' pop. DOUBLE banner at 46.6."
+    },
+    {
+     "marker": 47.03,
+     "est_t": 47.85,
+     "x": 0.44,
+     "y": 0.2,
+     "confidence": "medium",
+     "note": "Gold 1202->1302 between 47.7 and 47.95; '+100' pop near the top. TRIPLE banner is queued to 49.3."
+    },
+    {
+     "marker": 52.03,
+     "est_t": 52.1,
+     "x": 0.52,
+     "y": 0.3,
+     "confidence": "high",
+     "note": "Ezreal, the quadra. Gold 1439->1607 between 52.0 and 52.2. QUADRA banner at 52.2. ACE banner at 55.0."
+    }
+   ],
+   "low_hp": "",
+   "camera": "Locked and centred on Jinx, mostly steady. The action fills the middle of the screen, but several huge champion models overlap.",
+   "issues": "Very chaotic: a giant pink-claw champion covers the middle from 43 to 47, a red dragon-form champion covers the top from 48 to 54, and pink/blue effects everywhere. Jinx is hard to find. TRIPLE and QUADRA banners are queued. The user opens the Tab scoreboard at about 57.5. HP stays above 60%.",
+   "best_use": "star",
+   "editor_notes": "Use as a quick flash in the star run: 42.9-48.4 holds 3 kills (43.9, 46.1, 47.85) with banners, or 51.4-55.3 holds kill 4 at 52.1, the QUADRA banner and the ACE banner at 55.0. Don't zoom much (the action is spread out). Good for colour and chaos, poor for following who dies."
+  },
+  {
+   "file": "League-of-Legends__2026-07-23__15-53-17.mp4",
+   "champion": "Viego (player Art3m1s; possesses enemies after kills)",
+   "map": "Summoners Rift (enemy base at about 40 min, post-Baron, Hextech soul)",
+   "summary": "A late-game push into the enemy base: Viego gets a killing spree and a double kill on Locke while turrets fall, the team aces, and he adds one more kill at the nexus turrets.",
+   "hype": 5,
+   "readability": 6,
+   "spectacle": 7,
+   "best_in": 36.7,
+   "best_out": 42.4,
+   "kills": [
+    {
+     "marker": 36.98,
+     "est_t": 37.7,
+     "x": 0.5,
+     "y": 0.36,
+     "confidence": "high",
+     "note": "Gold 2276->2420 between 37.6 and 37.8. 'Art3m1s is on a killing spree' banner at 38.0. Viego possesses the pink-haired victim by 39.0."
+    },
+    {
+     "marker": 40.98,
+     "est_t": 41.5,
+     "x": 0.5,
+     "y": 0.37,
+     "confidence": "high",
+     "note": "Locke, the double. Gold +421 between 41.4 and 41.6; big purple-pink Viego R burst at 41.3 and a '+420' pop. DOUBLE banner queued to 44.0 behind 'Enemy turret destroyed'."
+    },
+    {
+     "marker": 48.98,
+     "est_t": 48.7,
+     "x": 0.62,
+     "y": 0.48,
+     "confidence": "high",
+     "note": "A separate kill after the ACE. Gold +308 between 48.6 and 48.8; '830' crit at 48.5."
+    }
+   ],
+   "low_hp": "",
+   "camera": "Steady and centred. The enemy base's red crystal turrets sit top-centre and the fights happen just below them (y 0.35-0.5).",
+   "issues": "Only a double kill in multikill terms; the kills are spread over 11 s. The HUD portrait keeps changing as Viego possesses enemies. The 'Enemy turret destroyed' and ACE banners hold the top-centre. Busy with minions and allies. HP lowest about 793/2664 at 49.",
+   "best_use": "hunt",
+   "editor_notes": "Good HUNT material: 36.7-42.4 has kill 1 at 37.7, then the turret falls, then Viego R lands a big purple explosion at 41.3 and kill 2 at 41.5. The red crystal base gives a strong 'enemy territory' backdrop. The objective at about 9 s (ally takes the Hextech Drake) could serve as an ominous intro alternative, but I didn't inspect it."
+  },
+  {
+   "file": "League-of-Legends__2026-07-24__03-03-11.mp4",
+   "champion": "Xin Zhao (white-haired skin; player Art3m1s)",
+   "map": "ARAM (Ionian-style bridge map: purple ground, pink and blue trees)",
+   "summary": "Xin Zhao gets a full PENTAKILL plus the ace: Warwick double, Tahm Kench triple, Quinn quadra 0.3 s later, then Nasus for the penta.",
+   "hype": 9,
+   "readability": 7,
+   "spectacle": 7,
+   "best_in": 41.9,
+   "best_out": 53,
+   "kills": [
+    {
+     "marker": 33.82,
+     "est_t": 33.38,
+     "x": 0.6,
+     "y": 0.34,
+     "confidence": "high",
+     "note": "Gold 603->717 between 33.3 and 33.45. 'You have slain an enemy' banner at 33.6."
+    },
+    {
+     "marker": 42.82,
+     "est_t": 42.52,
+     "x": 0.5,
+     "y": 0.33,
+     "confidence": "high",
+     "note": "Warwick, the double. Gold 882->1010 between 42.45 and 42.6. DOUBLE banner at 42.6."
+    },
+    {
+     "marker": 45.82,
+     "est_t": 45.58,
+     "x": 0.53,
+     "y": 0.32,
+     "confidence": "high",
+     "note": "Tahm Kench, the triple. Gold 1050->1198 between 45.5 and 45.65; '+142' pop and '501'/'596' crits. TRIPLE banner at 45.7."
+    },
+    {
+     "marker": 45.82,
+     "est_t": 45.88,
+     "x": 0.58,
+     "y": 0.43,
+     "confidence": "high",
+     "note": "Quinn, the quadra. It has no SteelSeries marker of its own. Gold 1198->1398 between 45.75 and 45.95; '+200' pop. Its QUADRA banner is queued to 48.5, so don't sync it there."
+    },
+    {
+     "marker": 51.82,
+     "est_t": 51.52,
+     "x": 0.55,
+     "y": 0.42,
+     "confidence": "high",
+     "note": "Nasus, the penta. Gold 1472->1773 between 51.45 and 51.6. PENTAKILL banner fades in at 51.6, with a big yellow burst at 51.8."
+    }
+   ],
+   "low_hp": "",
+   "camera": "Locked on Xin, steady. It drifts a little as he moves. The fight stays in the centre or upper-centre (x 0.5-0.6, y 0.3-0.45).",
+   "issues": "Kill 1 is 9 s before the rest, and there's a 5.6 s lull between the quadra (45.88) and the penta (51.52). The QUADRA banner lags its kill by 2.6 s. A large dark mechanical champion model sits left of centre from 47 to 52. HP stays above 35%.",
+   "best_use": "finale",
+   "editor_notes": "Best FINALE pick in this batch. 42.52 -> 45.58/45.88 (two kills 0.3 s apart) -> 51.52 penta fits the 9.1 s section if you trim or ramp the 46.5-50.8 lull. End on the PENTAKILL banner and yellow burst at 51.6-52.8. Zoom about 1.3x on (0.55,0.38). Optional: flash-cut the first kill (33.38) at the start of the section."
+  },
+  {
+   "file": "League-of-Legends__2026-03-02__23-46-55.mp4",
+   "champion": "Quinn",
+   "map": "ARAM (pink/purple blossom bridge map, single-lane minimap)",
+   "summary": "Early ARAM fight (4:19 game time): Quinn crits an enemy for 999 with a LEVEL UP pop, then picks off Akshan and a third enemy in the middle of the bridge for a clean triple kill. Kill times come from the KDA counter (0/2/9 to 3/2/9).",
+   "hype": 6,
+   "readability": 6,
+   "spectacle": 6,
+   "best_in": 47.9,
+   "best_out": 54.8,
+   "kills": [
+    {
+     "marker": 48.94,
+     "est_t": 48.9,
+     "x": 0.49,
+     "y": 0.4,
+     "confidence": "high",
+     "note": "KDA 0->1 between 48.80 and 49.00; big orange 999/210 crit numbers plus LEVEL UP at 48.95"
+    },
+    {
+     "marker": 51.94,
+     "est_t": 52.1,
+     "x": 0.6,
+     "y": 0.47,
+     "confidence": "high",
+     "note": "KDA 1->2 between 52.00 and 52.20; Okinawan Clapper (Akshan) dies right of centre, DOUBLE KILL banner at 52.4"
+    },
+    {
+     "marker": 53.94,
+     "est_t": 53.9,
+     "x": 0.48,
+     "y": 0.58,
+     "confidence": "high",
+     "note": "KDA 2->3 between 53.80 and 54.00; fiery explosion just below centre (BurntNoodles); TRIPLE KILL banner shows up late, around 55.2"
+    }
+   ],
+   "low_hp": "",
+   "camera": "steady, follows Quinn; fight sits in the middle of the screen, slightly left",
+   "issues": "Kill-feed/chat text block on the left third; a fairly busy blob of allies and minions around kill 3; the user died earlier in the clip (20.9, outside the window); early-game damage numbers are small apart from the 999 crit",
+   "best_use": "hunt",
+   "editor_notes": "Best single moment is the 999 crit + LEVEL UP pop at 48.95, a good zoom/punch-in target at (0.50, 0.42). Kills are 3.2 s then 1.8 s apart, which suits the build-up beats in hunt. Could also cover a 'star' slot if trimmed to 51.6-54.4 (kills 2+3)."
+  },
+  {
+   "file": "League-of-Legends__2026-03-20__00-52-41.mp4",
+   "champion": "Ashe",
+   "map": "ARAM (dark wooden docks bridge, Butcher's Bridge style)",
+   "summary": "Ashe gets a kill on the right at 32.9 and kills Kalista at 34.1 for a double. Then an enemy's giant red rocket ult tears across the screen and drops her from 878 to 69 HP. More damage leaves her at 3 HP, and she survives for about 6 s.",
+   "hype": 7,
+   "readability": 6,
+   "spectacle": 8,
+   "best_in": 32.2,
+   "best_out": 36.8,
+   "kills": [
+    {
+     "marker": 32.81,
+     "est_t": 32.9,
+     "x": 0.61,
+     "y": 0.42,
+     "confidence": "high",
+     "note": "KDA 10->11 between 32.80 and 33.00; +183 gold and 952 damage numbers right of centre where the red rocket first emerges"
+    },
+    {
+     "marker": 33.81,
+     "est_t": 34.1,
+     "x": 0.43,
+     "y": 0.27,
+     "confidence": "high",
+     "note": "KDA 11->12 between 34.00 and 34.20; Craftyboy (Kalista) dies upper-centre (chat: Art3m1s (Ashe) has slain Craftyboy (Kalista) for a double kill); DOUBLE KILL banner by 35.2"
+    }
+   ],
+   "low_hp": "34.4-34.6: the giant red rocket hits Ashe, HP 878 -> 69/2305. 35.2: down to 3/2305 HP. She stays at 3-15 HP from 35.2 to ~41.4 and survives (back to 41+ HP around 42.0). Perfect near-death beat.",
+   "camera": "steady, follows Ashe (left of centre); kill 1 is on the right side, kill 2 near the top",
+   "issues": "Dark, low-contrast map; minions and allies clutter the lower left; chat block appears on the left around 35.2; an 'Ally slain' banner shows from 33.0; the user dies later in the clip (53.8, well outside the window)",
+   "best_use": "fall",
+   "editor_notes": "Built for the fall section. Slow-mo 34.2-35.4: the red rocket sweeps across the frame (spectacular) while the HP bar crashes to 69 and then 3. Zoom on Ashe at about (0.42, 0.33) around 34.6-35.2 and consider punching into the HP bar (bottom centre) reading 3/2305. Both kills come before the rocket hit, so cut kill 2 (34.1) right into the rocket sweep. A 3/2305 freeze-frame is a strong 'still alive' gag."
+  },
+  {
+   "file": "League-of-Legends__2026-03-20__02-22-06.mp4",
+   "champion": "Kayle",
+   "map": "ARAM (pink blossom bridge map; fight at the enemy base turret)",
+   "summary": "Level-18 Kayle dives the enemy base with her team. She gets a double kill at 44.3 and 46.3 through heavy ult VFX as a turret falls, then finishes the team's ace with a big gold explosion at 56.6. KDA goes 13/11/42 to 16/11/42.",
+   "hype": 5,
+   "readability": 4,
+   "spectacle": 8,
+   "best_in": 43.4,
+   "best_out": 47,
+   "kills": [
+    {
+     "marker": 43.91,
+     "est_t": 44.3,
+     "x": 0.4,
+     "y": 0.5,
+     "confidence": "high",
+     "note": "KDA 13->14 between 44.20 and 44.40; bright white-gold burst left of centre"
+    },
+    {
+     "marker": 45.91,
+     "est_t": 46.3,
+     "x": 0.53,
+     "y": 0.31,
+     "confidence": "high",
+     "note": "KDA 14->15 between 46.20 and 46.40; +109 gold and 96 numbers upper-centre; 'Enemy turret destroyed' banner at the same moment"
+    },
+    {
+     "marker": 55.91,
+     "est_t": 56.6,
+     "x": 0.58,
+     "y": 0.47,
+     "confidence": "high",
+     "note": "KDA 15->16 between 56.45 and 56.70; big yellow explosion with +100 gold right of centre; this kill is the team's ace (chat)"
+    }
+   ],
+   "low_hp": "",
+   "camera": "steady, follows Kayle near centre; framing shifts as she moves around the turret",
+   "issues": "Very busy: many overlapping ult beams and purple/black area effects from allies, so it's hard to see who dies. Kill 3 is 10 s after kill 2, so it's really a double kill plus a separate ace kill, not a fluent triple. Several 'Ally slain' banners. DOUBLE KILL banner shows up late (around 49.5).",
+   "best_use": "star",
+   "editor_notes": "Use 43.4-47.0 as a short, flashy double-kill burst (the light-beam pillar at 44.7-45.4 is the visual peak). The ace kill at 56.6 (yellow flash at 0.58, 0.47) works as its own 1.5 s insert (55.9-57.2). Don't try to run it as one triple. The low readability means short cuts are better than slow-mo."
+  },
+  {
+   "file": "League-of-Legends__2026-04-05__23-02-29.mp4",
+   "champion": "Kai'Sa",
+   "map": "Summoners Rift (mid jungle, 13:00)",
+   "summary": "Undefeated Kai'Sa (10/0 going to 13/0) shuts down Rammus at 50.5, then kills IronSide at 53.9 as an ally Lux's giant Final Spark laser crosses the screen. She runs down a fleeing Lost Disciple at 55.7 for a triple kill.",
+   "hype": 6,
+   "readability": 6,
+   "spectacle": 7,
+   "best_in": 49.6,
+   "best_out": 56.4,
+   "kills": [
+    {
+     "marker": 49.74,
+     "est_t": 50.5,
+     "x": 0.46,
+     "y": 0.48,
+     "confidence": "high",
+     "note": "KDA 10->11 between 50.40 and 50.60 (marker is ~0.8 s early); +525 shutdown gold on Rammus, centre; SHUT DOWN banner around 51.6"
+    },
+    {
+     "marker": 53.74,
+     "est_t": 53.9,
+     "x": 0.43,
+     "y": 0.28,
+     "confidence": "high",
+     "note": "KDA 11->12 between 53.80 and 54.00; +354 gold upper-centre (IronSide); Lux laser charging line through the frame"
+    },
+    {
+     "marker": 54.74,
+     "est_t": 55.7,
+     "x": 0.61,
+     "y": 0.19,
+     "confidence": "high",
+     "note": "KDA 12->13 between 55.60 and 55.80 (marker ~1 s early); small +71 pop near the top edge as Lost Disciple dies fleeing; TRIPLE KILL banner around 56.7"
+    }
+   ],
+   "low_hp": "",
+   "camera": "steady, Kai'Sa near centre; kill 3 happens near the top edge, next to the Mobalytics overlay",
+   "issues": "Mobalytics stats overlay plus gold-difference panel cover the top-right; dark jungle palette; the kill 3 pop is small and high in frame; kills spread over 5.2 s. Kai'Sa's lowest HP is about 20% (419/2062 at 53.0), so this is not a near-death moment.",
+   "best_use": "star",
+   "editor_notes": "Best moment: 54.0-55.0, when ally Lux's Final Spark fires across the whole screen right after kill 2. A great flash frame for a beat hit. For star, use 53.4-56.2 (kills 2+3, 1.8 s apart). Kill 1 (the shutdown at 50.5, centre, +525) works for hunt. The markers in this clip run 0.2-1.0 s early, so use the est_t values."
+  },
+  {
+   "file": "League-of-Legends__2026-04-07__20-25-23.mp4",
+   "champion": "Master Yi",
+   "map": "other (Brawl mode: green jungle map, team score bar at top centre)",
+   "summary": "Early Brawl game (2:55): Master Yi kills one enemy at 49.7. He drops to about 10% HP, then Alpha-Strikes Miss Fortune at 52.5 and a third enemy at 53.9 for a triple kill. KDA goes 2/0/1 to 5/0/1.",
+   "hype": 5,
+   "readability": 7,
+   "spectacle": 5,
+   "best_in": 48.9,
+   "best_out": 54.6,
+   "kills": [
+    {
+     "marker": 49.58,
+     "est_t": 49.7,
+     "x": 0.56,
+     "y": 0.42,
+     "confidence": "high",
+     "note": "KDA 2->3 between 49.60 and 49.80; golden beam plus +150 gold right of centre; 'killing spree' banner"
+    },
+    {
+     "marker": 51.58,
+     "est_t": 52.5,
+     "x": 0.57,
+     "y": 0.33,
+     "confidence": "high",
+     "note": "KDA 3->4 between 52.40 and 52.60 (marker ~0.9 s early); russkill2000 (Miss Fortune) dies, +150 gold, DOUBLE KILL banner at 52.6"
+    },
+    {
+     "marker": 53.58,
+     "est_t": 53.9,
+     "x": 0.6,
+     "y": 0.42,
+     "confidence": "high",
+     "note": "KDA 4->5 between 53.80 and 54.00; white flash plus +134 gold right of centre; TRIPLE KILL banner around 55.5"
+    }
+   ],
+   "low_hp": "51.0-52.4: Yi sits at 128-132/1219 HP (~10%). He kills Miss Fortune at 52.5 and levels up (412/1499), then dips again to 330 at 53.75.",
+   "camera": "steady, follows Yi, who stays near the centre/right of centre; bright, clean frame",
+   "issues": "Brawl is a casual mode and it's very early game, so the stakes feel low; Yi's Alpha Strike makes him vanish briefly; the Mobalytics overlay sits top right; the kill pops are fairly small",
+   "best_use": "hunt",
+   "editor_notes": "Clean, readable, bright footage. Good for the hunt build-up: kill 1 at 49.7 (golden beam), then the 10%-HP stretch at 51.0-52.4 into the MF kill at 52.5 (DOUBLE KILL banner). That stretch is a backup fall option if needed. Kills 2+3 at 52.5 and 53.9 (1.4 s apart) also work as a quick star insert (52.0-54.4). Zoom target around (0.58, 0.38)."
+  },
+  {
+   "file": "League-of-Legends__2026-02-03__01-32-22.mp4",
+   "champion": "Samira (red-haired skin; red 'S' style-rank icon above her bar, R ring)",
+   "map": "ARAM (Koeshin Bridge, Ionia variant)",
+   "summary": "Samira dives a 5v5 ARAM teamfight, pops her ult (big red-pink ring at ~52.9) and gets a triple kill in about 2 s inside a huge blob of allied ult effects. The top-right KDA goes 8 -> 11 between 52.9 and 55.6.",
+   "hype": 7,
+   "readability": 4,
+   "spectacle": 9,
+   "best_in": 50.2,
+   "best_out": 55.8,
+   "kills": [
+    {
+     "marker": 52.62,
+     "est_t": 53.15,
+     "x": 0.57,
+     "y": 0.4,
+     "confidence": "medium",
+     "note": "KDA 8->9 between 52.89 and 53.42; LEVEL UP pops at 52.62, ult ring at 52.87"
+    },
+    {
+     "marker": 53.62,
+     "est_t": 53.9,
+     "x": 0.56,
+     "y": 0.43,
+     "confidence": "high",
+     "note": "KDA 9->10 between 53.87 and 53.96; giant white '999' execute number at screen centre at 53.96"
+    },
+    {
+     "marker": 54.62,
+     "est_t": 55.3,
+     "x": 0.54,
+     "y": 0.37,
+     "confidence": "medium",
+     "note": "KDA 10->11 between 55.02 and 55.56, about 0.7 s after the marker. The DOUBLE KILL banner shows late (~54.4) because Ally-slain banners were queued ahead of it"
+    }
+   ],
+   "low_hp": "",
+   "camera": "Locked on Samira and mostly centred. It slides down-right as she dives (52.4-52.9), then holds steady on the fight.",
+   "issues": "Very chaotic: a big green-gold allied ult covers the bottom half from 51.3 to 53.4, damage numbers stack up, and Ally-slain banners hold the top centre until 54.1. The user dies at 58.6, after the window.",
+   "best_use": "drop",
+   "editor_notes": "Best sync hit: the R ring snapping open at ~52.87 (centre, x 0.55 y 0.45). Best punch-in or zoom: the oversized '999' at 53.96 (x 0.56, y 0.45). All 3 kills sit in a 2.2 s window, so it plays as one continuous burst. Use the KDA counter, not the banners, for timing. A light zoom (1.3x) on x 0.55 y 0.42 helps cut the clutter."
+  },
+  {
+   "file": "League-of-Legends__2026-02-18__22-23-35.mp4",
+   "champion": "Kai'Sa (Void Seeker beam, Icathian Rain missiles, purple wing plates)",
+   "map": "ARAM (purple, night-tinted bridge)",
+   "summary": "Kai'Sa dashes in with her ult, kills one enemy at a bush with Q missiles, then gets a second for a double kill, and dies about 1 s later at around 17.5 when the enemy team collapses on her.",
+   "hype": 3,
+   "readability": 6,
+   "spectacle": 5,
+   "best_in": 14.4,
+   "best_out": 16.9,
+   "kills": [
+    {
+     "marker": 15.19,
+     "est_t": 15.65,
+     "x": 0.41,
+     "y": 0.38,
+     "confidence": "medium",
+     "note": "KDA 14->15 between 15.38 and 15.85; Q missiles converge at 15.69, '387' crit at 15.85"
+    },
+    {
+     "marker": 16.18,
+     "est_t": 16.55,
+     "x": 0.42,
+     "y": 0.45,
+     "confidence": "medium",
+     "note": "KDA 15->16 between 16.32 and 16.79; +200 gold and '986' hit near Kai'Sa"
+    }
+   ],
+   "low_hp": "HP is full at both kills, then drains from 1962 to 0 between 16.3 and 17.5; she dies at ~17.5 (grey screen by 18.2). She does not survive.",
+   "camera": "Locked on the champion. It jumps once at ~14.6 when her ult dash relocates her. Steady after that.",
+   "issues": "Only a double kill, and the user dies right after (cut before 17.2). The Ally-slain banner sits top-centre the whole time, and the DOUBLE KILL banner only appears at 17.7 while she is already dead. The fight is sparse and smallish.",
+   "best_use": "hunt",
+   "editor_notes": "Use 14.4-16.9 as a quick hunt beat. The Void Seeker beam at 14.45-14.7 (a long cyan streak, centre-right) is a nice whoosh to cut on. End before 17.2 so the death does not show. Kills are in the upper-left-centre (x ~0.41)."
+  },
+  {
+   "file": "League-of-Legends__2026-02-19__22-40-42.mp4",
+   "champion": "Akali (Twilight Shroud dome, Shuriken Flip, Perfect Execution dashes; purple-swirl skin portrait)",
+   "map": "ARAM (Koeshin Bridge, Ionia variant)",
+   "summary": "Akali picks off a bountied enemy under her tower (SHUT DOWN!), then chases through the bridge with shroud and ult dashes for two more kills. That is a triple kill over about 5 s, shown by the TRIPLE KILL! banner at 55.9.",
+   "hype": 6,
+   "readability": 5,
+   "spectacle": 6,
+   "best_in": 48.2,
+   "best_out": 55,
+   "kills": [
+    {
+     "marker": 48.91,
+     "est_t": 49,
+     "x": 0.59,
+     "y": 0.5,
+     "confidence": "medium",
+     "note": "KDA 4->5 between 48.58 and 49.31; '311' hit at 48.91, +534 bounty gold at 49.16"
+    },
+    {
+     "marker": 50.91,
+     "est_t": 52.1,
+     "x": 0.6,
+     "y": 0.38,
+     "confidence": "medium",
+     "note": "The marker is about 1.2 s early. KDA 5->6 is between 51.51 and 52.24, and +443 gold shows over a falling enemy at 52.24. The 50.9 burst is an ult dash, not the kill"
+    },
+    {
+     "marker": 53.91,
+     "est_t": 54.2,
+     "x": 0.49,
+     "y": 0.37,
+     "confidence": "medium",
+     "note": "KDA 6->7 between 53.71 and 54.44; +185 gold at 54.44"
+    }
+   ],
+   "low_hp": "",
+   "camera": "Locked on Akali. It pans constantly as she flips and dashes across the bridge (up-left at 47-49, down-left at 50.7-51.5). The action stays roughly centred but the background slides a lot.",
+   "issues": "The kills are spread out (49.0, 52.1, 54.2), with roaming in between. Akali is small, and the shroud makes her hard to see. The camera pans away right after (55.9 shows mostly trees).",
+   "best_use": "hunt",
+   "editor_notes": "Kill 1 (shutdown under the tower, 48.6-49.3) is the cleanest single moment. For a tighter cut, use 51.3-54.7 (kills 2 and 3, 2.1 s apart). The SHUT DOWN! banner at 50.7 and the TRIPLE KILL! banner at 55.9 make good text hits. Ignore the marker at 50.91: the real kill 2 is at ~52.1."
+  },
+  {
+   "file": "League-of-Legends__2026-02-20__01-04-52.mp4",
+   "champion": "Samira (default-style skin with headwrap; 'S' style icon)",
+   "map": "ARAM (Koeshin Bridge, Ionia variant)",
+   "summary": "Samira cleans up a messy teamfight. She gets a kill at the top of the screen, ults (orange ring at 51.1), then chases two more enemies down the bridge for a triple kill (KDA 16 -> 19).",
+   "hype": 6,
+   "readability": 5,
+   "spectacle": 7,
+   "best_in": 49.9,
+   "best_out": 55.8,
+   "kills": [
+    {
+     "marker": 50.87,
+     "est_t": 50.7,
+     "x": 0.6,
+     "y": 0.3,
+     "confidence": "medium",
+     "note": "KDA 16->17 between 50.20 and 50.87; '743' hit with the enemy falling at 50.87; the R ring opens at 51.1"
+    },
+    {
+     "marker": 52.87,
+     "est_t": 53.1,
+     "x": 0.54,
+     "y": 0.35,
+     "confidence": "medium",
+     "note": "KDA 17->18 between 52.87 and 53.53; big '807' crit and '999' at 53.12. The 'You have slain an enemy!' banner (from kill 1) is up from 52.6"
+    },
+    {
+     "marker": 54.87,
+     "est_t": 55.2,
+     "x": 0.62,
+     "y": 0.3,
+     "confidence": "medium",
+     "note": "KDA 18->19 between 54.87 and 55.53; '650' at 55.12, +314 gold at 55.53. The DOUBLE KILL banner shows at ~55 (queued); no triple banner by 56.9"
+    }
+   ],
+   "low_hp": "",
+   "camera": "Follows Samira but drifts and re-centres a lot. The view shifts from the top-of-bridge fight (50-51.5) down to the centre circle (52-54) and then up-left to the tree area (54.6+), so the background changes noticeably between kills.",
+   "issues": "Kill 1 is in the upper third, inside a crowded blob. Champions are small, the multikill banners lag behind the real kills, and the chat log is busy at bottom-left.",
+   "best_use": "star",
+   "editor_notes": "The best single frame is the R ring at 51.12 (orange circle, x 0.6 y 0.35) with the '999' pop; it makes a great beat-hit. Kills 2 and 3 land about 2 s apart and are well centred. For a star run, cut 52.5-55.6. Trust the KDA counter over the banners."
+  },
+  {
+   "file": "League-of-Legends__2026-02-25__01-29-30.mp4",
+   "champion": "Viego (possesses enemies: Akali form ~35-42, a second enemy's form from ~43)",
+   "map": "ARAM (Butcher's Bridge, Bilgewater night map)",
+   "summary": "Viego gets a shutdown kill, possesses Akali, then reverts and gets two more kills about 2 s apart for a triple. Each kill swaps his body and HUD to the dead champion.",
+   "hype": 6,
+   "readability": 4,
+   "spectacle": 6,
+   "best_in": 40.8,
+   "best_out": 45.2,
+   "kills": [
+    {
+     "marker": 34.32,
+     "est_t": 34.7,
+     "x": 0.44,
+     "y": 0.45,
+     "confidence": "medium",
+     "note": "KDA 13->14 between 34.32 and 35.32; fiery explosion at 34.32, +200 gold at 35.32; then the SHUT DOWN! banner (36-39)"
+    },
+    {
+     "marker": 41.32,
+     "est_t": 41.9,
+     "x": 0.46,
+     "y": 0.42,
+     "confidence": "medium",
+     "note": "KDA 14->15 between 41.32 and 42.32; a purple possession mist and beam erupt at 42.32 with +200 gold"
+    },
+    {
+     "marker": 43.32,
+     "est_t": 43.9,
+     "x": 0.57,
+     "y": 0.48,
+     "confidence": "medium",
+     "note": "KDA 15->16 between 43.32 and 44.32; +200 gold at 44.32, DOUBLE KILL! banner up from 42.8"
+    }
+   ],
+   "low_hp": "Not during this chain (HP stays above ~50%). Unchecked: this low_health_kill clip also has a kill at ~54.3 and the user's death at ~55.3, which may be a low-HP kill right before dying.",
+   "camera": "Locked on Viego/champion and mostly centred. It moves steadily with him; no big jumps.",
+   "issues": "The dark Bilgewater map and small, busy figures make it hard to read. Kill 1 is 7 s before the other two, so only kills 2 and 3 work as a quick multikill. The HUD changes champion mid-clip, which is fine but may confuse non-players.",
+   "best_use": "hunt",
+   "editor_notes": "Best moment: the possession burst at ~42.3 (purple beam and mist, x 0.46 y 0.4), right after kill 2. Then the red-gold ring at 43.3-45.3 around kill 3. Brighten or grade it up; it is very dark. If the lead needs a 'fall' candidate, check 53-55.3 for the low-HP kill that this clip was triggered on."
+  },
+  {
+   "file": "League-of-Legends__2026-02-27__00-42-47.mp4",
+   "champion": "Ahri (pink-haired skin; Orb, Fox-Fire, Charm heart, Spirit Rush)",
+   "map": "ARAM (Koeshin Bridge, Ionia variant)",
+   "summary": "An 0/3/10 Ahri turns a fight with a quick triple kill in about 2.5 s, charming and orbing three enemies near the centre circle. The TRIPLE KILL! banner shows at 56.3.",
+   "hype": 6,
+   "readability": 7,
+   "spectacle": 5,
+   "best_in": 51.3,
+   "best_out": 56.4,
+   "kills": [
+    {
+     "marker": 52.49,
+     "est_t": 52.95,
+     "x": 0.65,
+     "y": 0.22,
+     "confidence": "medium",
+     "note": "KDA 0->1 between 52.69 and 53.29; red burst and +250 gold at the top-right of the fight at 53.29"
+    },
+    {
+     "marker": 53.49,
+     "est_t": 54.2,
+     "x": 0.58,
+     "y": 0.3,
+     "confidence": "medium",
+     "note": "KDA 1->2 between 53.89 and 54.49; +185 gold and LEVEL UP over Ahri at 54.49"
+    },
+    {
+     "marker": 55.49,
+     "est_t": 55.4,
+     "x": 0.63,
+     "y": 0.3,
+     "confidence": "medium",
+     "note": "KDA 2->3 between 55.09 and 55.69; a charmed (pink) enemy dies with +373 gold at 55.69"
+    }
+   ],
+   "low_hp": "",
+   "camera": "Locked on Ahri and steady. The view drifts gently down-left between 52 and 53 as she backs off, then holds. The fight stays upper-centre.",
+   "issues": "The effects are modest (no big ult explosion), and the kills sit in the upper third (y 0.2-0.3), near the top banner. Champions are fairly small. HP dips to about 52% but is never near death.",
+   "best_use": "star",
+   "editor_notes": "This is the cleanest and tightest triple of the batch: 3 kills in 2.5 s, with Ahri easy to follow. Use the KDA counter for exact beats (52.95 / 54.2 / 55.4). A 1.3x zoom centred on x 0.6 y 0.3 makes it pop. The TRIPLE KILL! banner at 56.3 is a good closing text hit. The big teal Spirit Rush ring at 51.5 makes a good entry."
+  },
+  {
+   "file": "League-of-Legends__2026-01-11__03-51-59.mp4",
+   "champion": "Jinx",
+   "map": "ARAM (Butcher's Bridge)",
+   "summary": "Jinx is in a messy teamfight around the bridge cannon, with fire explosions around 48-49 s. She gets a double kill at 50.3 and 52.3, then gets focused (HP 1630 -> 588 between 52.2 and 53.4) and dies at about 53.7. The third 'kill' at 55.1 lands while she is dead and the screen is grey.",
+   "hype": 5,
+   "readability": 4,
+   "spectacle": 6,
+   "best_in": 49.3,
+   "best_out": 53.5,
+   "kills": [
+    {
+     "marker": 49.77,
+     "est_t": 50.3,
+     "x": 0.53,
+     "y": 0.66,
+     "confidence": "high",
+     "note": "KDA 10->11 between 50.2 and 50.4; enemy outlined red at 50.3, +166 gold at 50.5"
+    },
+    {
+     "marker": 51.77,
+     "est_t": 52.3,
+     "x": 0.46,
+     "y": 0.68,
+     "confidence": "high",
+     "note": "KDA 11->12 between 52.2 and 52.4; +132 gold at 52.3; DOUBLE KILL banner from 52.5"
+    },
+    {
+     "marker": 54.77,
+     "est_t": 55.1,
+     "x": 0.45,
+     "y": 0.45,
+     "confidence": "medium",
+     "note": "posthumous: KDA 12->13 between 55.0 and 55.2 while Jinx is dead (grey screen). Time is solid, position is a guess"
+    }
+   ],
+   "low_hp": "52.6-53.6: HP falls 1188 -> 898 -> 588 of 2356 and she dies at about 53.7 (deaths 11->12, screen goes grey). She does not survive.",
+   "camera": "Follows Jinx, mostly steady with moderate panning. The fight sits in the lower-centre. Greyscale death screen from 53.7.",
+   "issues": "Heavy chat spam on the left. User dies at 53.7. Third kill happens while dead on a grey screen. Shop window covers the centre from about 56.0. Lots of minions and units crowd the fight.",
+   "best_use": "hunt",
+   "editor_notes": "Markers run about 0.5 s early here. The best single beat is the 52.3 double kill (DOUBLE KILL banner at 52.5); zoom to about (0.46, 0.68). The fire explosion at 48.7 makes a good lead-in. Cut before 53.6 so the grey death screen never shows, and avoid everything after 53.7."
+  },
+  {
+   "file": "League-of-Legends__2026-01-11__04-21-42.mp4",
+   "champion": "Ashe",
+   "map": "ARAM (Howling Abyss)",
+   "summary": "Ashe gets two kills at 10.7 and 14.15 in a crowded fight around the upper-left tower area, with golden beams flying around. Later she pokes at about 10% HP (281/2728) from 52 s and gets a long-range kill at 55.45 while still that low, then survives.",
+   "hype": 3,
+   "readability": 4,
+   "spectacle": 5,
+   "best_in": 9.8,
+   "best_out": 14.6,
+   "kills": [
+    {
+     "marker": 10.64,
+     "est_t": 10.67,
+     "x": 0.32,
+     "y": 0.36,
+     "confidence": "high",
+     "note": "KDA 11->12 between 10.6 and 10.7; pink burst at left, +184 gold at 10.8. Banner shows an unrelated SHUT DOWN!"
+    },
+    {
+     "marker": 13.64,
+     "est_t": 14.15,
+     "x": 0.5,
+     "y": 0.22,
+     "confidence": "medium",
+     "note": "KDA 12->13 between 14.0 and 14.2, inside a blob near the top; camera jumps right after"
+    },
+    {
+     "marker": 54.64,
+     "est_t": 55.45,
+     "x": 0.6,
+     "y": 0.35,
+     "confidence": "low",
+     "note": "low-HP kill: KDA 13->14 between 55.4 and 55.5 with Ashe at about 10% HP. The camera snaps at 55.4 and the victim isn't clearly visible"
+    }
+   ],
+   "low_hp": "From about 52 s to the clip end Ashe sits at about 10% HP (281-290/2728). She kills an enemy at 55.45 and survives, but the only sign on screen is the HUD bar.",
+   "camera": "Unlocked, pans a lot and jumps (big jump at 14.2-14.4, snap at 55.4). The action often sits near the top or left edge.",
+   "issues": "Banners are queued and stale (SHUT DOWN / 'You have slain an enemy' don't line up with her kills). Fights are small blobs near the frame edges. Chat on the left. The 52-56 low-HP section is spread-out poke with no clear target.",
+   "best_use": "hunt",
+   "editor_notes": "This is a weak clip; use it only as filler. If used: 10.67 kill at left (0.32, 0.36), then 14.15 at top-centre (0.5, 0.22), cutting before the 14.2 camera jump. Possible backup for 'fall' is 53.5-56.0 (10% HP kill at 55.45 with Ashe's crystal-arrow cast bar visible at 54.0), but it reads poorly without a HUD zoom on the HP bar."
+  },
+  {
+   "file": "League-of-Legends__2026-01-19__23-11-01.mp4",
+   "champion": "Lucian",
+   "map": "ARAM (Butcher's Bridge)",
+   "summary": "Lucian (KDA 6/19, team losing) takes a kill at 20.35 inside a huge orange hex dome with pink ribbons, then after 5 s of walking a second kill at 27.55 on the upper-right edge, which is announced as DOUBLE KILL. HP never goes below about 31%. The DOUBLE/TRIPLE KILL banners at 16-17 s belong to an enemy Miss Fortune.",
+   "hype": 4,
+   "readability": 5,
+   "spectacle": 7,
+   "best_in": 19.3,
+   "best_out": 21,
+   "kills": [
+    {
+     "marker": 20.02,
+     "est_t": 20.35,
+     "x": 0.55,
+     "y": 0.33,
+     "confidence": "high",
+     "note": "KDA 6->7 between 20.3 and 20.4; +121 gold and 486 damage at 20.4 inside the orange dome"
+    },
+    {
+     "marker": 27.02,
+     "est_t": 27.55,
+     "x": 0.85,
+     "y": 0.25,
+     "confidence": "high",
+     "note": "KDA 7->8 between 27.5 and 27.6; 581 damage and +167 gold near the right edge; DOUBLE KILL banner at 27.65"
+    }
+   ],
+   "low_hp": "",
+   "camera": "Pans with Lucian. The fight moves from upper-centre (20 s) to the upper-right edge (27.5 s). Mostly walking between 21 and 26.",
+   "issues": "Kills are 7 s apart with dead time between. The second kill is off to the right edge next to the scoreboard portraits. The 'low_health_kill' tag is misleading: HP is about 36% at the kill. The multikill banners at 16-17 s are an enemy's. Chat on the left.",
+   "best_use": "hunt",
+   "editor_notes": "The flashy shot is 19.6-20.8: the orange hex dome and pink swirl peak right on the 20.35 kill. Zoom to about (0.55, 0.33). If a second shot is needed, use 27.1-27.9 and re-centre the zoom right to about (0.8, 0.28) for the DOUBLE KILL. Skip 21-26."
+  },
+  {
+   "file": "League-of-Legends__2026-01-19__23-57-41.mp4",
+   "champion": "Master Yi",
+   "map": "ARAM (Howling Abyss)",
+   "summary": "Master Yi, with Highlander active ('Can't Be Slowed!'), takes a triple kill near the centre of the screen: 48.45, 52.15 (DOUBLE KILL plus level up) and 55.25 (TRIPLE KILL). He stays at 36-50% HP throughout.",
+   "hype": 6,
+   "readability": 6,
+   "spectacle": 5,
+   "best_in": 47.6,
+   "best_out": 56,
+   "kills": [
+    {
+     "marker": 48.78,
+     "est_t": 48.45,
+     "x": 0.52,
+     "y": 0.28,
+     "confidence": "high",
+     "note": "KDA 14->15 between 48.4 and 48.5; +112 gold at 48.4; 'Art3m1s is on a killing spree' banner"
+    },
+    {
+     "marker": 51.78,
+     "est_t": 52.15,
+     "x": 0.52,
+     "y": 0.41,
+     "confidence": "high",
+     "note": "KDA 15->16 between 52.1 and 52.2; +200 gold and LEVEL UP at 52.2-52.3; DOUBLE KILL banner"
+    },
+    {
+     "marker": 54.78,
+     "est_t": 55.25,
+     "x": 0.5,
+     "y": 0.45,
+     "confidence": "high",
+     "note": "KDA 16->17 between 55.2 and 55.3; +200 gold at 55.3, dead centre; TRIPLE KILL banner around 55.4-56"
+    }
+   ],
+   "low_hp": "",
+   "camera": "Mostly centred on Yi, with one big recentre snap between 51.8 and 51.9.",
+   "issues": "Kills are about 3.5 s apart, so it is a steady triple rather than a burst. Yi's effects are modest (no huge explosions). A purple ground circle (an ally's zone) sits under the fight. Chat on the left.",
+   "best_use": "star",
+   "editor_notes": "Cleanest centred multikill of this batch. The best single beat is 55.25 at dead centre (0.5, 0.45) with TRIPLE KILL following. For a fast star cut, take three short hits: 48.1-48.7, 51.9-52.5 (cut through the 51.85 camera snap), and 54.95-55.6. The +200 gold pop-ups land about 0.05 s after each kill."
+  },
+  {
+   "file": "League-of-Legends__2026-01-28__01-37-56.mp4",
+   "champion": "Malphite",
+   "map": "ARAM-style single lane, pink spirit-blossom variant (not Howling Abyss)",
+   "summary": "AP Malphite gets a kill at 33.85 with a blue pillar and huge orange explosions, then a second at 43.75 (DOUBLE KILL). Right after, his HP drops to about 15% (446/3034) and stays there. He gets another kill at 54.95 while still at 15%, and his team gets an ACE at about 56.",
+   "hype": 5,
+   "readability": 5,
+   "spectacle": 7,
+   "best_in": 53.6,
+   "best_out": 56.3,
+   "kills": [
+    {
+     "marker": 33.37,
+     "est_t": 33.85,
+     "x": 0.47,
+     "y": 0.55,
+     "confidence": "high",
+     "note": "KDA 17->18 between 33.8 and 33.9; 'You have slain an enemy' plus a big orange explosion and blue pillar at 33.9-34.1"
+    },
+    {
+     "marker": 43.37,
+     "est_t": 43.75,
+     "x": 0.6,
+     "y": 0.4,
+     "confidence": "high",
+     "note": "KDA 18->19 between 43.7 and 43.8; +200 gold at 43.9; DOUBLE KILL banner at 43.9"
+    },
+    {
+     "marker": 55.37,
+     "est_t": 54.95,
+     "x": 0.62,
+     "y": 0.33,
+     "confidence": "medium",
+     "note": "low-HP kill: KDA 19->20 between 54.9 and 55.0 with Malphite at 452/3034 (15%); ACE banner from about 56.0"
+    }
+   ],
+   "low_hp": "HP drops from about 1066 to 463/3034 at 44.0-44.4 and stays around 15% until the clip ends. He gets a kill at 54.95 at 15% HP, the team ACEs at 56, and he survives. Only the HUD bar shows it (no red screen).",
+   "camera": "Pans steadily with Malphite. The fights sit in the upper-middle.",
+   "issues": "A 'Connect to League Voice' popup sits at right-centre above the minimap. Chat on the left. Fights are colourful but cluttered. The 33.85 and 43.75 kills are 10 s apart. Low HP is only visible on the HUD.",
+   "best_use": "fall",
+   "editor_notes": "For 'fall': 53.6-56.3, with the slow-mo landing on the 54.95 kill at about (0.62, 0.33). A HUD inset or zoom on the HP bar (bottom-centre, 452/3034) sells the near-death. Alternative 'hunt' shot: 33.3-34.3. The 33.9-34.1 explosion with the blue pillar is the most spectacular frame in this clip; zoom to about (0.47, 0.55). Markers vary by about 0.5 s in both directions."
+  },
+  {
+   "file": "League-of-Legends__2026-01-29__02-44-41.mp4",
+   "champion": "Sejuani",
+   "map": "ARAM (Butcher's Bridge)",
+   "summary": "A giant 36k-HP Sejuani gets a slow triple kill: 38.45 ('is legendary!'), 45.05 (DOUBLE KILL, then a big green Winter's Wrath swirl), and 52.65 (TRIPLE KILL near the tower). She is never in danger.",
+   "hype": 5,
+   "readability": 7,
+   "spectacle": 6,
+   "best_in": 44.2,
+   "best_out": 45.9,
+   "kills": [
+    {
+     "marker": 38.17,
+     "est_t": 38.45,
+     "x": 0.55,
+     "y": 0.36,
+     "confidence": "high",
+     "note": "KDA 18->19 between 38.4 and 38.5; +200 gold and 714 damage at 38.5; 'Art3m1s is legendary!' banner"
+    },
+    {
+     "marker": 45.17,
+     "est_t": 45.05,
+     "x": 0.57,
+     "y": 0.38,
+     "confidence": "high",
+     "note": "KDA 19->20 between 45.0 and 45.1; +200 gold at 45.1; green swirl bursts at 45.3-45.5; DOUBLE KILL"
+    },
+    {
+     "marker": 52.17,
+     "est_t": 52.65,
+     "x": 0.57,
+     "y": 0.2,
+     "confidence": "high",
+     "note": "KDA 20->21 between 52.6 and 52.7; 1415 damage and +108 gold near the top as Sejuani charges up; TRIPLE KILL banner"
+    }
+   ],
+   "low_hp": "",
+   "camera": "Centred on the huge Sejuani model and recentres between kills. Easy to follow.",
+   "issues": "Kills are about 7 s apart, so it's a slow triple with walking between. A tank kill feels less 'rock star' than a carry. Chat on the left.",
+   "best_use": "hunt",
+   "editor_notes": "The best single beat is 45.05 followed by the green Winter's Wrath swirl at 45.3-45.5 (big, centred, about (0.57, 0.38)). The 37.8-38.9 kill with the purple slash and 'legendary' banner also reads cleanly. The model is large, so a light zoom (1.2x) is enough. Don't use it as a rapid 'star' chain: the gaps are too long."
+  }
+ ]
+}

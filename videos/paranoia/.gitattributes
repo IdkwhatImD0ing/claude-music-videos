@@ -1,0 +1,2 @@
+# shell scripts run on Linux cloud machines: never check them out with CRLF
+*.sh text eol=lf
